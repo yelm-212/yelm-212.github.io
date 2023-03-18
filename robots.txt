@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yelm-212.github.io/sitemap.xml
