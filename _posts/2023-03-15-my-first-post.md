@@ -1,5 +1,4 @@
 ---
-layout : post
 title:  "My first post"
 excerpt: "this is my first post on git blog"
 
