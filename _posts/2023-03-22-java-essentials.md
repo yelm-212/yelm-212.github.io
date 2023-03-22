@@ -15,7 +15,7 @@ last_modified_at: 2023-03-22
 
 ---
 
-#   접근제어자
+# 접근제어자
 
 변수나 메서드의 사용 권한에 대해 접근 제어자를 사용하여 설정할수 있다.
 `private -> default -> protected -> public` 순으로 보다 많은 접근을 허용한다.

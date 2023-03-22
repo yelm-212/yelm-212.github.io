@@ -14,8 +14,7 @@ date: 2023-03-22
 last_modified_at: 2023-03-22
 
 ---
-
-# `hashcode()` &`equals()`
+# Java `hashcode()` &`equals()`
 - 자바의 모든 객체는 `Object` 클래스에 정의된 두 함수를 상속받는다.
 - `equals()` : 
 	- 2개의 객체가 동일한지 (참조하는 것이 동일한지 여부를 확인함
