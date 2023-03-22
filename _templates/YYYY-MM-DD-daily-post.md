@@ -1,0 +1,24 @@
+---
+title:  "{{date}} Daily Post"
+excerpt: "description"
+
+categories:
+  - Blog
+tags:
+  - [Blog, jekyll, TIL, Daily]
+
+toc: true
+toc_sticky: true
+ 
+date: {{date}}
+last_modified_at: {{date}}
+
+---
+
+# Daily TODO
+- [x] [데일리 코딩](https://urclass.codestates.com/classroom/33)
+- [x] [알고리즘 한문제 풀기]()
+- [ ] 
+## 메모 : 
+
+
