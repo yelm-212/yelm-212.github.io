@@ -2,8 +2,6 @@
 title:  "[Java] String, List, Map"
 excerpt: "String, List, Map에 대해 학습한 내용을 정리하였습니다."
 
-categories:
-  - Java
 tags:
   - [Blog, CS, Java, string, list, map]
 

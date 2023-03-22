@@ -2,8 +2,6 @@
 title:  "[Java] JDK, JRE, JRM"
 excerpt: "JDK, JRE, JRM에 대해 학습한 내용을 정리하였습니다."
 
-categories:
-  - Java
 tags:
   - [Blog, CS, Java, JDK, JRE, JVM]
 

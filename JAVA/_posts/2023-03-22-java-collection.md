@@ -2,8 +2,6 @@
 title:  "[Java] Collection"
 excerpt: "Java의 컬렉션 프레임워크를 학습한 내용을 정리했습니다."
 
-categories:
-  - Java
 tags:
   - [Blog, CS]
 
