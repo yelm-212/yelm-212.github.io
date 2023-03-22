@@ -1,5 +1,5 @@
 ---
-title:  "{{date}} CS - "
+title:  "[Java] - "
 excerpt: "description"
 
 categories:
