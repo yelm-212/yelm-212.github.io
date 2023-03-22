@@ -37,11 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md",
+                "file": "_posts/2023-03-22-java-essentials.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "ad95f8c52ea672d5"
           },
           {
             "id": "6dc7a71fc3961df4",
@@ -57,6 +58,25 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "ad01ff8c824aaecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67aff8aafd99949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-03-22-java-essentials.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ad95f8c52ea672d5"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md",
+                "file": "_posts/2023-03-22-java-essentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md",
+                "file": "_posts/2023-03-22-java-essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md"
+                "file": "_posts/2023-03-22-java-essentials.md"
               }
             }
           }
@@ -184,8 +204,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe8991d2af90dfbd",
+  "active": "e67aff8aafd99949",
   "lastOpenFiles": [
+    "_posts/2023-03-22-string_list_map.md",
     "_posts/2023-03-22-OOP-essentials.md",
     "_posts/2023-03-22-non-linear(2).md",
     "_posts/2023-03-22-non-linear(1).md",
@@ -196,7 +217,6 @@
     "_posts/2023-03-22-daily.md",
     "_posts/2023-03-22-java-collection.md",
     "_posts/2023-03-22-mission.md",
-    "_posts/2023-03-22-string_list_map.md",
     "_templates/YYYY-MM-DD-CS-study.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "CHANGELOG.md",
