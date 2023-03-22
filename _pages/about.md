@@ -5,6 +5,8 @@ toc: true
 toc_sticky: true
 toc_label: "MYSELF"
 ---
+
+![icon](/assets/logo.ico/apple-touch-icon.png)
 # Who am i?
 - Yerim Shin
 - (Willing To Be...) Backend Engineer
