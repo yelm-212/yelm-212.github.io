@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-03-22-java-essentials.md",
+                "file": "_posts/2023-03-22-linear(1).md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md",
+                "file": "_posts/2023-03-22-linear(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md",
+                "file": "_posts/2023-03-22-linear(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-03-22-string_list_map.md"
+                "file": "_posts/2023-03-22-linear(1).md"
               }
             }
           }
@@ -173,17 +172,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7268bf83f447605f",
+  "active": "fe8991d2af90dfbd",
   "lastOpenFiles": [
     "_posts/2023-03-22-java-essentials.md",
-    "_posts/2023-03-22-jdk_jre_jvm.md",
-    "_posts/2023-03-22-java-collection.md",
-    "_posts/2023-03-15-my-first-post.md",
     "_posts/2023-03-22-string_list_map.md",
+    "_posts/2023-03-22-java-collection.md",
+    "_posts/2023-03-22-linear(1).md",
+    "_posts/2023-03-22-jdk_jre_jvm.md",
+    "_posts/2023-03-15-my-first-post.md",
     "_posts/2023-03-22-OOP-essentials.md",
     "_posts/2023-03-22-mission.md",
     "_posts/2023-03-22-non-linear(1).md",
-    "_posts/2023-03-22-linear(1).md",
     "_posts/2023-03-22-daily.md",
     "_posts/2023-03-22-non-linear(2).md",
     "_templates/YYYY-MM-DD-daily-post.md",
