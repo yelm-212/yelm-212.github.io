@@ -1,6 +1,6 @@
 ---
 title:  "{{date}} Daily Post"
-excerpt: "description"
+excerpt: "daily post"
 
 categories:
   - Blog
