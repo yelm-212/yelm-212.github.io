@@ -34,6 +34,8 @@ last_modified_at: 2023-03-22
 s1 == s2 // false
 s1.equals(s2)  // true
 ```
+
+
 # List
 Array과 유사하나, 리스트는 크기가 정해져 있지 않고 사이즈가 동적으로 변하는 배열
 ## ArrayList vs LinkedList
