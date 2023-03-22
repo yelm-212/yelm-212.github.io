@@ -1,14 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Introduce myself"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
- 
-date: {{date}}
-last_modified_at: {{date}}
-
 ---
 # Who am i?
 - Yerim Shin
