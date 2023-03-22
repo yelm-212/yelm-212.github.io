@@ -2,6 +2,8 @@
 title:  "[Java] 객체지향 정리"
 excerpt: "객체지향에 관련한 내용을 Java언어의 특성과 함께 정리하였습니다."
 
+categories:
+  - Java
 tags:
   - [Blog, CS, Java, OOP, SOLID, encapsulation, inheritence, polymorphism, abstraction]
 

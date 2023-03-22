@@ -2,6 +2,8 @@
 title:  "[Java] 자바 기초 "
 excerpt: "자바의 기초적인 내용에 대해 정리하였습니다."
 
+categories:
+  - Java
 tags:
   - [Blog, CS, 접근제어자, class, object, instance, overloading, overriding, primitive-type, reference-type, wrapper-class, abstract-class, interface, static, final, generic, stream]
 
