@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: single
 excerpt: "Introducing mysef"
 title: "About"
 layouts_gallery:
