@@ -45,12 +45,13 @@ last_modified_at: 2023-03-22
 | 상속              | 상속으로 연관되지 않은 타 클래스 혹은 동일 클래스에서 일어날 수 있다.                 | 상속에 의해 연관 관계가 생기는 하위 클래스에서만 일어날 수 있다.               | 
 
 #   Primitive type vs Reference type
+
 | Aspect      | Primitive Type                 | Reference Type                                        |
 | ----------- | ------------------------------ | ----------------------------------------------------- |
 | 정의        | 언어 자체에 내장된 데이터 타입 | 프로그래머 혹은 언어에 의해 정의된 복잡한 데이터 타입 |
 | 메모리 할당 | 스택                           | 힙                                                    |
-| Pass by     | 값 (Value)                     | 주소 (Reference).                                     | 
-| Null value  | null값 불가                    | null값 가능                                          |
+| Pass by     | 값 (Value)                     | 주소 (Reference)                                      |
+| Null value  | null값 불가                    | null값 가능                                           |
 
 ##  Call by Reference vs Call by Value
 
