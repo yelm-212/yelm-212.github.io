@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/_posts/2023-03-23-nonlinear(3).md",
+                "file": "Daily-Post/_posts/2023-03-23-daily.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/_posts/2023-03-23-nonlinear(3).md",
+                "file": "Daily-Post/_posts/2023-03-23-daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/_posts/2023-03-23-nonlinear(3).md",
+                "file": "Daily-Post/_posts/2023-03-23-daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/_posts/2023-03-23-nonlinear(3).md"
+                "file": "Daily-Post/_posts/2023-03-23-daily.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "4c0c2a933cae30f7",
   "lastOpenFiles": [
+    "JAVA/_posts/2023-03-23-nonlinear(3).md",
     "JAVA/_posts/2023-03-22-non-linear(2).md",
     "JAVA/_posts/2023-03-22-non-linear(1).md",
-    "JAVA/_posts/2023-03-23-nonlinear(3).md",
-    "Daily-Post/_posts/2023-03-23.md",
+    "Daily-Post/_posts/2023-03-23-daily.md",
     "Daily-Post/_posts/2023-03-22-daily.md",
     "_posts/2023-03-22-jdk_jre_jvm.md",
     "JAVA/_posts/2023-03-22-java-collection.md",
