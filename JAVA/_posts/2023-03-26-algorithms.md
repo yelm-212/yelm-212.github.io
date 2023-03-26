@@ -5,7 +5,7 @@ excerpt: "자주 언급되는 알고리즘에 대해 학습한 내용을 정리�
 categories:
   - Blog
 tags:
-  - [Blog, CS, algorithm, sorting-algorithm, binary-search, MST]
+  - [Blog, CS, algorithm, sorting-algorithm, binary-search, MST, prim, kruscal, bellmanFord, dijkstra]
 
 toc: true
 toc_sticky: true
