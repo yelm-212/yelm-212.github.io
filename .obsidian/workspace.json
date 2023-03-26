@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-23-daily.md",
+                "file": "Daily-Post/_posts/2023-03-24-daily.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-23-daily.md",
+                "file": "Daily-Post/_posts/2023-03-24-daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-23-daily.md",
+                "file": "Daily-Post/_posts/2023-03-24-daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-23-daily.md"
+                "file": "Daily-Post/_posts/2023-03-24-daily.md"
               }
             }
           }
@@ -149,15 +149,16 @@
   },
   "active": "4c0c2a933cae30f7",
   "lastOpenFiles": [
+    "Daily-Post/_posts/2023-03-23-daily.md",
+    "Daily-Post/_posts/2023-03-24-daily.md",
+    "JAVA/_posts/2023-03-22-jdk_jre_jvm.md",
+    "JAVA/_posts/2023-03-22-java-essentials.md",
+    "JAVA/_posts/2023-03-22-java-collection.md",
+    "Daily-Post/_posts/2023-03-22-daily.md",
     "JAVA/_posts/2023-03-23-nonlinear(3).md",
     "JAVA/_posts/2023-03-22-non-linear(2).md",
     "JAVA/_posts/2023-03-22-non-linear(1).md",
-    "Daily-Post/_posts/2023-03-23-daily.md",
-    "Daily-Post/_posts/2023-03-22-daily.md",
     "_posts/2023-03-22-jdk_jre_jvm.md",
-    "JAVA/_posts/2023-03-22-java-collection.md",
-    "JAVA/_posts/2023-03-22-java-essentials.md",
-    "JAVA/_posts/2023-03-22-jdk_jre_jvm.md",
     "_posts/2023-03-22-string_list_map.md",
     "JAVA/_posts/2023-03-22-linear(1).md",
     "JAVA/_posts/2023-03-22-string_list_map.md",
@@ -181,7 +182,6 @@
     "_posts/2023-03-22-non-linear(2).md",
     "_templates/YYYY-MM-DD-daily-post.md",
     "_templates/YYYY-MM-DD-CS-study.md",
-    "_templates/YYYY-MM-DD-algorithm.md",
     "Untitled",
     "_templates",
     "google63ab163e2388596e.html"
