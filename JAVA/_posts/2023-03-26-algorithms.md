@@ -1,6 +1,6 @@
 ---
 title:  "[Java] - 기본 알고리즘"
-excerpt: "description"
+excerpt: "알고리즘에 대해 학습한 내용을 정리하였습니다."
 
 categories:
   - Blog
