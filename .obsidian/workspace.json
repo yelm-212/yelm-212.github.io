@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reviews/_post/2023-03-28-careerskill.md",
+                "file": "Books/_posts/2023-03-28-careerskill.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviews/_post/2023-03-28-careerskill.md",
+                "file": "Books/_posts/2023-03-28-careerskill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reviews/_post/2023-03-28-careerskill.md",
+                "file": "Books/_posts/2023-03-28-careerskill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reviews/_post/2023-03-28-careerskill.md"
+                "file": "Books/_posts/2023-03-28-careerskill.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65a920ec98224beb",
+  "active": "565db31eb4ba4992",
   "lastOpenFiles": [
     "Daily-Post/_posts/2023-03-29-daily.md",
     "_posts/2023-03-22-mission.md",
     "Daily-Post/_posts/2023-03-28-daily.md",
-    "Reviews/_post/2023-03-28-careerskill.md",
+    "Books/_posts/2023-03-28-careerskill.md",
     "_templates/YYYY-MM-DD-daily-post.md",
     "assets/profile/default.JPG",
     "assets/profile/IMG_8178.JPG",
@@ -185,8 +185,8 @@
     "assets/IMG_8178.JPG",
     "_templates/YYYY-MM-DD-book-repo.md",
     "_posts/2023-03-28-.md",
-    "Reviews/_post",
-    "Reviews",
+    "Books/_posts",
+    "Books",
     "_templates/YYYY-MM-DD-CS-study.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "Daily-Post/_posts/2023-03-28.md",
