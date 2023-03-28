@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-28-daily.md",
+                "file": "_templates/YYYY-MM-DD-daily-post.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9cd2e85cf93273c1",
+  "active": "65a920ec98224beb",
   "lastOpenFiles": [
-    "Daily-Post/_posts/2023-03-29-12-00.md",
     "_templates/YYYY-MM-DD-daily-post.md",
+    "Reviews/_post/2023-03-28-chapter7-careerskill.md",
     "Daily-Post/_posts/2023-03-28-daily.md",
+    "Daily-Post/_posts/2023-03-29-12-00.md",
     "_posts/2023-03-22-mission.md",
-    "Reviews/_post/2023-03-28.md",
     "assets/profile/default.JPG",
     "assets/profile/IMG_8178.JPG",
     "assets/profile",
