@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "Yerim Shin"
-  avatar           : /assets/profile/default # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/profile/default.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "BE engineer"
   location         : "Korea"
   email            :
