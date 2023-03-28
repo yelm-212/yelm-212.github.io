@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-28-daily.md",
+                "file": "Reviews/_post/2023-03-28-careerskill.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-28-daily.md",
+                "file": "Reviews/_post/2023-03-28-careerskill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-28-daily.md",
+                "file": "Reviews/_post/2023-03-28-careerskill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-28-daily.md"
+                "file": "Reviews/_post/2023-03-28-careerskill.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "65a920ec98224beb",
   "lastOpenFiles": [
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "Reviews/_post/2023-03-28-chapter7-careerskill.md",
-    "Daily-Post/_posts/2023-03-28-daily.md",
-    "Daily-Post/_posts/2023-03-29-12-00.md",
+    "Daily-Post/_posts/2023-03-29-daily.md",
     "_posts/2023-03-22-mission.md",
+    "Daily-Post/_posts/2023-03-28-daily.md",
+    "Reviews/_post/2023-03-28-careerskill.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
     "assets/profile/default.JPG",
     "assets/profile/IMG_8178.JPG",
     "assets/profile",
