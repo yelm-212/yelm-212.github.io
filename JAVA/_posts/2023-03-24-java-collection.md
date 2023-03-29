@@ -1,5 +1,5 @@
 ---
-title:  "[Java] Collection"
+title:  "[Java] Collection Framework"
 excerpt: "Java의 컬렉션 프레임워크를 학습한 내용을 정리했습니다."
 
 tags:
@@ -8,7 +8,7 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-03-23
+date: 2023-03-24
 last_modified_at: 2023-03-24
 ---
 

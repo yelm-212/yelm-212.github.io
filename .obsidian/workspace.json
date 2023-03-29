@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/_posts/2023-03-29-net01.md",
+                "file": "JAVA/_posts/2023-03-24-java-collection.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/_posts/2023-03-29-net01.md",
+                "file": "JAVA/_posts/2023-03-24-java-collection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/_posts/2023-03-29-net01.md",
+                "file": "JAVA/_posts/2023-03-24-java-collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/_posts/2023-03-29-net01.md"
+                "file": "JAVA/_posts/2023-03-24-java-collection.md"
               }
             }
           }
@@ -151,9 +151,9 @@
   "active": "60addeeadb52a99c",
   "lastOpenFiles": [
     "Daily-Post/_posts/2023-03-29-daily-3.md",
+    "Daily-Post/_posts/2023-03-28-daily-2.md",
     "Network/_posts/2023-03-29-net01.md",
     "algorithm_codes/_posts/2023-03-29-boj1062.md",
-    "Daily-Post/_posts/2023-03-28-daily-2.md",
     "Daily-Post/images/join.png",
     "Daily-Post/images",
     "_templates/YYYY-MM-DD-daily-post.md",
