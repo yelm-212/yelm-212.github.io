@@ -7,5 +7,14 @@
       ],
       "key": "A"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

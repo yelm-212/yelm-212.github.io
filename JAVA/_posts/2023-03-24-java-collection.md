@@ -8,10 +8,10 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-03-22
-last_modified_at: 2023-03-22
-
+date: 2023-03-23
+last_modified_at: 2023-03-24
 ---
+
 # Java `hashcode()` &`equals()`
 - 자바의 모든 객체는 `Object` 클래스에 정의된 두 함수를 상속받는다.
 - `equals()` : 
