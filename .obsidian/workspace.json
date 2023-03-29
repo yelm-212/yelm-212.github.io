@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-29-daily-3.md",
+                "file": "JAVA/_posts/2023-03-23-non-linear(2).md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 302.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-29-daily-3.md",
+                "file": "JAVA/_posts/2023-03-23-non-linear(2).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-29-daily-3.md",
+                "file": "JAVA/_posts/2023-03-23-non-linear(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-29-daily-3.md"
+                "file": "JAVA/_posts/2023-03-23-non-linear(2).md"
               }
             }
           }
@@ -150,8 +150,14 @@
   },
   "active": "49fa0a53fef918c1",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2023-03-29-dailycode0.md",
     "Daily-Post/_posts/2023-03-29-daily-3.md",
+    "algorithm_codes/_posts/2023-03-29-dailycode0.md",
+    "books/_posts/2023-03-29-careerskill.md",
+    "books/_posts/2023-03-28-careerskill.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "_templates/YYYY-MM-DD-CS-study.md",
+    "_templates/YYYY-MM-DD-algorithm.md",
+    "_templates/YYYY-MM-DD-book-repo.md",
     "Daily-Post/_posts/2023-03-24-daily-1.md",
     "Daily-Post/_posts/2023-03-22-daily-0.md",
     "Daily-Post/_posts/2023-03-15-my-first-post.md",
@@ -160,15 +166,11 @@
     "Daily-Post/_posts/2023-03-23-daily-1.md",
     "algorithm_codes/_posts",
     "algorithm_codes",
-    "books/_posts/2023-03-28-careerskill.md",
-    "books/_posts/2023-03-29-careerskill.md",
     "Network/_posts",
     "Network",
     "JAVA/_posts/2023-03-24-java-collection.md",
-    "JAVA/_posts/2023-03-23-nonlinear(3).md",
+    "JAVA/_posts/2023-03-23-non-linear(2).md",
     "JAVA/_posts/2023-03-26-algorithms.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "_templates/YYYY-MM-DD-CS-study.md",
     "JAVA/_posts/2023-03-22-java-essentials.md",
     "_posts/2023-03-22-mission.md",
     "assets/profile/default.JPG",
@@ -176,11 +178,9 @@
     "assets/profile",
     "assets/untitled folder",
     "assets/IMG_8178.JPG",
-    "_templates/YYYY-MM-DD-book-repo.md",
     "_posts/2023-03-28-.md",
     "books/_posts",
     "books",
-    "_templates/YYYY-MM-DD-algorithm.md",
     "Daily-Post/_posts/2023-03-28.md",
     "_posts/2023-03-27.md",
     "JAVA/_posts/2023-03-22-jdk_jre_jvm.md",

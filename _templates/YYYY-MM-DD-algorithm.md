@@ -2,8 +2,6 @@
 title:  "{{date}} BOJ"
 excerpt: "description"
 
-categories:
-  - Blog
 tags:
   - [Blog, algorithm, BOJ]
 

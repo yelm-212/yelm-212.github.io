@@ -2,8 +2,6 @@
 title:  "[Java] - "
 excerpt: "description"
 
-categories:
-  - Blog
 tags:
   - [Blog, CS]
 
