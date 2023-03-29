@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "033038037e4b8c3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2386cd3967722e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily-Post/_posts/2023-03-29-daily-3.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "13a55ddca0455c1e",
         "type": "tabs",
         "children": [
@@ -35,7 +17,27 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "32936292e7ed43ec"
+          }
+        ]
+      },
+      {
+        "id": "90e274c81f083ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9865499f8f91531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily-Post/_posts/2023-03-29-daily-3.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "32936292e7ed43ec"
           }
         ]
       }
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -166,7 +168,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2386cd3967722e5",
+  "active": "d9865499f8f91531",
   "lastOpenFiles": [
     "algorithm_codes/_posts/2023-03-29-dailycode0.md",
     "Daily-Post/_posts/2023-03-29-daily-3.md",
