@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-03-29-boj1062.md",
+                "file": "books/_posts/2023-03-29-careerskill8.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-30-daily-4.md",
+                "file": "books/_posts/2023-03-29-careerskill8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-30-daily-4.md",
+                "file": "books/_posts/2023-03-29-careerskill8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily-Post/_posts/2023-03-30-daily-4.md"
+                "file": "books/_posts/2023-03-29-careerskill8.md"
               }
             }
           }
@@ -162,8 +162,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9075cf17ee3465e",
+  "active": "0d896d6892e9994e",
   "lastOpenFiles": [
+    "books/_posts/2023-03-28-careerskill7.md",
+    "books/_posts/2023-03-29-careerskill8.md",
     "algorithm_codes/_posts/2023-03-29-boj1062.md",
     "Daily-Post/_posts/2023-03-30-daily-4.md",
     "Network/_posts/2023-03-29-net01.md",
@@ -194,8 +196,6 @@
     "Daily-Post/images/join.png",
     "Daily-Post/images",
     "_templates/YYYY-MM-DD-daily-post.md",
-    "books/_posts/2023-03-29-careerskill.md",
-    "books/_posts/2023-03-28-careerskill.md",
     "_templates/YYYY-MM-DD-CS-study.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-book-repo.md",
