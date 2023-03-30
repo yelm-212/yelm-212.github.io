@@ -1,6 +1,6 @@
 ---
 title:  "[Java] Collection Framework"
-excerpt: "Java의 컬렉션 프레임워크를 학습한 내용을 정리했습니다."
+excerpt: "Java의 컬렉션 프레임워크를 학습한 내용을 정리했습니다."
 
 tags:
   - [Blog, CS]
@@ -11,7 +11,6 @@ toc_sticky: true
 date: 2023-03-24
 last_modified_at: 2023-03-24
 ---
-
 # Java `hashcode()` &`equals()`
 - 자바의 모든 객체는 `Object` 클래스에 정의된 두 함수를 상속받는다.
 - `equals()` : 

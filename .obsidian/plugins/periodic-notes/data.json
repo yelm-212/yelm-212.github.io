@@ -3,7 +3,7 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YYYY-MM-DD-hh-mm",
+    "format": "YYYY-MM-DD",
     "folder": "Daily-Post/_posts",
     "template": "_templates/YYYY-MM-DD-daily-post",
     "enabled": true
