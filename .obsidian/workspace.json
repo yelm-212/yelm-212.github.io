@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "257d3112255392da",
+        "id": "d034486c033ce588",
         "type": "tabs",
         "children": [
           {
-            "id": "60addeeadb52a99c",
+            "id": "d9075cf17ee3465e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Network/_posts/2023-03-29-net01.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "d52964c3c8a26ef8"
+          }
+        ]
+      },
+      {
+        "id": "362104177f26023a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffb56f7f93af3b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/_posts/2023-03-29-net01.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "d52964c3c8a26ef8"
           }
         ]
       }
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network/_posts/2023-03-29-net01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network/_posts/2023-03-29-net01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Network/_posts/2023-03-29-net01.md"
+              }
             }
           }
         ],
@@ -140,22 +168,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "565db31eb4ba4992",
+  "active": "d9075cf17ee3465e",
   "lastOpenFiles": [
-    "JAVA/_posts/2023-03-24-java_collection.md",
+    "attatchments/network01.jpg",
+    "attatchments/tcp.jpeg",
+    "attatchments/udp.jpeg",
+    "attatchments/IMG_68F2EC15E6A9-1.jpeg",
+    "attatchments/Pasted image 20230330201215.png",
+    "attatchments/osi_tcp-ip.png",
+    "Network/_posts/2023-03-29-net01.md",
+    "attachments/osi_tcp-ip.PNG.md",
+    "attachments",
+    "attatchments/R1280x0.png",
     "Daily-Post/_posts/2023-03-30-daily-4.md",
+    "attachtments/Screenshot 2023-03-30 at 5.53.22 PM.png.md",
+    "attachtments",
+    "screenshot.png",
+    "screenshot-layouts.png",
+    "attatchments",
     "Daily-Post/_posts/2023-03-29-daily-3.md",
-    "JAVA/_posts/2023-03-26-algorithms.md",
+    "algorithm_codes/_posts/2023-03-29-dailycode0.md",
+    "algorithm_codes/_posts/Untitled.md",
     "JAVA/_posts/2023-03-24-java-collection.md",
+    "JAVA/_posts/2023-03-24-java_collection.md",
+    "JAVA/_posts/2023-03-26-algorithms.md",
     "JAVA/_posts/2023-03-23-non-linear(2).md",
     "JAVA/_posts/2023-03-22-string_list_map.md",
     "Daily-Post/_posts/2023-03-28-daily-2.md",
-    "Network/_posts/2023-03-29-net01.md",
     "algorithm_codes/_posts/2023-03-29-boj1062.md",
     "Daily-Post/images/join.png",
     "Daily-Post/images",
     "_templates/YYYY-MM-DD-daily-post.md",
-    "algorithm_codes/_posts/2023-03-29-dailycode0.md",
     "books/_posts/2023-03-29-careerskill.md",
     "books/_posts/2023-03-28-careerskill.md",
     "_templates/YYYY-MM-DD-CS-study.md",
@@ -170,17 +213,8 @@
     "algorithm_codes",
     "Network/_posts",
     "Network",
-    "JAVA/_posts/2023-03-22-java-essentials.md",
-    "_posts/2023-03-22-mission.md",
     "assets/profile/default.JPG",
-    "assets/profile/IMG_8178.JPG",
     "assets/profile",
-    "assets/untitled folder",
-    "assets/IMG_8178.JPG",
-    "_posts/2023-03-28-.md",
-    "books/_posts",
-    "books",
-    "Daily-Post/_posts/2023-03-28.md",
-    "JAVA/_posts"
+    "assets/untitled folder"
   ]
 }
