@@ -21,6 +21,6 @@ last_modified_at: {{date}}
 - [x] [알고리즘 한문제 풀기](https://www.acmicpc.net/problem/)
 - [ ] 
 
-# 메모  & TIL: 
+# 메모 & TIL: 
 
 
