@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "89242db04910ea3d"
+            "group": "dd3774f63e0e9a1a"
           }
         ]
       },
       {
-        "id": "7bf0939203ca65c1",
+        "id": "e30b106fb403aef1",
         "type": "tabs",
         "children": [
           {
-            "id": "f1f2ab33b4ca68f8",
+            "id": "9e2145f5a7e08959",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "89242db04910ea3d"
+            "group": "dd3774f63e0e9a1a"
           }
         ]
       }
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
