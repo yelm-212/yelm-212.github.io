@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d034486c033ce588",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9075cf17ee3465e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/_posts/2023-03-29-net01.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5c923af5d5993076",
         "type": "tabs",
         "children": [
@@ -36,6 +18,87 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d13e8d92f86f5819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-03-30-dailycode1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bb3c31f2e0cd38bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-04-03-boj16948.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "35ff70b5c059c64b"
+          },
+          {
+            "id": "78108254fd022377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-04-03-boj16928.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5012d28800ffbcab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-04-03-boj14502.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d438980e8f72b286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-04-03-boj9019.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "d7d2b2d59b8dbfa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "829e56ad3aa2f877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-04-03-boj16948.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "35ff70b5c059c64b"
           }
         ]
       }
@@ -87,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -104,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/_posts/2023-03-29-net01.md",
+                "file": "algorithm_codes/_posts/2023-04-03-boj9019.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/_posts/2023-03-29-net01.md",
+                "file": "algorithm_codes/_posts/2023-04-03-boj9019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/_posts/2023-03-29-net01.md"
+                "file": "algorithm_codes/_posts/2023-04-03-boj9019.md"
               }
             }
           }
@@ -168,8 +230,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9075cf17ee3465e",
+  "active": "d438980e8f72b286",
   "lastOpenFiles": [
+    "algorithm_codes/_posts/2023-04-03-boj16948.md",
+    "algorithm_codes/_posts/2023-04-03-boj9019.md",
+    "algorithm_codes/_posts/2023-04-03-boj14502.md",
+    "algorithm_codes/_posts/2023-04-03-boj16928.md",
+    "_templates/YYYY-MM-DD-algorithm.md",
+    "algorithm_codes/_posts/2023-03-29-boj1062.md",
+    "algorithm_codes/_posts/2023-03-30-dailycode1.md",
+    "docker/_posts/2023-04-03-docker-week1.md",
     "network/_posts/2023-03-30-net02.md",
     "network/_posts/2023-03-29-net01.md",
     "Daily-Post/_posts/2023-04-03-daily-7.md",
@@ -189,7 +259,6 @@
     "attatchments/error01.png",
     "books/_posts/2023-03-29-careerskill8.md",
     "books/_posts/2023-03-28-careerskill7.md",
-    "algorithm_codes/_posts/2023-03-29-boj1062.md",
     "attatchments/network01.jpg",
     "attatchments/tcp.jpeg",
     "attatchments/udp.jpeg",
@@ -204,13 +273,6 @@
     "screenshot.png",
     "attatchments",
     "Daily-Post/_posts/2023-03-29-daily-3.md",
-    "algorithm_codes/_posts/2023-03-29-dailycode0.md",
-    "algorithm_codes/_posts/Untitled.md",
-    "JAVA/_posts/2023-03-24-java-collection.md",
-    "JAVA/_posts/2023-03-24-java_collection.md",
-    "JAVA/_posts/2023-03-26-algorithms.md",
-    "JAVA/_posts/2023-03-23-non-linear(2).md",
-    "JAVA/_posts/2023-03-22-string_list_map.md",
     "Daily-Post/images",
     "algorithm_codes/_posts",
     "algorithm_codes",

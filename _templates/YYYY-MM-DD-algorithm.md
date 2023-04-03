@@ -1,6 +1,6 @@
 ---
 title:  "{{date}} BOJ"
-excerpt: "description"
+excerpt: "백준  문제의 풀이입니다."
 
 tags:
   - [Blog, algorithm, BOJ]
