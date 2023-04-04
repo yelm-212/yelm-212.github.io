@@ -8,36 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45d2ade9d9a54fbc",
+            "id": "49ebe63705b28a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/_posts/2023-03-30-net02.md",
+                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "dd3774f63e0e9a1a"
-          }
-        ]
-      },
-      {
-        "id": "e30b106fb403aef1",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "9e2145f5a7e08959",
+            "id": "2be7e6a6b8bd6500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/_posts/2023-03-30-net02.md",
-                "mode": "preview",
+                "file": "_posts/Untitled.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "dd3774f63e0e9a1a"
+            }
           }
         ]
       }
@@ -89,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/_posts/2023-03-30-net02.md",
+                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/_posts/2023-03-30-net02.md",
+                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/_posts/2023-03-30-net02.md"
+                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md"
+              }
+            }
+          },
+          {
+            "id": "9e2145f5a7e08959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/YYYY-MM-DD-daily-post.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -170,13 +173,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "45d2ade9d9a54fbc",
+  "active": "49ebe63705b28a60",
   "lastOpenFiles": [
-    "docker/_posts/2023-04-03-docker-week1.md",
-    "attatchments/20230403210508.png",
+    "attatchments/dockerbuilds2.png",
+    "attatchments/dockerlocalhosts2.png",
+    "attatchments/dockerruns2.png",
+    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
+    "docker_k8s/_posts/2023-04-03-docker-sec01.md",
+    "attatchments/docker-stopped.png",
+    "attatchments/docker-ps.png",
+    "attatchments/docker-run.png",
+    "_posts/Untitled.md",
+    "attatchments/docker-run-chrome.png",
+    "attatchments/docker.png",
+    "plans_til/_posts/2023-04-04-daily-8.md",
+    "plans_til/_posts/2023-04-04-monthly.md",
     "network/_posts/2023-03-30-net02.md",
+    "network/_posts/2023-04-04-net03.md",
     "network/_posts/2023-03-29-net01.md",
-    "Daily-Post/_posts/2023-04-03-daily-7.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "_templates/YYYY-MM-DD-monthly-post.md",
+    "_templates/YYYY-MM-DD-CS-study.md",
+    "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
+    "attatchments/20230403210508.png",
+    "plans_til/_posts/2023-04-03-daily-7.md",
     "algorithm_codes/_posts/2023-03-30-dailycode1.md",
     "algorithm_codes/_posts/2023-04-03-boj16948.md",
     "algorithm_codes/_posts/2023-04-03-boj16928.md",
@@ -184,35 +204,18 @@
     "algorithm_codes/_posts/2023-04-03-boj9019.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "algorithm_codes/_posts/2023-03-29-boj1062.md",
-    "Daily-Post/_posts/2023-04-02-daily-6.md",
+    "plans_til/_posts/2023-04-02-daily-6.md",
     "_templates/YYYY-MM-DD-book-repo.md",
-    "_templates/YYYY-MM-DD-CS-study.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "docker/_posts",
-    "docker",
+    "docker_k8s/_posts",
+    "docker_k8s",
     "books/_posts/2023-04-01-careerskill9.md",
     "_pages/about.md",
     "_posts/2023-03-22-mission.md",
-    "Daily-Post/_posts/2023-03-31-daily-5.md",
-    "JAVA/_posts/2023-03-31-error1.md",
-    "attatchments/errorname.png",
-    "Daily-Post/_posts/2023-03-30-daily-4.md",
-    "attatchments/error01.png",
-    "books/_posts/2023-03-29-careerskill8.md",
-    "books/_posts/2023-03-28-careerskill7.md",
-    "attatchments/network01.jpg",
-    "attatchments/tcp.jpeg",
-    "attatchments/udp.jpeg",
-    "attatchments/IMG_68F2EC15E6A9-1.jpeg",
-    "attatchments/Pasted image 20230330201215.png",
-    "attatchments/osi_tcp-ip.png",
-    "attachments/osi_tcp-ip.PNG.md",
+    "plans_til/_posts/2023-03-31-daily-5.md",
     "attachments",
-    "attatchments/R1280x0.png",
-    "attachtments/Screenshot 2023-03-30 at 5.53.22 PM.png.md",
     "attachtments",
     "attatchments",
-    "Daily-Post/images",
+    "plans_til/images",
     "algorithm_codes/_posts",
     "algorithm_codes",
     "network/_posts",
