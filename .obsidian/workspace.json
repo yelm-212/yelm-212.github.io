@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
+                "file": "plans_til/_posts/2023-04-04-daily-8.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
+                "file": "_posts/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md",
+                "file": "_posts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-03-docker-sec02.md"
+                "file": "_posts/Untitled.md"
               }
             }
           },
@@ -173,12 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49ebe63705b28a60",
+  "active": "2be7e6a6b8bd6500",
   "lastOpenFiles": [
+    "plans_til/_posts/2023-04-04-daily-8.md",
+    "plans_til/_posts/2023-04-04-monthly.md",
+    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "attatchments/dockerbuilds2.png",
     "attatchments/dockerlocalhosts2.png",
     "attatchments/dockerruns2.png",
-    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "attatchments/docker-stopped.png",
     "attatchments/docker-ps.png",
@@ -186,8 +189,6 @@
     "_posts/Untitled.md",
     "attatchments/docker-run-chrome.png",
     "attatchments/docker.png",
-    "plans_til/_posts/2023-04-04-daily-8.md",
-    "plans_til/_posts/2023-04-04-monthly.md",
     "network/_posts/2023-03-30-net02.md",
     "network/_posts/2023-04-04-net03.md",
     "network/_posts/2023-03-29-net01.md",
