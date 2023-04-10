@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49ebe63705b28a60",
+            "id": "45b792123fb00202",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "45b792123fb00202",
+            "id": "033bfb01f606d075",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-03-28-daily-2.md",
+                "file": "network/_posts/2023-04-04-net04.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bdc998a816579ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-04-10-codestates-‪s2.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/_posts/2023-04-04-net03.md",
+                "file": "_posts/2023-04-10-codestates-‪s2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/_posts/2023-04-04-net03.md",
+                "file": "_posts/2023-04-10-codestates-‪s2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/_posts/2023-04-04-net03.md"
+                "file": "_posts/2023-04-10-codestates-‪s2.md"
               }
             }
           },
@@ -174,44 +186,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49ebe63705b28a60",
+  "active": "bdc998a816579ccf",
   "lastOpenFiles": [
+    "network/_posts/2023-04-04-net04.md",
+    "_posts/2023-04-10-codestates-‪s2.md",
+    "network/_posts/2023-03-29-net01.md",
+    "network/_posts/2023-03-30-net02.md",
+    "network/_posts/2023-04-04-net03.md",
+    "plans_til/_posts/Untitled.md",
+    "plans_til/_posts/2023-03-15-my-first-post.md",
+    "plans_til/_posts/2023-03-22-daily-0.md",
+    "_pages/about.md",
+    "plans_til/_posts/2023-04-10-daily-12.md",
+    "plans_til/_posts/2023-04-07-daily-11.md",
+    "plans_til/_posts/2023-04-06-daily-10.md",
+    "JAVA/_posts/2023-03-22-linear(1).md",
+    "JAVA/_posts/2023-03-22-non-linear(1).md",
+    "JAVA/_posts/2023-03-22-OOP-essentials.md",
+    "JAVA/_posts/2023-03-22-string_list_map.md",
+    "JAVA/_posts/2023-03-23-non-linear(2).md",
+    "JAVA/_posts/2023-03-24-java_collection.md",
+    "JAVA/_posts/2023-03-26-algorithms.md",
+    "JAVA/_posts/2023-03-22-java-essentials.md",
+    "JAVA/_posts/2023-03-22-jdk_jre_jvm.md",
+    "JAVA/_posts/2023-03-31-error1.md",
     "plans_til/_posts/2023-03-28-daily-2.md",
+    "plans_til/_posts/2023-04-05-daily-9.md",
     "plans_til/_posts/2023-03-29-daily-3.md",
     "plans_til/_posts/2023-03-30-daily-4.md",
-    "plans_til/_posts/2023-03-31-daily-5.md",
-    "plans_til/_posts/2023-04-02-daily-6.md",
-    "plans_til/_posts/2023-04-03-daily-7.md",
-    "plans_til/_posts/2023-04-04-daily-8.md",
-    "plans_til/_posts/2023-04-06.md",
-    "_posts/Untitled.md",
-    "network/_posts/2023-04-04-net03.md",
-    "plans_til/_posts/2023-04-05-daily.md",
-    "plans_til/_posts/2023-04-04-monthly.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "attatchments/dockerbuilds2.png",
     "attatchments/dockerlocalhosts2.png",
     "attatchments/dockerruns2.png",
-    "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "attatchments/docker-stopped.png",
     "attatchments/docker-ps.png",
     "attatchments/docker-run.png",
     "attatchments/docker-run-chrome.png",
     "attatchments/docker.png",
-    "network/_posts/2023-03-30-net02.md",
-    "network/_posts/2023-03-29-net01.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "_templates/YYYY-MM-DD-monthly-post.md",
-    "_templates/YYYY-MM-DD-CS-study.md",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/20230403210508.png",
-    "algorithm_codes/_posts/2023-03-30-dailycode1.md",
-    "algorithm_codes/_posts/2023-04-03-boj16948.md",
-    "algorithm_codes/_posts/2023-04-03-boj16928.md",
-    "algorithm_codes/_posts/2023-04-03-boj14502.md",
-    "algorithm_codes/_posts/2023-04-03-boj9019.md",
-    "_templates/YYYY-MM-DD-algorithm.md",
-    "algorithm_codes/_posts/2023-03-29-boj1062.md",
     "docker_k8s/_posts",
     "docker_k8s",
     "attachments",
