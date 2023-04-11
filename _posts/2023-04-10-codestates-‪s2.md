@@ -1,6 +1,6 @@
 ---
 title:  "[Codestates] Section 2 회고"
-excerpt: "daily post"
+	excerpt: "Codestates Section 2 회고입니다."
 
 categories:
   - Blog
