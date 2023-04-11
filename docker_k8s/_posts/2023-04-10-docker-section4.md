@@ -59,4 +59,4 @@ CMD [ "node", "server.js" ]
 - 볼륨을 개발자가 로컬에서 관리할 필요가 없다면, named volume이 적합하다.
 - 볼륨을 개발자가 로컬에서 관리하고 싶다면, named volume이 적합하다.
 - `docker run -d -p 3000:80 --rm --name feedback-app -v feedback:/app/feedback feedback-node:volumes`  를 통해 볼륨에 이름을 지정해 줄 수 있다.
-- 
+- `docker volume prune` 을 통해 사용하지 않는 익명 볼륨을 제거할 수 있다.
