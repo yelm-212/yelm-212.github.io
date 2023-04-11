@@ -1,6 +1,6 @@
 ---
 title:  "[Codestates] Section 2 회고"
-	excerpt: "Codestates Section 2 회고입니다."
+excerpt: "Codestates Section 2 회고입니다."
 
 categories:
   - Blog
@@ -11,10 +11,9 @@ toc: true
 toc_sticky: true
  
 date: 2023-04-10
-last_modified_at: 2023-04-10
+last_modified_at: 2023-04-11
 
 ---
-
 #  KEEP
 
 -   스터디 2개 참여! (docker & k8s, CS&알고리즘)
