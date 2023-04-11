@@ -1,5 +1,5 @@
 ---
-title:  "[Docker] Section - "
+title:  "[Docker] Section 3 - 데이터 관리 및 볼륨으로 작업하기"
 excerpt: "udemy Docker & Kubernetes 강의를 듣고 정리한 내용입니다."
 
 tags:
