@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "{{date}} Daily Post"
 excerpt: "daily post"
 

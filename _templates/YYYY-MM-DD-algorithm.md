@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "{{date}} BOJ"
 excerpt: "백준  문제의 풀이입니다."
 
