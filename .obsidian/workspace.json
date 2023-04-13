@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-04-12-daily-14.md",
+                "file": "java/_posts/2023-04-12-error2.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-04-12-daily-14.md",
+                "file": "java/_posts/2023-04-12-error2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-04-12-daily-14.md",
+                "file": "java/_posts/2023-04-12-error2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-04-12-daily-14.md"
+                "file": "java/_posts/2023-04-12-error2.md"
               }
             }
           },
@@ -183,8 +182,12 @@
   },
   "active": "65dc40cb0854fb26",
   "lastOpenFiles": [
-    "network/_posts/2023-04-04-net05.md",
+    "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
+    "attatchments/Screenshot.md",
+    "java/_posts/2023-04-12-error2.md",
+    "plans_til/_posts/2023-04-13.md",
     "plans_til/_posts/2023-04-12-daily-14.md",
+    "network/_posts/2023-04-04-net05.md",
     "plans_til/_posts/{{.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "_templates/YYYY-MM-DD-monthly-post.md",
@@ -197,7 +200,6 @@
     "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "plans_til/_posts/2023-04-11-daily-13.md",
-    "java/_posts/2023-04-12-error2.md",
     "attatchments/Screenshot 2023-04-12 at 5.26.08 PM.png",
     "attatchments/Screenshot 2023-04-12 at 5.26.11 PM.png",
     "attatchments/Screenshot 2023-04-12 at 5.26.21 PM.png",
@@ -213,9 +215,6 @@
     "_posts/2023-04-10-codestates-‪s2.md",
     "_templates/Untitled.md",
     "network/_posts/2023-03-29-net01.md",
-    "network/_posts/2023-03-30-net02.md",
-    "plans_til/_posts/Untitled.md",
-    "plans_til/_posts/2023-03-15-my-first-post.md",
     "attatchments/dockerbuilds2.png",
     "attatchments/dockerlocalhosts2.png",
     "attatchments/dockerruns2.png",
