@@ -13,29 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/_posts/2023-04-04-net05.md",
+                "file": "plans_til/_posts/2023-04-13.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "e5532fb1d8473f17"
           }
         ]
       },
       {
-        "id": "9ad9c62c236072bd",
+        "id": "4de685f4b9bf7b25",
         "type": "tabs",
         "children": [
           {
-            "id": "65dc40cb0854fb26",
+            "id": "d3acc58f6fa2e36d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/_posts/2023-04-12-error2.md",
-                "mode": "source",
+                "file": "plans_til/_posts/2023-04-13.md",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "e5532fb1d8473f17"
           }
         ]
       }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/_posts/2023-04-12-error2.md",
+                "file": "plans_til/_posts/2023-04-13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/_posts/2023-04-12-error2.md",
+                "file": "plans_til/_posts/2023-04-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/_posts/2023-04-12-error2.md"
+                "file": "plans_til/_posts/2023-04-13.md"
               }
             }
           },
@@ -180,14 +182,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65dc40cb0854fb26",
+  "active": "19b6a5f667360254",
   "lastOpenFiles": [
+    "network/_posts/2023-04-04-net05.md",
+    "attatchments/Pasted image 20230413201705.png",
+    "java/_posts/2023-04-12-error2.md",
     "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
     "attatchments/Screenshot.md",
-    "java/_posts/2023-04-12-error2.md",
     "plans_til/_posts/2023-04-13.md",
     "plans_til/_posts/2023-04-12-daily-14.md",
-    "network/_posts/2023-04-04-net05.md",
     "plans_til/_posts/{{.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "_templates/YYYY-MM-DD-monthly-post.md",
@@ -217,7 +220,6 @@
     "network/_posts/2023-03-29-net01.md",
     "attatchments/dockerbuilds2.png",
     "attatchments/dockerlocalhosts2.png",
-    "attatchments/dockerruns2.png",
     "docker_k8s/_posts",
     "docker_k8s",
     "attachments",
@@ -226,7 +228,6 @@
     "plans_til/images",
     "algorithm_codes/_posts",
     "algorithm_codes",
-    "network/_posts",
-    "network"
+    "network/_posts"
   ]
 }
