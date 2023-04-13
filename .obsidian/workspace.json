@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "e5532fb1d8473f17"
-          }
-        ]
-      },
-      {
-        "id": "4de685f4b9bf7b25",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3acc58f6fa2e36d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/_posts/2023-04-04-net05.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "e5532fb1d8473f17"
+            }
           }
         ]
       }
