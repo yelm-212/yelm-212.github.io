@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[Docker] Section 2 - docker 이미지 & 컨테이너 (2)"
 excerpt: "udemy Docker & Kubernetes 강의를 듣고 정리한 내용입니다."
 
