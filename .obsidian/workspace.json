@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md"
+                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md"
               }
             }
           },
@@ -164,12 +164,12 @@
   },
   "active": "7ad338a40761c5b3",
   "lastOpenFiles": [
+    "db/_posts/2023-04-17-database-01.md",
     "plans_til/_posts/{{.md",
     "algorithm_codes/_posts/2023-04-03-boj16948.md",
     "books/_posts/2023-04-01-careerskill9.md",
     "books/_posts/2023-03-29-careerskill8.md",
     "books/_posts/2023-03-28-careerskill7.md",
-    "db/_posts/2023-04-17-database-01.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
