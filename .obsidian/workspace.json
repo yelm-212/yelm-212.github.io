@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "db/_posts/2023-04-19-database-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "db/_posts/2023-04-19-database-02.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md",
+                "file": "db/_posts/2023-04-19-database-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "db/_posts/2023-04-17-database-01.md"
+                "file": "db/_posts/2023-04-19-database-02.md"
               }
             }
           },
@@ -165,14 +165,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1029063a1333d3df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +194,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "565db31eb4ba4992",
+  "active": "1029063a1333d3df",
   "lastOpenFiles": [
-    "db/_posts/2023-04-19-database-02.md",
     "db/_posts/2023-04-17-database-01.md",
+    "db/_posts/2023-04-19-database-02.md",
     "docker_k8s/_posts/Untitled.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "plans_til/_posts/{{.md",
