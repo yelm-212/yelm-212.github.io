@@ -18,8 +18,33 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e9c8bda67649e52e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db/_posts/2023-04-17-database-01.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d304a27a4f3b2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "db/_posts/2023-04-17-database-01.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md",
+                "file": "db/_posts/2023-04-17-database-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md",
+                "file": "db/_posts/2023-04-17-database-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-10-docker-section3.md"
+                "file": "db/_posts/2023-04-17-database-01.md"
               }
             }
           },
@@ -162,15 +187,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ad338a40761c5b3",
+  "active": "565db31eb4ba4992",
   "lastOpenFiles": [
+    "db/_posts/2023-04-19-database-02.md",
     "db/_posts/2023-04-17-database-01.md",
+    "docker_k8s/_posts/Untitled.md",
+    "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "plans_til/_posts/{{.md",
     "algorithm_codes/_posts/2023-04-03-boj16948.md",
     "books/_posts/2023-04-01-careerskill9.md",
     "books/_posts/2023-03-29-careerskill8.md",
     "books/_posts/2023-03-28-careerskill7.md",
-    "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
@@ -188,8 +215,6 @@
     "network/_posts/2023-03-29-net01.md",
     "plans_til/_posts/2023-04-04-monthly.md",
     "plans_til/_posts/2023-04-07-daily-11.md",
-    "plans_til/_posts/2023-04-11-daily-13.md",
-    "plans_til/_posts/2023-04-12-daily-14.md",
     "db/_posts",
     "db",
     "attatchments/Pasted image 20230413201705.png",
