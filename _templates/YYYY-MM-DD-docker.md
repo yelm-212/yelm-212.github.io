@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "[Docker] Section - "
 excerpt: "udemy Docker & Kubernetes 강의를 듣고 정리한 내용입니다."
 

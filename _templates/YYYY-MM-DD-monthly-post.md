@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "{{date}} Monthly Post"
 excerpt: "Monthly post"
 
