@@ -18,7 +18,7 @@ last_modified_at: {{date}}
 # Daily TODO
 
 - [x] [데일리 코딩](https://urclass.codestates.com/classroom/33)
-- [x] [알고리즘 한문제 풀기](https://www.acmicpc.net/problem/)
+- [x] [알고리즘 한문제 풀기](https://www.acmicpc.net/step)
 - [ ] 
 
 # 메모 & TIL: 

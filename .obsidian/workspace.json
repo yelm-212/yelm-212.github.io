@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-04-26-daily-18.md",
+                "file": "books/_posts/2023-04-26-careerskill9.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "82167cec33dcdfe0",
+        "id": "aaf1f60968f08d38",
         "type": "tabs",
         "children": [
           {
-            "id": "fbb429b05b530e95",
+            "id": "e1e288678f8f6790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/_posts/2023-04-26-error3.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/_posts/2023-04-26-error3.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/_posts/2023-04-26-error3.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/_posts/2023-04-26-error3.md"
+                "file": "plans_til/_posts/2023-04-26-daily-18.md"
               }
             }
           },
@@ -189,38 +189,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fbb429b05b530e95",
+  "active": "e1e288678f8f6790",
   "lastOpenFiles": [
+    "books/_posts/2023-04-26-careerskill9.md",
     "plans_til/_posts/2023-04-26-daily-18.md",
-    "java/_posts/2023-04-12-error2.md",
+    "books/_posts/careerskill.md",
+    "db/_posts/2023-04-26-database-04.md",
+    "plans_til/_posts/Untitled.md",
+    "db/_posts/2023-04-24-database-03.md",
     "java/_posts/2023-04-26-error3.md",
+    "db/_posts/2023-04-19-database-02.md",
+    "docker_k8s/_posts/2023-04-25-docker-section4.md",
+    "_templates/YYYY-MM-DD-docker.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "plans_til/_posts/2023-04-25-daily-17.md",
+    "java/_posts/2023-04-12-error2.md",
     "attatchments/Pasted image 20230426152432.png",
     "attatchments/Pasted image 20230426151648.png",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
-    "plans_til/_posts/2023-04-25-daily-17.md",
-    "docker_k8s/_posts/2023-04-25-docker-section4.md",
-    "db/_posts/2023-04-24-database-03.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "plans_til/_posts/2023-04-24-daily-16.md",
     "java/_posts/2023-03-31-error1.md",
-    "db/_posts/2023-04-19-database-02.md",
     "plans_til/_posts/2023-04-14.md",
     "attatchments/Pasted image 20230424171912.png",
     "attatchments/Pasted image 20230424171907.png",
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-book-repo.md",
     "_templates/YYYY-MM-DD-CS-study.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "_templates/YYYY-MM-DD-docker.md",
     "_templates/YYYY-MM-DD-monthly-post.md",
     "db/_posts/2023-04-17-database-01.md",
     "plans_til/_posts/{{.md",
     "algorithm_codes/_posts/2023-04-03-boj16948.md",
-    "books/_posts/2023-04-01-careerskill9.md",
     "books/_posts/2023-03-29-careerskill8.md",
     "books/_posts/2023-03-28-careerskill7.md",
-    "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "db/_posts",
     "db",
     "attatchments/Pasted image 20230413201705.png",
