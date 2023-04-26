@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-04-25-daily-17.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "mode": "source",
                 "source": true
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-04-25-daily-17.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-04-25-daily-17.md",
+                "file": "plans_til/_posts/2023-04-26-daily-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-04-25-daily-17.md"
+                "file": "plans_til/_posts/2023-04-26-daily-18.md"
               }
             }
           },
@@ -191,8 +190,9 @@
   },
   "active": "64b7c3e961d76712",
   "lastOpenFiles": [
-    "docker_k8s/_posts/2023-04-25-docker-section4.md",
     "plans_til/_posts/2023-04-25-daily-17.md",
+    "plans_til/_posts/2023-04-26-daily-18.md",
+    "docker_k8s/_posts/2023-04-25-docker-section4.md",
     "db/_posts/2023-04-24-database-03.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "plans_til/_posts/2023-04-24-daily-16.md",
@@ -218,7 +218,6 @@
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "java/_posts/2023-03-22-string_list_map.md",
-    "java/_posts/2023-03-23-non-linear(2).md",
     "db/_posts",
     "db",
     "attatchments/Pasted image 20230413201705.png",
