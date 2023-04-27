@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -192,9 +191,10 @@
   "active": "4bff8dbc5d75518f",
   "lastOpenFiles": [
     "plans_til/_posts/2023-04-27-daily-19.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "db/_posts/2023-04-26-database-04.md",
     "plans_til/_posts/2023-04-26-daily-18.md",
     "db/_posts/2023-04-24-database-03.md",
-    "db/_posts/2023-04-26-database-04.md",
     "books/_posts/2023-04-26-careerskill9.md",
     "books/_posts/careerskill.md",
     "plans_til/_posts/Untitled.md",
@@ -202,7 +202,6 @@
     "db/_posts/2023-04-19-database-02.md",
     "docker_k8s/_posts/2023-04-25-docker-section4.md",
     "_templates/YYYY-MM-DD-docker.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
     "plans_til/_posts/2023-04-25-daily-17.md",
     "java/_posts/2023-04-12-error2.md",
     "attatchments/Pasted image 20230426152432.png",
