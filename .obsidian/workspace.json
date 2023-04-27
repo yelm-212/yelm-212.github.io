@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-04-27-boj19532.md",
+                "file": "plans_til/_posts/2023-04-28-daily-20.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2023-04-27-boj19532.md",
+                "file": "plans_til/_posts/2023-04-28-daily-20.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2023-04-27-boj19532.md",
+                "file": "plans_til/_posts/2023-04-28-daily-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2023-04-27-boj19532.md"
+                "file": "plans_til/_posts/2023-04-28-daily-20.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "565db31eb4ba4992",
+  "active": "e1e288678f8f6790",
   "lastOpenFiles": [
-    "plans_til/_posts/2023-04-27-daily-19.md",
     "algorithm_codes/_posts/2023-04-27-boj19532.md",
+    "plans_til/_posts/2023-04-27-daily-19.md",
     "plans_til/_posts/2023-04-28-daily-20.md",
     "plans_til/_posts/2023-04-26-daily-18.md",
     "books/_posts/2023-04-27-careerskill10.md",
