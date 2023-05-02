@@ -8,55 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbb0fba527d7e753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/_posts/2023-04-30-careerskill13.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "717226bae04d3144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-04-28-docker-section5.md",
+                "file": "plans_til/_posts/2023-05-02-daily-22.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6e750c05f92c0b27",
+            "id": "dc1aaec4062fe44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-05-02-docker-section6.md",
+                "file": "books/_posts/2023-05-02-careerskill15.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "e68ed190d964cd66",
+            "id": "5abc6d29762852c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/_posts/2023-05-01-spring-servlet.md",
+                "file": "algorithm_codes/_posts/2023-05-02-programmers-1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_k8s/_posts/2023-05-02-docker-section6.md",
+                "file": "plans_til/_posts/2023-05-02-daily-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_k8s/_posts/2023-05-02-docker-section6.md",
+                "file": "plans_til/_posts/2023-05-02-daily-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_k8s/_posts/2023-05-02-docker-section6.md"
+                "file": "plans_til/_posts/2023-05-02-daily-22.md"
               }
             }
           },
@@ -207,16 +194,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e750c05f92c0b27",
+  "active": "717226bae04d3144",
   "lastOpenFiles": [
-    "docker_k8s/_posts/2023-04-28-docker-section5.md",
-    "docker_k8s/_posts/2023-05-02-docker-section6.md",
-    "books/_posts/2023-05-01-careerskill14.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "algorithm_codes/_posts/2023-05-02-programmers-1.md",
     "plans_til/_posts/2023-05-02-daily-22.md",
     "plans_til/_posts/2023-05-01-daily-21.md",
-    "plans_til/_posts/2023-04-28-daily-20.md",
-    "books/_posts/2023-04-30-careerskill13.md",
+    "books/_posts/2023-05-01-careerskill14.md",
+    "books/_posts/2023-05-02-careerskill15.md",
+    "docker_k8s/_posts/2023-05-02-docker-section6.md",
     "java/spring/_posts/2023-05-01-spring-servlet.md",
+    "docker_k8s/_posts/2023-04-28-docker-section5.md",
+    "books/_posts/2023-04-30-careerskill13.md",
+    "plans_til/_posts/2023-04-28-daily-20.md",
     "attatchments/Pasted image 20230501161438.png",
     "java/spring/_posts/2023-04-12-error2.md",
     "attatchments/Pasted image 20230501155752.png",
@@ -234,11 +224,8 @@
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-book-repo.md",
     "_templates/YYYY-MM-DD-CS-study.md",
-    "_templates/YYYY-MM-DD-daily-post.md",
     "plans_til/images/join.png",
     "plans_til/_posts/Untitled.md",
-    "algorithm_codes/_posts/2023-04-27-boj19532.md",
-    "plans_til/_posts/2023-04-26-daily-18.md",
     "java/spring/_posts",
     "java/spring",
     "attatchments/Pasted image 20230426152432.png",

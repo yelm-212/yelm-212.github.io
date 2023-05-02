@@ -19,7 +19,9 @@ last_modified_at: {{date}}
 
 - [x] [데일리 코딩](https://urclass.codestates.com/classroom/33)
 - [x] [알고리즘 한문제 풀기](https://www.acmicpc.net/step)
+	- [ ] [포스팅](https://yelm-212.github.io/algorithm_codes/boj/)
 - [ ] 커리어 스킬 1챕터
+	- [ ] [포스팅](https://yelm-212.github.io/books/careerskill/)
 
 # 메모 & TIL: 
 
