@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-05-02-daily-22.md",
+                "file": "plans_til/_posts/2023-05-03.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "dc1aaec4062fe44d",
+            "id": "0a2ddb11413e4d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/_posts/2023-05-02-careerskill15.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5abc6d29762852c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm_codes/_posts/2023-05-02-programmers-1.md",
+                "file": "java/spring/_posts/2023-05-02-spring-1.md",
                 "mode": "source",
                 "source": true
               }
@@ -88,6 +76,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "272066fcfb8534c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-05-02-daily-22.md",
+                "file": "plans_til/_posts/2023-05-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-05-02-daily-22.md",
+                "file": "plans_til/_posts/2023-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-05-02-daily-22.md"
+                "file": "plans_til/_posts/2023-05-03.md"
               }
             }
           },
@@ -196,14 +192,19 @@
   },
   "active": "717226bae04d3144",
   "lastOpenFiles": [
-    "_templates/YYYY-MM-DD-daily-post.md",
+    "books/_posts/2023-05-04-careerskill17.md",
+    "java/spring/_posts/2023-05-02-spring-1.md",
     "algorithm_codes/_posts/2023-05-02-programmers-1.md",
+    "plans_til/_posts/2023-05-03.md",
+    "attatchments/Pasted image 20230503205630.png",
+    "attatchments/Pasted image 20230503205114.png",
     "plans_til/_posts/2023-05-02-daily-22.md",
+    "books/_posts/2023-05-02-careerskill15.md",
+    "java/spring/_posts/2023-05-01-spring-servlet.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
     "plans_til/_posts/2023-05-01-daily-21.md",
     "books/_posts/2023-05-01-careerskill14.md",
-    "books/_posts/2023-05-02-careerskill15.md",
     "docker_k8s/_posts/2023-05-02-docker-section6.md",
-    "java/spring/_posts/2023-05-01-spring-servlet.md",
     "docker_k8s/_posts/2023-04-28-docker-section5.md",
     "books/_posts/2023-04-30-careerskill13.md",
     "plans_til/_posts/2023-04-28-daily-20.md",
@@ -222,20 +223,15 @@
     "_templates/YYYY-MM-DD-docker.md",
     "_templates/YYYY-MM-DD-monthly-post.md",
     "_templates/YYYY-MM-DD-algorithm.md",
-    "_templates/YYYY-MM-DD-book-repo.md",
-    "_templates/YYYY-MM-DD-CS-study.md",
     "plans_til/images/join.png",
-    "plans_til/_posts/Untitled.md",
     "java/spring/_posts",
     "java/spring",
     "attatchments/Pasted image 20230426152432.png",
     "attatchments/Pasted image 20230426151648.png",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
     "attatchments/Pasted image 20230424171912.png",
-    "attatchments/Pasted image 20230424171907.png",
     "db/_posts",
     "db",
-    "attatchments/Pasted image 20230413201705.png",
     "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
     "docker_k8s/_posts",
     "docker_k8s",
