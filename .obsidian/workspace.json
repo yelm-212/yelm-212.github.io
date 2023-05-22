@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-05-19-daily0519.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0105674b086f5a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker_k8s/_posts/2023-05-18-docker-section7.md",
+                "file": "plans_til/_posts/2023-05-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-05-19-daily0519.md",
+                "file": "plans_til/_posts/2023-05-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-05-19-daily0519.md",
+                "file": "plans_til/_posts/2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-05-19-daily0519.md"
+                "file": "plans_til/_posts/2023-05-22.md"
               }
             }
           },
@@ -192,10 +180,24 @@
   },
   "active": "f465db1cb3f3d76a",
   "lastOpenFiles": [
+    "network/_posts/2023-04-04-net05.md",
+    "network/_posts/2023-04-04-net04.md",
+    "plans_til/_posts/2023-05-22.md",
+    "os/_posts/2023-05-20-os-1.md",
+    "attatchments/Pasted image 20230522184427.png",
+    "attatchments/Pasted image 20230522184424.png",
+    "attatchments/Pasted image 20230522183052.png",
+    "attatchments/Pasted image 20230522182825.png",
     "algorithm_codes/_posts/2023-05-15-programmers-0515.md",
+    "algorithm_codes/_posts/2023-05-02-programmers-1.md",
     "algorithm_codes/_posts/2023-05-19-programmers-0519.md",
-    "docker_k8s/_posts/2023-05-18-docker-section7.md",
+    "algorithm_codes/_posts/2023-05-20-programmers-0520.md",
+    "plans_til/_posts/2023-05-20-daily0520.md",
     "plans_til/_posts/2023-05-19-daily0519.md",
+    "attatchments/Pasted image 20230522142414.png",
+    "os/_posts",
+    "os",
+    "docker_k8s/_posts/2023-05-18-docker-section7.md",
     "plans_til/_posts/2023-05-17-daily0517.md",
     "docker_k8s/_posts/2023-05-02-docker-section6.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
@@ -206,28 +208,16 @@
     "attatchments/Pasted image 20230518205107.png",
     "plans_til/_posts/2023-05-16.md",
     "plans_til/_posts/2023-05-15-daily-24.md",
-    "algorithm_codes/_posts/2023-05-02-programmers-1.md",
     "attatchments/Pasted image 20230515174303.png",
     "attatchments/Pasted image 20230511201355.png",
-    "attatchments/Pasted image 20230511195620.png",
     "_posts/2023-05-09-codestates-‪s3.md",
-    "attatchments/Pasted image 20230511195243.png",
     "_posts/2023-04-10-codestates-‪s2.md",
     "java/spring/_posts/2023-05-07-spring-2.md",
     "java/spring/_posts/2023-03-31-error1.md",
-    "attatchments/C11E92E2-69FE-4B9B-A575-8C5C9C941A2C_1_201_a.jpeg",
     "java/spring/_posts/2023-05-02-spring-1.md",
     "java/spring/_posts/2023-04-12-error2.md",
-    "attatchments/CBDF0777-903F-404E-BC6C-EBA0DF202A6D_4_5005_c.jpeg",
-    "attatchments/IMG_7594.jpeg",
     "java/_posts/2023-04-26-error3.md",
     "db/_posts/2023-04-24-database-03.md",
-    "db/_posts/2023-04-19-database-02.md",
-    "db/_posts/2023-04-26-database-04.md",
-    "db/_posts/2023-04-17-database-01.md",
-    "java/spring/_posts/2023-05-01-spring-servlet.md",
-    "plans_til/_posts/2023-05-03-daily-23.md",
-    "plans_til/_posts/2023-05-04-daily-24.md",
     "java/spring/_posts",
     "java/spring",
     "db/_posts",
@@ -235,8 +225,6 @@
     "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
     "docker_k8s/_posts",
     "docker_k8s",
-    "attachments",
-    "attachtments",
-    "attatchments"
+    "attachments"
   ]
 }
