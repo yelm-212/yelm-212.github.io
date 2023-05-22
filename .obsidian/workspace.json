@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-05-22.md",
+                "file": "os/_posts/2023-05-20-os-1.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-05-22.md",
+                "file": "os/_posts/2023-05-20-os-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-05-22.md",
+                "file": "os/_posts/2023-05-20-os-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-05-22.md"
+                "file": "os/_posts/2023-05-20-os-1.md"
               }
             }
           },
@@ -178,11 +178,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f465db1cb3f3d76a",
+  "active": "565db31eb4ba4992",
   "lastOpenFiles": [
+    "plans_til/_posts/2023-05-22-daily0522.md",
     "network/_posts/2023-04-04-net05.md",
     "network/_posts/2023-04-04-net04.md",
-    "plans_til/_posts/2023-05-22.md",
     "os/_posts/2023-05-20-os-1.md",
     "attatchments/Pasted image 20230522184427.png",
     "attatchments/Pasted image 20230522184424.png",
