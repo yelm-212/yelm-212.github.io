@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/_posts/2023-05-20-os-1 1.md",
+                "file": "os/_posts/2023-05-20-os-2.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/_posts/2023-05-20-os-1 1.md",
+                "file": "os/_posts/2023-05-20-os-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/_posts/2023-05-20-os-1 1.md",
+                "file": "os/_posts/2023-05-20-os-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/_posts/2023-05-20-os-1 1.md"
+                "file": "os/_posts/2023-05-20-os-2.md"
               }
             }
           },
@@ -194,7 +195,7 @@
   "active": "15a28ab0b2ab9bb1",
   "lastOpenFiles": [
     "os/_posts/2023-05-20-os-1.md",
-    "os/_posts/2023-05-20-os-1 1.md",
+    "os/_posts/2023-05-20-os-2.md",
     "docker_k8s/_posts/2023-05-22-docker-section8.md",
     "plans_til/_posts/2023-05-25-daily0525.md",
     "plans_til/_posts/2023-05-22-daily0522.md",
