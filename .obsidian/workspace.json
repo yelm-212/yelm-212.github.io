@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4480351d1a6ffc39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "os/_posts/2023-05-31-os-4.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "2213dbe56bd5308d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/_posts/2023-05-28-os-3.md",
+                "file": "os/_posts/2023-06-03-os-5.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/_posts/2023-05-31-os-4.md",
+                "file": "os/_posts/2023-06-03-os-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/_posts/2023-05-31-os-4.md",
+                "file": "os/_posts/2023-06-03-os-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/_posts/2023-05-31-os-4.md"
+                "file": "os/_posts/2023-06-03-os-5.md"
               }
             }
           },
@@ -191,15 +179,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4480351d1a6ffc39",
+  "active": "2213dbe56bd5308d",
   "lastOpenFiles": [
-    "os/_posts/2023-05-28-os-3.md",
+    "attatchments/Pasted image 20230605205222.png",
+    "attatchments/Pasted image 20230605203731.png",
+    "plans_til/_posts/2023-06-05.md",
+    "os/_posts/2023-06-03-os-5.md",
     "os/_posts/2023-05-31-os-4.md",
+    "os/_posts/2023-05-28-os-3.md",
+    "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
+    "_posts/2023-05-27-.md",
+    "algorithm_codes/_posts/2023-05-31-programmers-0531.md",
+    "plans_til/_posts/2023-05-31-daily0531.md",
     "os/_posts/2023-05-20-os-1.md",
     "os/_posts/2023-05-24-os-2.md",
-    "algorithm_codes/_posts/2023-05-31-daily0531.md",
     "algorithm_codes/_posts/2023-05-20-programmers-0520.md",
-    "plans_til/_posts/2023-05-31-programmers-0531.md",
     "network/_posts/2023-04-04-net03.md",
     "plans_til/_posts/2023-05-25-daily0530.md",
     "network/_posts/2023-04-04-net04.md",
@@ -209,28 +203,22 @@
     "docker_k8s/_posts/2023-05-28-docker-section9.md",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
     "docker_k8s/_posts/2023-05-18-docker-section7.md",
-    "_posts/2023-05-27-.md",
     "plans_til/_posts/2023-05-22-daily0522.md",
     "_pages/about.md",
     "_pages/404.md",
     "java/spring/_posts/2023-05-15-spring-4.md",
     "java/spring/_posts/2023-05-10-spring-3.md",
-    "java/spring/_posts/2023-05-17-spring-5.md",
     "attatchments/20230522182825.png",
     "attatchments/Pasted image 20230518205309.png",
     "attatchments/20230522184424.png",
     "attatchments/20230522184427.png",
     "attatchments/20230522183052.png",
-    "algorithm_codes/_posts/2023-05-15-programmers-0515.md",
-    "algorithm_codes/_posts/2023-05-02-programmers-1.md",
-    "algorithm_codes/_posts/2023-05-19-programmers-0519.md",
     "attatchments/20230522142414.png",
     "os/_posts",
     "os",
     "attatchments/Pasted image 20230518205304.png",
     "attatchments/Pasted image 20230518205107.png",
     "attatchments/Pasted image 20230515174303.png",
-    "attatchments/Pasted image 20230511201355.png",
     "java/spring/_posts",
     "java/spring",
     "db/_posts",
