@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/_posts/2023-06-03-os-5.md",
+                "file": "_posts/2023-05-09-codestates-‪s3.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe553cd432042744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2ae515659f53d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-06-08-codestates-‪s4.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -94,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/_posts/2023-06-03-os-5.md",
+                "file": "_posts/2023-06-08-codestates-‪s4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/_posts/2023-06-03-os-5.md",
+                "file": "_posts/2023-06-08-codestates-‪s4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/_posts/2023-06-03-os-5.md"
+                "file": "_posts/2023-06-08-codestates-‪s4.md"
               }
             }
           },
@@ -179,35 +196,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2213dbe56bd5308d",
+  "active": "6c2ae515659f53d7",
   "lastOpenFiles": [
+    "_posts/2023-05-09-codestates-‪s3.md",
+    "_posts/2023-06-08-codestates-‪s4.md",
+    "_posts/2023-06-07-practice-1.md",
+    "plans_til/_posts/2023-06-08.md",
+    "plans_til/_posts/2023-06-05-daily0605.md",
+    "plans_til/_posts/2023-05-31-daily0531.md",
+    "plans_til/_posts/2023-05-25-daily0530.md",
+    "docker_k8s/_posts/2023-05-28-docker-section9.md",
+    "docker_k8s/_posts/2023-04-03-docker-sec01.md",
+    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
+    "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
+    "docker_k8s/_posts/2023-04-10-docker-section3.md",
+    "docker_k8s/_posts/2023-04-25-docker-section4.md",
+    "docker_k8s/_posts/2023-04-28-docker-section5.md",
+    "docker_k8s/_posts/2023-05-18-docker-section7.md",
+    "docker_k8s/_posts/2023-05-22-docker-section8.md",
+    "network/_posts/2023-04-04-net04.md",
+    "network/_posts/2023-04-04-net03.md",
+    "network/_posts/2023-03-30-net02.md",
+    "network/_posts/2023-03-29-net01.md",
+    "os/_posts/2023-06-03-os-5.md",
     "attatchments/Pasted image 20230605205222.png",
     "attatchments/Pasted image 20230605203731.png",
-    "plans_til/_posts/2023-06-05.md",
-    "os/_posts/2023-06-03-os-5.md",
     "os/_posts/2023-05-31-os-4.md",
     "os/_posts/2023-05-28-os-3.md",
     "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
     "_posts/2023-05-27-.md",
     "algorithm_codes/_posts/2023-05-31-programmers-0531.md",
-    "plans_til/_posts/2023-05-31-daily0531.md",
-    "os/_posts/2023-05-20-os-1.md",
-    "os/_posts/2023-05-24-os-2.md",
-    "algorithm_codes/_posts/2023-05-20-programmers-0520.md",
-    "network/_posts/2023-04-04-net03.md",
-    "plans_til/_posts/2023-05-25-daily0530.md",
-    "network/_posts/2023-04-04-net04.md",
-    "network/_posts/2023-04-04-net05.md",
-    "java/_posts/2023-03-22-java-essentials.md",
-    "docker_k8s/_posts/2023-05-22-docker-section8.md",
-    "docker_k8s/_posts/2023-05-28-docker-section9.md",
-    "java/_posts/2023-03-22-jdk_jre_jvm.md",
-    "docker_k8s/_posts/2023-05-18-docker-section7.md",
-    "plans_til/_posts/2023-05-22-daily0522.md",
-    "_pages/about.md",
-    "_pages/404.md",
-    "java/spring/_posts/2023-05-15-spring-4.md",
-    "java/spring/_posts/2023-05-10-spring-3.md",
     "attatchments/20230522182825.png",
     "attatchments/Pasted image 20230518205309.png",
     "attatchments/20230522184424.png",
@@ -218,7 +236,6 @@
     "os",
     "attatchments/Pasted image 20230518205304.png",
     "attatchments/Pasted image 20230518205107.png",
-    "attatchments/Pasted image 20230515174303.png",
     "java/spring/_posts",
     "java/spring",
     "db/_posts",
