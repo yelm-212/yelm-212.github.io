@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-11-boj1991.md",
+                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-11-boj1991.md",
+                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-11-boj1991.md",
+                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-11-boj1991.md"
+                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md"
               }
             }
           },
@@ -180,9 +180,20 @@
   },
   "active": "6c2ae515659f53d7",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
+    "algorithm_codes/_posts/2023-06-18-boj15686.md",
     "algorithm_codes/_posts/2023-06-11-boj1991.md",
-    "algorithm_codes/_posts/2023-06-10-boj1018 1.md",
+    "algorithm_codes/_posts/2023-06-13-boj1932.md",
+    "algorithm_codes/_posts/2023-06-10-boj1018.md",
+    "plans_til/_posts/2023-06-15-daily0615.md",
+    "plans_til/_posts/2023-06-14-daily0614.md",
+    "plans_til/_posts/2023-06-12-daily0612.md",
+    "plans_til/_posts/2023-06-13-daily0613.md",
+    "db/_posts/2023-04-17-database-01.md",
+    "db/_posts/2023-04-26-database-04.md",
+    "db/_posts/2023-04-24-database-03.md",
+    "db/_posts/2023-04-19-database-02.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
     "plans_til/_posts/2023-06-09-daily0609.md",
     "plans_til/_posts/2023-06-05-daily0605.md",
     "plans_til/_posts/2023-06-08.md",
@@ -195,19 +206,8 @@
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
-    "docker_k8s/_posts/2023-04-10-docker-section3.md",
-    "docker_k8s/_posts/2023-04-25-docker-section4.md",
-    "docker_k8s/_posts/2023-04-28-docker-section5.md",
-    "docker_k8s/_posts/2023-05-18-docker-section7.md",
-    "docker_k8s/_posts/2023-05-22-docker-section8.md",
-    "network/_posts/2023-04-04-net04.md",
-    "network/_posts/2023-04-04-net03.md",
-    "network/_posts/2023-03-30-net02.md",
-    "network/_posts/2023-03-29-net01.md",
-    "os/_posts/2023-06-03-os-5.md",
     "attatchments/Pasted image 20230605205222.png",
     "attatchments/Pasted image 20230605203731.png",
-    "os/_posts/2023-05-31-os-4.md",
     "attatchments/20230522182825.png",
     "attatchments/Pasted image 20230518205309.png",
     "attatchments/20230522184424.png",
