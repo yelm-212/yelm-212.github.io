@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "fe553cd432042744",
+        "id": "14cfd37d2a66b160",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2ae515659f53d7",
+            "id": "e2fd93670ea11945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
+                "file": "plans_til/_posts/2023-06-26-daily0626.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "bb623feb0f879c87"
+          }
+        ]
+      },
+      {
+        "id": "6fa96843c3be99f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914af0c0166652a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plans_til/_posts/2023-06-26-daily0626.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "bb623feb0f879c87"
           }
         ]
       }
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
+                "file": "plans_til/_posts/2023-06-26-daily0626.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md",
+                "file": "plans_til/_posts/2023-06-26-daily0626.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2023-06-13-boj1932.md"
+                "file": "plans_til/_posts/2023-06-26-daily0626.md"
               }
             }
           },
@@ -178,11 +198,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c2ae515659f53d7",
+  "active": "e2fd93670ea11945",
   "lastOpenFiles": [
+    "attatchments/Pasted image 20230626233644.png",
+    "attatchments/Pasted image 20230626230107.png",
+    "attatchments/Pasted image 20230626214300.png",
+    "plans_til/_posts/2023-06-21-daily0621.md",
+    "plans_til/_posts/2023-06-26-daily0626.md",
+    "plans_til/_posts/2023-06-20-daily0620.md",
+    "attatchments/20230620154613.png",
     "algorithm_codes/_posts/2023-06-18-boj15686.md",
-    "algorithm_codes/_posts/2023-06-11-boj1991.md",
     "algorithm_codes/_posts/2023-06-13-boj1932.md",
+    "algorithm_codes/_posts/2023-06-11-boj1991.md",
     "algorithm_codes/_posts/2023-06-10-boj1018.md",
     "plans_til/_posts/2023-06-15-daily0615.md",
     "plans_til/_posts/2023-06-14-daily0614.md",
@@ -202,10 +229,6 @@
     "_posts/2023-05-09-codestates-‪s3.md",
     "plans_til/_posts/2023-05-31-daily0531.md",
     "plans_til/_posts/2023-05-25-daily0530.md",
-    "docker_k8s/_posts/2023-05-28-docker-section9.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec01.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
-    "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "attatchments/Pasted image 20230605205222.png",
     "attatchments/Pasted image 20230605203731.png",
     "attatchments/20230522182825.png",
@@ -213,11 +236,8 @@
     "attatchments/20230522184424.png",
     "attatchments/20230522184427.png",
     "attatchments/20230522183052.png",
-    "attatchments/20230522142414.png",
     "os/_posts",
     "os",
-    "attatchments/Pasted image 20230518205304.png",
-    "attatchments/Pasted image 20230518205107.png",
     "java/spring/_posts",
     "java/spring",
     "db/_posts",
