@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-06-26-daily0626.md",
+                "file": "_posts/2023-06-27-codestates-pre.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-06-26-daily0626.md",
+                "file": "_posts/2023-06-27-codestates-pre.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-06-26-daily0626.md",
+                "file": "_posts/2023-06-27-codestates-pre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-06-26-daily0626.md",
+                "file": "_posts/2023-06-27-codestates-pre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-06-26-daily0626.md"
+                "file": "_posts/2023-06-27-codestates-pre.md"
               }
             }
           },
@@ -198,11 +199,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "914af0c0166652a3",
+  "active": "e2fd93670ea11945",
   "lastOpenFiles": [
+    "_posts/2023-06-08-codestates-‪s4.md",
+    "_posts/2023-06-27-codestates-pre.md",
+    "plans_til/_posts/2023-06-26-daily0626.md",
     "plans_til/_posts/2023-05-31-daily0531.md",
     "plans_til/_posts/2023-06-05-daily0605.md",
-    "plans_til/_posts/2023-06-26-daily0626.md",
     "plans_til/_posts/2023-06-12-daily0612.md",
     "plans_til/_posts/2023-06-09-daily0609.md",
     "plans_til/_posts/2023-06-13-daily0613.md",
@@ -228,9 +231,7 @@
     "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
     "plans_til/_posts/2023-06-08.md",
     "_posts/2023-06-07-practice-1.md",
-    "_posts/2023-06-08-codestates-‪s4.md",
     "_posts/2023-05-09-codestates-‪s3.md",
-    "plans_til/_posts/2023-05-25-daily0530.md",
     "attatchments/Pasted image 20230605203731.png",
     "attatchments/20230522182825.png",
     "attatchments/Pasted image 20230518205309.png",
