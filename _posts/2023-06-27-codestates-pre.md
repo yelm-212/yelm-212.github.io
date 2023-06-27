@@ -1,5 +1,5 @@
 ---
-title:  "[Codestates] [SEB 44 BE] Pre-Project"
+title:  "[Codestates] [SEB 44 BE] Pre-Project 회고"
 excerpt: "Codestates Pre-Project 회고입니다."
 
 categories:
