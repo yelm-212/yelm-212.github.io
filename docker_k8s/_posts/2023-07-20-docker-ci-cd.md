@@ -13,7 +13,7 @@ last_modified_at: 2023-07-20
 
 ---
 
-일단 내가 만든 CI/CD 구조가 어떻게 실행되는지 구조 설명을 하자면, 내 GitHub repository에서 코드가 commit 될 때 마다 docker hub에 push ➡ 이 이미지(latest)를 EC2의 docker-compose에서 사용해서 docker container를 띄우는 방식이다.
+일단 내가 만든 CI/CD 구조가 어떻게 실행되는지  설명을 하자면, 내 GitHub repository에서 코드가 commit 될 때 마다 docker hub에 push ➡ 이 이미지(latest)를 EC2의 docker-compose에서 사용해서 docker container를 띄우는 방식이다.
 
 # GitHub Actions 초기 세팅
 
@@ -44,7 +44,7 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 
 ```
 
-Spring Boot 프로젝트의 루트 경로(server)에 Dockerfile을 넣어주었다. IDE의 터미널에서 `docker build -t [ㅕusername]/[repository name]:[tag] .`를 실행해, 초기 이미지를 빌드하는 것이 가능한지 확인한다. (생략가능)
+Spring Boot 프로젝트의 루트 경로(server)에 Dockerfile을 넣어주었다. IDE의 터미널에서 `docker build -t [username]/[repository name]:[tag] .`를 실행해, 초기 이미지를 빌드하는 것이 가능한지 확인한다. (생략가능)
 
 ```
 version: '3'  
@@ -113,7 +113,7 @@ jobs:
         uses: actions/checkout@v3  
         with:  
           ref: be-dev  
-          repository: yelm-212/seb44_main_017_test 
+          repository: [username]/[repository name]:[tag]
 ```
 
 ref 로 한번 더 어떤 브랜치를 선택할 건지 명명해주었다.
