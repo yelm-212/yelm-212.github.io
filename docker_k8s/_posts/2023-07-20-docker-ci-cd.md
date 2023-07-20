@@ -168,8 +168,7 @@ docker 이미지 빌드 및 push는 SSH에서 진행하지 않고, GitHub Action
 
 `working-directory`를 build-push-action에서는 인식 못하는 문제가 있어서 path, repository, tag, dockerfile 위치를 직접 명시해주었다.
 
-![](workindirnotapplying.png)
-해당 issue 글을 참고해 작성하였다.
+[관련 issue](https://github.com/docker/build-push-action/issues/327)를 참고해 작성하였다.
 
 근데 작동에는 문제가 전혀 없으나 build-push-action이 지난 버전인데 최신 버전에서는 적용이 안된다... 최신 버전에서 적용하는 방법 아시는 분 계시면 알려주시면 감사하겠습니다.
 
