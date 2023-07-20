@@ -1,6 +1,6 @@
 ---
 title:  "[Docker] [GitHub Actions] [AWS EC2] Spring Boot 프로젝트의 CI, CD 그런데 이제 Docker를 곁들인..."
-excerpt: "GitHub Actions, Docker, AWS를 사용해 CI CD를 적용 방법을 기술하였습니다."
+excerpt: "GitHub Actions, Docker, AWS를 사용해 CI CD 적용 과정 및 방법을 기술하였습니다."
 
 tags:
   - [docker, docker-compose, AWS, GitHub_Actions, CI, CD]
