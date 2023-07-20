@@ -1,6 +1,6 @@
 ---
 title:  "[Docker] [GitHub Actions] [AWS EC2] Spring Boot 프로젝트의 CI, CD 그런데 이제 Docker를 곁들인..."
-excerpt: "GitHub Actions, Docker, AWS를 사용해 CI CD를 적용하며 겪은 오류와 처리 방법을 기술하였습니다."
+excerpt: "GitHub Actions, Docker, AWS를 사용해 CI CD를 적용 방법을 기술하였습니다."
 
 tags:
   - [docker, docker-compose, AWS, GitHub_Actions, CI, CD]
@@ -73,7 +73,7 @@ networks:
     driver: bridge
 ```
 
-EC2의 home directory(~)에 docker-compose를 설치하고, `docker-compose.yml` 파일을 작성해 주었다.
+EC2에 docker-compose를 설치하고, home directory(~)에 `docker-compose.yml` 파일을 작성해 주었다.
 환경 변수 파일을 따로 작성해도 되지만, 나의 경우 ~~귀찮아서~~ 컨테이너 수가 적고 어차피 EC2에서만 관리할 파일이기 때문에 그냥 파일에 바로 작성했다.
 컨테이너가 더 많아지거나 GitHub로 해당 파일을 관리할 예정이라면 .env 파일을 따로 작성하는 것이 좋을 것이다.
 
@@ -158,17 +158,17 @@ docker 이미지 빌드 및 push는 SSH에서 진행하지 않고, GitHub Action
         uses: docker/build-push-action@v1  
         with:  
           dockerfile: ./server/Dockerfile  
-          username: ${{ secrets.DOCKER_USERNAME }}  
-          password: ${{ secrets.DOCKER_PASSWORD }}  
+          username:  
+          password: 
           path: server  
           push: true  
-          repository: 21yrshin/seb44_main_017  
+          repository: [username]/[repository name]
           tags: latest  
 ```
 
 `working-directory`를 build-push-action에서는 인식 못하는 문제가 있어서 path, repository, tag, dockerfile 위치를 직접 명시해주었다.
 
-![](/attatchments/2023-07-20at1.34.39AM.PNG)
+![](workindirnotapplying.png)
 해당 issue 글을 참고해 작성하였다.
 
 근데 작동에는 문제가 전혀 없으나 지난 버전인데 최신 버전에서는 적용이 안된다... 최신 버전에서 적용하는 방법 아시는 분 계시면 알려주시면 감사하겠습니다.
@@ -184,7 +184,7 @@ docker 이미지 빌드 및 push는 SSH에서 진행하지 않고, GitHub Action
           key: ${{ secrets.KEY }}  
           script: |  
             sudo docker rm -f spring  
-            sudo docker pull 21yrshin/seb44_main_017:latest  
+            sudo docker pull [username]/[repository name]:[tag]  
             docker-compose up -d  
             docker image prune -f
 ```
