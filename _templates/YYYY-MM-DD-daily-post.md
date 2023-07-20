@@ -21,7 +21,8 @@ last_modified_at: {{date}}
 	- [ ] [포스팅](https://yelm-212.github.io/algorithm_codes/boj/)
 - [ ] 커리어 스킬 1챕터
 	- [ ] [포스팅](https://yelm-212.github.io/books/careerskill/)
+- [ ] 10시, 5시반 회의
 
-# 메모 & TIL: 
+# TIL, logs
 
 
