@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Yerim_Shin.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Yerim_Shin.md",
                 "mode": "preview",
                 "source": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Yerim_Shin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_pages/Yerim_Shin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_pages/Yerim_Shin.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "255fa553cab078f7",
+  "active": "d84db8ad1eabc2f3",
   "lastOpenFiles": [
     "attatchments/boj-gold-3.png",
-    "_pages/about.md",
+    "_pages/Yerim_Shin.md",
     "algorithm_codes/_posts/2023-06-18-boj15686.md",
     "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
