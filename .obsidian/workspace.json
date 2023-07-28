@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/Yerim_Shin.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/Yerim_Shin.md",
+                "file": "_pages/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/Yerim_Shin.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/Yerim_Shin.md"
+                "file": "_pages/about.md"
               }
             }
           },
@@ -183,7 +183,7 @@
     "docker_k8s/_posts/2023-04-25-docker-section4.md",
     "plans_til/_posts/2023-07-28.md",
     "_templates/YYYY-MM-DD-daily-post.md",
-    "_pages/Yerim_Shin.md",
+    "_pages/about.md",
     "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
     "docker_k8s/_posts/2023-05-28-docker-section9.md",
     "plans_til/_posts/2023-03-22-daily-0.md",
