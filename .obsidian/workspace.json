@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
+                "file": "_pages/about.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
+                "file": "_pages/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md"
+                "file": "_pages/about.md"
               }
             }
           },
@@ -200,6 +201,7 @@
   },
   "active": "d84db8ad1eabc2f3",
   "lastOpenFiles": [
+    "algorithm_codes/_posts/2023-06-18-boj15686.md",
     "_pages/about.md",
     "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
@@ -223,7 +225,6 @@
     "docker_k8s/_posts/2023-05-18-docker-section7.md",
     "docker_k8s/_posts/2023-05-22-docker-section8.md",
     "docker_k8s/_posts/2023-05-28-docker-section9.md",
-    "algorithm_codes/_posts/2023-06-18-boj15686.md",
     "attatchments/workindirnotapplying.png",
     "attatchments/D9CA9AFB-2AB9-4C42-AE47-B727FFF91BCE_4_5005_c.jpeg",
     "attatchments/Pasted image 20230720161728.png",

@@ -27,36 +27,9 @@ last_modified_at: 2023-07-28
 
 # Skillls
 
-## Programming Languages
-
-- Java
-- Python
-
-## Back-End
-
-### Framework
-
-- Java Spring 
-
-### DB
-
-- MySQL
-
-## DevOps
-
-- DB
-    - MySQL
-- AWS
-	- EC2, RDS
-- OCI 
-- Docker, Docker-compose
-- Linux, Ubuntu
-- GitHub Actions
-
-## Tools 
-
-- IntelliJ IDEA, Visual Studio Code
-- Git, GitHub
+| <h2>Programming <br> Languages</h2> | <h2> Back-End </h2> | <h2>DevOps</h2>                       | <h2>Tools</h2>                                                                                                         |
+| ----------------------------------- | ------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Java <br> Python                    | Java Spring         | DB: MySQL <br> AWS: EC2, RDS <br> OCI | IntelliJ IDEA, Visual Studio Code <br> Git, GitHub <br> GitHub Actions <br>  Docker, Docker-compose <br> Linux, Ubuntu |
 
 
 # Projects
@@ -84,8 +57,6 @@ last_modified_at: 2023-07-28
 	- [Docker Hub 이미지](https://hub.docker.com/repository/docker/21yrshin/seb44_main_017/general) 생성
 	- CI & CD 적용을 위해 GitHub Actions 사용
 	- Docker-compose를 사용하여 EC2 배포
-
-
 
 # Educations
 
