@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 layout: single
+title: " "
 toc: true
 toc_sticky: true
 toc_label: "YRSHIN"
