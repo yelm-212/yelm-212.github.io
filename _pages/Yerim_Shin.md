@@ -2,9 +2,6 @@
 permalink: /about/
 layout: single
 excerpt: "Introducing myself"
-categories:
-  - Blog
-title: "Yerim_Shin"
 toc: true
 toc-sticky: false
 toc_label: "YRSHIN"
@@ -29,7 +26,7 @@ last_modified_at: 2023-07-28
 
 | **Programming** <br> **Languages** | **Back-End** | **DevOps**                            | **Tools**                                                                                                              | 
 | ---------------------------------- | ------------ | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Java <br> Python                   | Java Spring  | DB: MySQL <br> AWS: EC2, RDS <br> OCI | IntelliJ IDEA, Visual Studio Code <br> Git, GitHub <br> GitHub Actions <br>  Docker, Docker-compose <br> Linux, Ubuntu |
+| Java <br> Python                   | Java Spring  <br> DB: MySQL | AWS: EC2, RDS <br> OCI | IntelliJ IDEA, Visual Studio Code <br> Git, GitHub <br> GitHub Actions <br>  Docker, Docker-compose <br> Linux, Ubuntu |
 
 
 # Projects
