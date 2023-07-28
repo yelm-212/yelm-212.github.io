@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -201,8 +201,9 @@
   },
   "active": "d84db8ad1eabc2f3",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2023-06-18-boj15686.md",
+    "attatchments/boj-gold-3.png",
     "_pages/about.md",
+    "algorithm_codes/_posts/2023-06-18-boj15686.md",
     "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
     "attatchments/BOJ-level.png",
@@ -231,7 +232,6 @@
     "attatchments/20230720155433.png",
     "attatchments/2023-07-2003.09.09PM.png",
     "attatchments/Screenshot.md",
-    "attatchments/20230720145323.png",
     "plans_til/_posts/2023-07-11.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
