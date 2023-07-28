@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -181,12 +180,14 @@
   },
   "active": "d84db8ad1eabc2f3",
   "lastOpenFiles": [
+    "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
+    "_pages/Yerim_Shin.md",
+    "docker_k8s/_posts/2023-05-28-docker-section9.md",
+    "plans_til/_posts/2023-03-22-daily-0.md",
     "attatchments/feedback1.png",
     "attatchments/feedback.png",
     "attatchments/boj-gold-3.png",
-    "_pages/Yerim_Shin.md",
     "algorithm_codes/_posts/2023-06-18-boj15686.md",
-    "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
     "attatchments/BOJ-level.png",
     "7월 첫째주 Main Project.md",
@@ -207,11 +208,9 @@
     "docker_k8s/_posts/2023-05-02-docker-section6.md",
     "docker_k8s/_posts/2023-05-18-docker-section7.md",
     "docker_k8s/_posts/2023-05-22-docker-section8.md",
-    "docker_k8s/_posts/2023-05-28-docker-section9.md",
     "attatchments/workindirnotapplying.png",
     "attatchments/D9CA9AFB-2AB9-4C42-AE47-B727FFF91BCE_4_5005_c.jpeg",
     "attatchments/Pasted image 20230720161728.png",
-    "attatchments/20230720155433.png",
     "attatchments/Screenshot.md",
     "plans_til/_posts/2023-07-11.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",

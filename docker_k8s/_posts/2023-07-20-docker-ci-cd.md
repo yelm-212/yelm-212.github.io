@@ -74,8 +74,8 @@ networks:
 ```
 
 EC2에 docker-compose를 설치하고, home directory(~)에 `docker-compose.yml` 파일을 작성해 주었다.
-환경 변수 파일을 따로 작성해도 되지만, 나의 경우 ~~귀찮아서~~ 컨테이너 수가 적고 어차피 EC2에서만 관리할 파일이기 때문에 그냥 파일에 바로 작성했다.
-컨테이너가 더 많아지거나 GitHub로 해당 파일을 관리할 예정이라면 .env 파일을 따로 작성하는 것이 좋을 것이다.
+환경 변수 파일을 따로 작성해도 되지만, 나의 경우 컨테이너 수가 적고 어차피 EC2 내에서만 사용하고 수정이 많지 않을 파일이기 때문에 그냥 파일에 바로 환경 변수들을 작성했다.
+컨테이너가 더 많아지거나, GitHub로 해당 파일을 관리할 예정이라면 .env 파일을 따로 작성하는 것이 좋을 것이다.
 
 # `Gradle.yml` 파일 작성
 
@@ -184,11 +184,11 @@ docker 이미지 빌드 및 push는 SSH에서 진행하지 않고, GitHub Action
           script: |  
             sudo docker rm -f spring  
             sudo docker pull [username]/[repository name]:[tag]  
-            docker-compose up -d  
+            sudo docker-compose up -d  
             docker image prune -f
 ```
 
-AWS EC2에 SSH 연결하기 위한 값들을 동일하게 넣고 실행해주면 된다.
+AWS EC2에 SSH 연결하기 위한 값들을 동일하게 넣고 (환경 변수로 넣어야 한다) 실행해주면 된다.
 
 - HOST : SSH 로그인을 위한 IPv4 DNS 주소
 - KEY : KEY값 (vim이나 cat 명령어로 확인 가능)
