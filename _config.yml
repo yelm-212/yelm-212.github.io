@@ -111,7 +111,10 @@ author:
   location         : "Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "Email - 0"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yerimshin@yelm.digital"
+    - label: "Email - 1"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:21yrshin@naver.com"
     - label: "Naver Blog"
@@ -120,15 +123,10 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yelm_212"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yelm-212"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
