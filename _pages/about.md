@@ -6,7 +6,7 @@ categories:
   - Blog
 title: "About"
 toc: true
-toc-sticky: true
+toc-sticky: false
 toc_label: "YRSHIN"
 last_modified_at: 2023-07-28
 ---
