@@ -17,8 +17,8 @@ last_modified_at: 2023-07-28
 
 # Contacts
 
-- [E-Mail(0)](yerimshin@yelm.digital)
-- [E-Mail(1)](21yrshin@naver.com)
+- [E-Mail(0)](mailto:yerimshin@yelm.digital)
+- [E-Mail(1)](mailto:21yrshin@naver.com)
 - [GitHub](https://github.com/yelm-212)
 - [GitHub blog](https://yelm-212.github.io/)
 
