@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "b8f5f9bddc722a0f"
-          }
-        ]
-      },
-      {
-        "id": "2291278bdf10ce17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "255fa553cab078f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/Yerim_Shin.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "b8f5f9bddc722a0f"
+            }
           }
         ]
       }
@@ -199,8 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "255fa553cab078f7",
+  "active": "d84db8ad1eabc2f3",
   "lastOpenFiles": [
+    "attatchments/feedback1.png",
+    "attatchments/feedback.png",
     "attatchments/boj-gold-3.png",
     "_pages/Yerim_Shin.md",
     "algorithm_codes/_posts/2023-06-18-boj15686.md",
@@ -230,7 +212,6 @@
     "attatchments/D9CA9AFB-2AB9-4C42-AE47-B727FFF91BCE_4_5005_c.jpeg",
     "attatchments/Pasted image 20230720161728.png",
     "attatchments/20230720155433.png",
-    "attatchments/2023-07-2003.09.09PM.png",
     "attatchments/Screenshot.md",
     "plans_til/_posts/2023-07-11.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",

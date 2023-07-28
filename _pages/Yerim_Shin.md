@@ -15,6 +15,9 @@ last_modified_at: 2023-07-28
 - 매일의 계획과, 새로 알게된 내용 등에 대해 [블로그](https://yelm-212.github.io/categories/#plans-til) 및 아날로그 노트에 기록하는 습관을 가지고 있습니다.
 	- 개인 기술 블로그에 `2023-03`부터 약 120개 이상의 포스팅을 꾸준히 작성하였습니다.
 
+<img src="/attatchments/feedback.png" style="max-width: 400px;" />
+<img src="/attatchments/feedback1.png" style="max-width: 400px;" />
+
 # Contacts
 
 - [E-Mail(0)](mailto:yerimshin@yelm.digital)
