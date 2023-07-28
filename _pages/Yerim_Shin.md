@@ -4,7 +4,7 @@ layout: single
 excerpt: "Introducing myself"
 categories:
   - Blog
-title: "About"
+title: "Yerim_Shin"
 toc: true
 toc-sticky: false
 toc_label: "YRSHIN"
