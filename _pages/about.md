@@ -27,9 +27,9 @@ last_modified_at: 2023-07-28
 
 # Skillls
 
-| <h2>Programming <br> Languages</h2> | <h2> Back-End </h2> | <h2>DevOps</h2>                       | <h2>Tools</h2>                                                                                                         |
-| ----------------------------------- | ------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Java <br> Python                    | Java Spring         | DB: MySQL <br> AWS: EC2, RDS <br> OCI | IntelliJ IDEA, Visual Studio Code <br> Git, GitHub <br> GitHub Actions <br>  Docker, Docker-compose <br> Linux, Ubuntu |
+| **Programming** <br> **Languages** | **Back-End** | **DevOps**                            | **Tools**                                                                                                              | 
+| ---------------------------------- | ------------ | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Java <br> Python                   | Java Spring  | DB: MySQL <br> AWS: EC2, RDS <br> OCI | IntelliJ IDEA, Visual Studio Code <br> Git, GitHub <br> GitHub Actions <br>  Docker, Docker-compose <br> Linux, Ubuntu |
 
 
 # Projects
