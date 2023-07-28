@@ -3,7 +3,6 @@ permalink: /about/
 layout: single
 excerpt: "Introducing myself"
 toc: true
-toc-sticky: false
 toc_label: "YRSHIN"
 last_modified_at: 2023-07-28
 ---
