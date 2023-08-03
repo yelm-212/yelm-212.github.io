@@ -54,8 +54,7 @@ last_modified_at: 2023-07-28
 1. Product의 기본 CRUD
 2. Product의 좋아요, 조회수 기능
 	- 하나의 Product에 한 명의 유저가 조회수를 중복하여 반영하지 않도록 구현
-	- 하나의 Product에 하나의 유저가 좋아요를 중복하여 반영하지 않도록 구현
-	- 유저가 좋아요를 취소할 수 있도록 구현
+	- 하나의 Product에 하나의 유저가 좋아요를 중복하여 반영하지 않도록 구현 / 기본 CRUD
 3. Product Comment CRUD
 4. [GitHub Actions + Docker + AWS EC2 CI & CD](https://yelm-212.github.io/docker_k8s/docker-ci-cd/)
 	- [Docker Hub 이미지](https://hub.docker.com/repository/docker/21yrshin/seb44_main_017/general) 생성
@@ -100,11 +99,10 @@ last_modified_at: 2023-07-28
 ## CS 스터디 \| 2023-02~
 
 - `2023-02` 부터 현재까지 코드스테이츠에서 함께한 동료들 일부와 스터디를 만들어, 기초적인 CS 지식에 대해 복습 및 학습하였습니다.
-- 매주 2회 정해진 시간에 모임을 하며, 발표자를 정해 학습한 내용에 대해 간단히 발표를 하였습니다.
+- 지난 시간 정한 범위에 대해 학습한 뒤, 매주 2회 정해진 시간에 모임을 하며 발표자를 정해 학습한 내용에 대해 간단히 발표 및 질문을 나누었습니다.
 
 ## Docker 스터디 \| 2023-04 ~2023-05
 
-### Fact
 - Docker의 개념 및 실제 프로젝트 적용에 대해 학습하고, 서로의 학습 상황을 점검하는 시간을 가졌습니다.
 - 해당 주차의 학습한 내용에 대해 자유롭게 의견을 교환할 수 있었습니다.
 
