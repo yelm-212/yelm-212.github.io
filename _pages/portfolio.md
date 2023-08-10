@@ -1,26 +1,20 @@
 ---
 permalink: /portfolio/
 layout: single
-title: "Portfolio"
+title: " "
 toc: true
 toc_sticky: true
 toc_label: "Portfolio"
 last_modified_at: 2023-08-10
 ---
-
-# Skills
-
-| **Programming** <br> **Languages** | **Back-End**                    | **DevOps**                 | **Tools**                                                                                                                       | 
-| ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| - Java <br> - Python               | - Java Spring  <br> - DB: MySQL | - AWS: EC2, RDS <br> - OCI | - IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> - GitHub Actions <br> - Docker, Docker-compose <br> - Linux, Ubuntu |
-
----
+# Portfolio
 
 # Projects
 
 ## RECLOSET \| 2023-06-28 ~ 2023-07-27 (약 5주)
 
-- 환경을 위한 중고 의류 판매 쇼핑몰
+환경을 위한 중고 의류 판매 쇼핑몰을 제작하고자 하였습니다.
+
 - [GitHub Repository](https://github.com/codestates-seb/seb44_main_017/tree/main)
 - [GitHub Actions CI & CD가 적용된 GitHub Repository](https://github.com/yelm-212/seb44_main_017_test)
 - [배포 링크](http://recloset-bucket.s3-website.ap-northeast-2.amazonaws.com/)
@@ -66,8 +60,9 @@ last_modified_at: 2023-08-10
 
 ## RISC-V simulator \| 2022-12-01 ~ 2022-12-20 (약 3주) \| 개인 프로젝트 (Python)
 
+RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 python으로 작성하였습니다.
+
 - [GitHub Repository](https://github.com/yelm-212/RISC-V-simulator/blob/main/README.md)
-- RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator
 
 ### 실행 방법 및 실행 결과
 
