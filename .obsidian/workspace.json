@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-08-01-docker-02.md",
+                "file": "_pages/about.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "cc8a75dad26dc3f2"
-          }
-        ]
-      },
-      {
-        "id": "6c838f35379c5798",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "b7c02ba0baa40794",
+            "id": "dd5761652b11812f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker_k8s/_posts/2023-08-01-docker-02.md",
+                "file": "docker_k8s/_posts/2023-08-08-docker-03.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "0d5acd08a28f8f27"
+          }
+        ]
+      },
+      {
+        "id": "a4fb274917141e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24bc8f59830a8888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker_k8s/_posts/2023-08-08-docker-03.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "cc8a75dad26dc3f2"
+            "group": "0d5acd08a28f8f27"
           }
         ]
       }
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker_k8s/_posts/2023-08-01-docker-02.md",
+                "file": "_pages/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker_k8s/_posts/2023-08-01-docker-02.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker_k8s/_posts/2023-08-01-docker-02.md"
+                "file": "_pages/about.md"
               }
             }
           },
@@ -200,8 +212,26 @@
   },
   "active": "894272a2f0917db4",
   "lastOpenFiles": [
-    "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
+    "attatchments/riscv.png",
+    "attatchments/recloset_ERD.png",
+    "_pages/portfolio.md",
+    "_pages/about copy.md",
+    "_pages/portfolio-archive.md",
+    "docker_k8s/_posts/2023-08-08-docker-03.md",
+    "plans_til/_posts/2023-08-08.md",
+    "plans_til/_posts/2023-08-07.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
+    "_posts/2023-06-07-practice-1.md",
+    "_posts/2023-06-08-codestates-‪s4.md",
+    "_posts/2023-06-27-codestates-pre.md",
+    "_posts/2023-05-09-codestates-‪s3.md",
+    "_posts/2023-04-10-codestates-‪s2.md",
+    "_posts/2023-03-22-mission.md",
+    "algorithm_codes/_posts/2023-07-31-programmers-64064.md",
+    "algorithm_codes/_posts/2023-07-31-programmers-150369.md",
+    "plans_til/_posts/2023-07-28-0728.md",
     "docker_k8s/_posts/2023-08-01-docker-02.md",
+    "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "docker_k8s/_posts/2023-05-18-docker-section7.md",
     "docker_k8s/_posts/2023-05-22-docker-section8.md",
@@ -210,23 +240,7 @@
     "docker_k8s/_posts/2023-08-01-docker-01.md",
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "_pages/about.md",
-    "algorithm_codes/_posts/2023-07-31-programmers-64064.md",
-    "algorithm_codes/_posts/2023-07-31-programmers-150369.md",
     "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
-    "java/_posts/2023-03-22-jdk_jre_jvm.md",
-    "db/_posts/2023-04-19-database-02.md",
-    "plans_til/_posts/2023-03-28-daily-2.md",
-    "7월 첫째주 Main Project.md",
-    "network/_posts/2023-04-04-net04.md",
-    "network/_posts/2023-03-30-net02.md",
-    "docker_k8s/_posts/2023-04-25-docker-section4.md",
-    "docker_k8s/_posts/2023-04-10-docker-section3.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec02.md",
-    "docker_k8s/_posts/2023-04-28-docker-section5.md",
-    "docker_k8s/_posts/2023-05-02-docker-section6.md",
-    "docker_k8s/_posts/2023-05-28-docker-section9.md",
-    "plans_til/_posts/2023-05-19-daily0519.md",
-    "plans_til/_posts/2023-06-21-daily0621.md",
     "attatchments/docker-hello-world.png",
     "attatchments/20230522142414.png",
     "attatchments/CBDF0777-903F-404E-BC6C-EBA0DF202A6D_4_5005_c.jpeg",
@@ -234,7 +248,6 @@
     "attatchments/feedback.png",
     "attatchments/boj-gold-3.png",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
-    "attatchments/BOJ-level.png",
     "os/_posts",
     "os",
     "java/spring/_posts",
