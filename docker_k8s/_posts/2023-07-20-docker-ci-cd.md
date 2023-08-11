@@ -197,7 +197,7 @@ AWS EC2에 SSH 연결하기 위한 값들을 동일하게 넣고 (환경 변수�
 
 ![](/attatchments/20230720155433.png)
 
-EC2에서 실행된 컨테이너에 의해, 기존 Spring의 Http request들도 정상작동한다.
+EC2에서 실행된 컨테이너에 의해, Http request들도 정상작동한다.
 
 ![](/attatchments/D9CA9AFB-2AB9-4C42-AE47-B727FFF91BCE_4_5005_c.jpeg)
 

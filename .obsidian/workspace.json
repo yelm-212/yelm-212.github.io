@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-08-08-0808.md",
+                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-08-08-0808.md",
+                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-08-08-0808.md",
+                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-08-08-0808.md"
+                "file": "docker_k8s/_posts/2023-07-20-docker-ci-cd.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "98c34ee70190d976",
   "lastOpenFiles": [
+    "plans_til/_posts/2023-05-25-daily0530.md",
+    "plans_til/_posts/2023-08-08-0808.md",
     "_pages/about.md",
     "_pages/portfolio.md",
     "os/_posts/2023-06-03-os-5.md",
@@ -204,8 +206,6 @@
     "plans_til/_posts/2023-04-26-daily-18.md",
     "plans_til/_posts/2023-04-27-daily-19.md",
     "plans_til/_posts/2023-04-28-daily-20.md",
-    "plans_til/_posts/2023-05-01-daily-21.md",
-    "plans_til/_posts/2023-05-02-daily-22.md",
     "attatchments/riscv.png",
     "attatchments/recloset_ERD.png",
     "attatchments/dockerpush.png",
