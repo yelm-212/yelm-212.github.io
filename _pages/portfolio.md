@@ -13,7 +13,7 @@ last_modified_at: 2023-08-10
 
 ### RECLOSET \| 2023-06-28 ~ 2023-07-27 (약 5주)
 
-환경을 위한 중고 의류 판매 쇼핑몰을 제작하고자 하였습니다.
+환경을 위한 중고 의류 판매 쇼핑몰을 제작하였습니다.
 
 - [GitHub Repository](https://github.com/codestates-seb/seb44_main_017/tree/main)
 - [GitHub Actions CI & CD가 적용된 GitHub Repository](https://github.com/yelm-212/seb44_main_017_test)
@@ -53,10 +53,11 @@ last_modified_at: 2023-08-10
 
 ##### 향후 보완점 및 업데이트 계획
 
-1. Product Controller Layer 리팩토링
+1. Product Controller, Service Layer 리팩토링
 2. 단위 테스트 코드 작성하기
 3. 레거시 코드 제거
 
+---
 
 ### RISC-V simulator \| 2022-12-01 ~ 2022-12-20 (약 3주) \| 개인 프로젝트 (Python)
 
