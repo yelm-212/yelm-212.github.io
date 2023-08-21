@@ -53,9 +53,8 @@ last_modified_at: 2023-08-10
 
 ##### 향후 보완점 및 업데이트 계획
 
-1. Product Controller, Service Layer 리팩토링
+1. Product Controller, Service Layer 리팩토링 및 레거시 코드 관리
 2. 단위 테스트 코드 작성하기
-3. 레거시 코드 제거
 
 ---
 
