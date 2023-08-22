@@ -9,7 +9,7 @@ last_modified_at: 2023-07-28
 ---
 # \[Backend Engineer] Yerim Shin
 
-## 꾸준히 기록을 남기는 것을 좋아하는 개발자입니다.
+## 꾸준히 기록을 남기며, 경청하는 자세로 성장하고자 하는 개발자입니다.
 
 - 매일의 계획과, 새로 알게된 내용 등에 대해 [블로그](https://yelm-212.github.io/categories/#plans-til) 및 아날로그 노트에 기록하는 습관을 가지고 있습니다.
 	- 개인 기술 블로그에 `2023-03`부터 약 120개 이상의 포스팅을 꾸준히 작성하였습니다.
@@ -30,9 +30,9 @@ last_modified_at: 2023-07-28
 
 # Skills
 
-| **Programming** <br> **Languages** | **Back-End**                    | **DevOps**                 | **Tools**                                                                                                                       | 
+| **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| - Java <br> - Python               | - Java Spring  <br> - DB: MySQL | - AWS: EC2, RDS <br> - OCI | - IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> - GitHub Actions <br> - Docker, Docker-compose <br> - Linux, Ubuntu |
+| - Java <br> - Python               | - Java Spring Boot Framework,<br> JPA, QueryDSL ... <br> - DB: MySQL | - AWS: EC2, RDS <br> - OCI <br> - GitHub Actions | - IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> - Docker, Docker-compose <br> - Linux, Ubuntu |
 
 ---
 
@@ -45,26 +45,7 @@ last_modified_at: 2023-07-28
 - [GitHub Actions CI & CD가 적용된 GitHub Repository](https://github.com/yelm-212/seb44_main_017_test)
 - [배포 링크](http://recloset-bucket.s3-website.ap-northeast-2.amazonaws.com/)
 
-### 사용한 기술 스택
-
-- Java Spring Boot, MySQL, AWS(EC2, RDS), Docker 등
-
-### 기능 구현 및 역할 
-
-1. Product의 기본 CRUD
-2. Product의 좋아요, 조회수 기능
-	- 하나의 Product에 한 명의 유저가 조회수를 중복하여 반영하지 않도록 구현
-	- 하나의 Product에 하나의 유저가 좋아요를 중복하여 반영하지 않도록 구현 / 기본 CRUD
-3. Product Comment CRUD
-4. [GitHub Actions + Docker + AWS EC2 CI & CD](https://yelm-212.github.io/docker_k8s/docker-ci-cd/)
-	- [Docker Hub 이미지](https://hub.docker.com/repository/docker/21yrshin/seb44_main_017/general) 생성
-	- CI & CD 적용을 위해 GitHub Actions 사용
-		- Docker-compose
-		- EC2 자동 배포
-
----
-
-# [Portfolio](https://yelm-212.github.io/portfolio/)
+# [Portfolio & Projects](https://yelm-212.github.io/portfolio/)
 
 
 ---

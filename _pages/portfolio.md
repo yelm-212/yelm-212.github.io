@@ -26,6 +26,7 @@ last_modified_at: 2023-08-10
 #### My Roles 
 
 - BE 팀원
+- 프로젝트 아이디어 기획
 - DB Schema
 
 ##### 사용한 기술 스택

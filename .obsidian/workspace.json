@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-08-22.md",
+                "file": "_pages/portfolio.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd83989e8bdabd07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885dfd864cc1a02c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/about.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -93,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-08-22.md",
+                "file": "_pages/portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-08-22.md",
+                "file": "_pages/portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-08-22.md"
+                "file": "_pages/portfolio.md"
               }
             }
           },
@@ -180,15 +199,16 @@
   },
   "active": "54674c72fbb72bfa",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
+    "_pages/about.md",
+    "_pages/portfolio.md",
     "plans_til/_posts/2023-08-22.md",
+    "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
     "plans_til/_posts/2023-08-10.md",
     "plans_til/_posts/2023-08-11.md",
     "algorithm_codes/_posts/2023-08-10-programmers-118667.md",
     "algorithm_codes/_posts/2023-08-11-programmers-11866.md",
     "algorithm_codes/_posts/2023-08-16-programmers-92665.md",
     "algorithm_codes/_posts/2023-08-17-programmers-12981.md",
-    "_pages/portfolio.md",
     "db/_posts/2023-04-24-database-03.md",
     "db/_posts/2023-04-19-database-02.md",
     "db/_posts/2023-04-17-database-01.md",
@@ -196,7 +216,6 @@
     "algorithm_codes/_posts/2023-07-30-programmers-49993.md",
     "algorithm_codes/_posts/2023-07-31-programmers-64064.md",
     "algorithm_codes/_posts/2023-07-31-programmers-150369.md",
-    "_pages/about.md",
     "network/_posts/2023-04-04-net03.md",
     "network/_posts/2023-03-30-net02.md",
     "network/_posts/2023-03-29-net01.md",
