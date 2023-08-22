@@ -22,17 +22,17 @@
         ]
       },
       {
-        "id": "fd83989e8bdabd07",
+        "id": "1bc974b1c128589d",
         "type": "tabs",
         "children": [
           {
-            "id": "885dfd864cc1a02c",
+            "id": "5652c4d687cc06a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/portfolio.md",
+                "file": "_pages/about.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/portfolio.md",
+                "file": "_pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/portfolio.md"
+                "file": "_pages/about.md"
               }
             }
           },
@@ -197,11 +196,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54674c72fbb72bfa",
+  "active": "5652c4d687cc06a0",
   "lastOpenFiles": [
-    "_pages/about.md",
     "_pages/portfolio.md",
-    "plans_til/_posts/2023-08-22.md",
+    "plans_til/_posts/2023-08-22-0822.md",
+    "_pages/about.md",
     "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
     "plans_til/_posts/2023-08-10.md",
     "plans_til/_posts/2023-08-11.md",

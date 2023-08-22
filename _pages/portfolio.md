@@ -27,7 +27,7 @@ last_modified_at: 2023-08-10
 
 - BE 팀원
 - 프로젝트 아이디어 기획
-- DB Schema
+- DB Schema, API Documentation
 
 ##### 사용한 기술 스택
 

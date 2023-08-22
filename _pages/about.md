@@ -30,7 +30,7 @@ last_modified_at: 2023-07-28
 
 # Skills
 
-| **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
+| **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | - Java <br> - Python               | - Java Spring Boot Framework,<br> JPA, QueryDSL ... <br> - DB: MySQL | - AWS: EC2, RDS <br> - OCI <br> - GitHub Actions | - IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> - Docker, Docker-compose <br> - Linux, Ubuntu |
 
