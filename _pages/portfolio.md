@@ -31,7 +31,7 @@ last_modified_at: 2023-08-10
 
 ##### 사용한 기술 스택
 
-- Java, Spring Boot Framework, JPA, QueryDSL
+- Java, Spring Boot, JPA, QueryDSL
 - DB : MySQL
 - Deploy : AWS(EC2, RDS), Docker
 - Git : Git, GitHub
