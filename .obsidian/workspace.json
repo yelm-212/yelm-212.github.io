@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plans_til/_posts/2023-09-04-20230904.md",
+                "file": "effective_java/_posts/2023-09-05-EJ-2-01.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plans_til/_posts/2023-09-04-20230904.md",
+                "file": "effective_java/_posts/2023-09-05-EJ-2-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plans_til/_posts/2023-09-04-20230904.md",
+                "file": "effective_java/_posts/2023-09-05-EJ-2-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plans_til/_posts/2023-09-04-20230904.md"
+                "file": "effective_java/_posts/2023-09-05-EJ-2-01.md"
               }
             }
           },
@@ -180,9 +180,18 @@
   },
   "active": "fcae9dfc0e5a9490",
   "lastOpenFiles": [
-    "plans_til/_posts/2023-08-22-0822.md",
-    "plans_til/_posts/2023-09-04-20230904.md",
+    "effective_java/_posts/2023-09-05-EJ-2-02.md",
+    "effective_java/_posts/2023-09-05-EJ-2-01.md",
+    "_templates/YYYY-MM-DD- EJ-n.md",
+    "plans_til/_posts/2023-03-28-daily-2.md",
+    "algorithm_codes/_posts/2023-09-05-BOJ-2309.md",
+    "effective_java/_posts",
+    "effective_java",
     "algorithm_codes/_posts/2023-09-04-boj-9095.md",
+    "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
+    "plans_til/_posts/2023-09-05.md",
+    "plans_til/_posts/2023-09-04-20230904.md",
+    "plans_til/_posts/2023-08-22-0822.md",
     "_pages/about.md",
     "_pages/portfolio.md",
     "db/_posts/2023-04-24-database-03.md",
@@ -199,13 +208,6 @@
     "algorithm_codes/_posts/2023-07-30-programmers-49993.md",
     "algorithm_codes/_posts/2023-07-31-programmers-64064.md",
     "algorithm_codes/_posts/2023-07-31-programmers-150369.md",
-    "algorithm_codes/_posts/2023-08-10-programmers-118667.md",
-    "algorithm_codes/_posts/2023-08-11-programmers-11866.md",
-    "algorithm_codes/_posts/2023-08-16-programmers-92665.md",
-    "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
-    "algorithm_codes/_posts/2023-08-17-programmers-12981.md",
-    "plans_til/_posts/2023-08-10.md",
-    "plans_til/_posts/2023-08-11.md",
     "attatchments/riscv.png",
     "attatchments/recloset_ERD.png",
     "attatchments/dockerpush.png",
@@ -223,8 +225,6 @@
     "db/_posts",
     "db",
     "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
-    "docker_k8s/_posts",
-    "docker_k8s",
-    "attachments"
+    "docker_k8s/_posts"
   ]
 }
