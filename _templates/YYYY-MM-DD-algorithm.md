@@ -1,5 +1,5 @@
 ---
-title:  "{{date}} BOJ"
+title:  "BOJ"
 excerpt: "백준  문제의 풀이입니다."
 
 tags:

@@ -1,6 +1,6 @@
 ---
-title:  "{{date}} Daily Post"
-excerpt: "daily post"
+title:  "{{date}} Today I Learned"
+excerpt: "summarized Today I Learned"
 
 categories:
   - Blog
@@ -15,12 +15,8 @@ last_modified_at: {{date}}
 
 ---
 
-# Daily TODO
+# TIL
 
-- [x] [알고리즘 한문제 풀기](https://www.acmicpc.net/step)
-	- [ ] [포스팅](https://yelm-212.github.io/algorithm_codes/boj/)
-- [ ] 커리어 스킬 1챕터
 
-# TIL, logs
 
 
