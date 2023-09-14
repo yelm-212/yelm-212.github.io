@@ -28,7 +28,7 @@ last_modified_at: 2023-09-1
 
 | **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework, <br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
+| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework, <br> JPA, QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
 
 ---
 <br>
@@ -88,8 +88,8 @@ RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 p
 
 ## 경북대학교 졸업 \| 2019-02 ~ 2023-08
 
-- <span style="color:#0070c0">**컴퓨터학부 복수전공**</span> | 산림과학.조경학부 임산공학전공
-	- 프로그래밍기초, 컴퓨팅사고와 SW코딩 : A+
+- <span style="color:#0070c0">**컴퓨터학부 복수전공**</span> \| 산림과학.조경학부 임산공학전공
+- 프로그래밍기초, 컴퓨팅사고와 SW코딩 : A+
 
 ---
 
