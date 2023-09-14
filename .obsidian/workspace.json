@@ -13,31 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "effective_java/_posts/2023-09-13-EJ-2-03.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "2f2106cf20fb54a9"
-          }
-        ]
-      },
-      {
-        "id": "2b895fde9aa20356",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "9ef4c6ec7e4304be",
+            "id": "02e0651633e0ccc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_pages/about.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "2f2106cf20fb54a9"
+            }
           }
         ]
       }
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md",
+                "file": "effective_java/_posts/2023-09-13-EJ-2-03.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/about.md",
+                "file": "effective_java/_posts/2023-09-13-EJ-2-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/about.md"
+                "file": "effective_java/_posts/2023-09-13-EJ-2-03.md"
               }
             }
           },
@@ -200,12 +192,12 @@
   },
   "active": "fcae9dfc0e5a9490",
   "lastOpenFiles": [
-    "_templates/YYYY-MM-DD-daily-post.md",
-    "_pages/about.md",
-    "_pages/portfolio.md",
-    "_pages/markup.md",
     "effective_java/_posts/2023-09-13-EJ-2-04.md",
     "effective_java/_posts/2023-09-13-EJ-2-03.md",
+    "_pages/about.md",
+    "_pages/markup.md",
+    "_pages/portfolio.md",
+    "_templates/YYYY-MM-DD-daily-post.md",
     "java/_posts/2023-04-26-error3.md",
     "algorithm_codes/_posts/2023-09-04-boj-9095.md",
     "algorithm_codes/_posts/2023-09-08-BOJ-1476.md",

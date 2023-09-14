@@ -28,7 +28,7 @@ last_modified_at: 2023-09-1
 
 | **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">** - Java Spring Boot Framework**,<br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
+| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework, <br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
 
 ---
 <br>
@@ -82,6 +82,7 @@ RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 p
 ![](/attatchments/riscv.png)
 
 ---
+<br>
 
 # Educations
 
@@ -92,6 +93,7 @@ RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 p
 
 ---
 
+<br>
 # Training
 
 ## Codestates 백엔드 부트캠프 44기 \| 2023-02-13 ~ 2023-08-03
@@ -100,7 +102,7 @@ RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 p
 - 여러 동료들과 페어프로그래밍을 경험하였습니다.
 
 ---
-
+<br>
 # Experiences
 
 ## CS 스터디 \| 2023-02~
@@ -126,6 +128,7 @@ RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 p
 - 스터디 중에 문제를 풀거나 학습한 내용을 매주 노션에 정리하고 향후 계획을 정리하였습니다.
 
 ---
+<br>
 
 # Certifications
 
