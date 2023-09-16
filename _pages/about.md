@@ -73,7 +73,7 @@ last_modified_at: 2023-09-1
 
 ---
 
-### RISC-V simulator \| 2022-12-01 ~ 2022-12-20 (약 3주) \| 개인 프로젝트 (Python)
+## RISC-V simulator \| 2022-12-01 ~ 2022-12-20 (약 3주) \| 개인 프로젝트 (Python)
 
 RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 python으로 작성하였습니다.
 
