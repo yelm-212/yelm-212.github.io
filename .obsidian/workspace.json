@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
+                "file": "effective_java/_posts/2023-09-21-EJ-2-07.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
+                "file": "effective_java/_posts/2023-09-21-EJ-2-07.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
+                "file": "effective_java/_posts/2023-09-21-EJ-2-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2023-09-10-BOJ-14500.md"
+                "file": "effective_java/_posts/2023-09-21-EJ-2-07.md"
               }
             }
           },
@@ -189,11 +189,18 @@
   },
   "active": "fcae9dfc0e5a9490",
   "lastOpenFiles": [
+    "effective_java/_posts/2023-09-21-EJ-2-06.md",
+    "effective_java/_posts/2023-09-21-EJ-2-07.md",
+    "effective_java/_posts/2023-09-05-EJ-2-01.md",
+    "effective_java/_posts/2023-09-21-EJ-2-05.md",
+    "effective_java/_posts/2023-09-05-EJ-2-02.md",
+    "effective_java/_posts/2023-09-13-EJ-2-03.md",
+    "effective_java/_posts/2023-09-13-EJ-2-04.md",
+    "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
     "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
     "algorithm_codes/_posts/2023-09-16-BOJ-15650.md",
     "algorithm_codes/_posts/2023-09-16-BOJ-15651.md",
     "algorithm_codes/_posts/2023-09-16-BOJ-15649.md",
-    "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
     "_pages/about.md",
     "java/_posts/2023-03-24-java_collection.md",
     "java/_posts/2023-03-26-algorithms.md",
@@ -208,13 +215,6 @@
     "algorithm_codes/_posts/2023-08-17-programmers-129812.md",
     "algorithm_codes/_posts/2023-07-30-programmers-12897.md",
     "algorithm_codes/_posts/2023-05-15-programmers-0515.md",
-    "algorithm_codes/_posts/2023-05-19-programmers-0519.md",
-    "algorithm_codes/_posts/2023-05-20-programmers-0520.md",
-    "algorithm_codes/_posts/2023-06-01-programmers-0601.md",
-    "algorithm_codes/_posts/2023-05-31-programmers-0531.md",
-    "algorithm_codes/_posts/2023-05-02-programmers-1.md",
-    "algorithm_codes/_posts/2023-04-27-boj19532.md",
-    "algorithm_codes/_posts/2023-04-03-boj16948.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
