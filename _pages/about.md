@@ -5,7 +5,7 @@ title: " "
 toc: true
 toc_sticky: true
 toc_label: "YRSHIN"
-last_modified_at: 2023-09-1
+last_modified_at: 2023-09-01
 ---
 # \[Backend Engineer] Yerim Shin
 
