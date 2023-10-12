@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3ad5c31a8f2abb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcae9dfc0e5a9490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "effective_java/_posts/2023-10-01-EJ-2-09.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "f2409a12f2245884"
-          }
-        ]
-      },
-      {
         "id": "008a2e46b65853ee",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-10-01-EJ-2-09.md",
-                "mode": "preview",
+                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
+                "mode": "source",
                 "source": true
               }
-            },
-            "group": "f2409a12f2245884"
+            }
           }
         ]
       }
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-10-01-EJ-2-09.md",
+                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-10-01-EJ-2-09.md",
+                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-10-01-EJ-2-09.md"
+                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md"
               }
             }
           },
@@ -208,15 +188,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fcae9dfc0e5a9490",
+  "active": "7703c77c2c07a253",
   "lastOpenFiles": [
     "effective_java/_posts/2023-10-01-EJ-2-10.md",
+    "effective_java/_posts/2023-10-12-EJ-2-11.md",
     "effective_java/_posts/2023-10-01-EJ-2-09.md",
+    "algorithm_codes/_posts/2023-09-24-BOJ-14889 1.md",
+    "_pages/portfolio.md",
     "effective_java/_posts/2023-10-01-EJ-2-08.md",
     "effective_java/_posts/2023-09-21-EJ-2-07.md",
     "_pages/archive-layout-with-content.md",
     "_pages/about.md",
-    "algorithm_codes/_posts/2023-09-24-BOJ-14889 1.md",
     "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
     "db/_posts/2023-04-24-database-03.md",
     "db/_posts/2023-04-19-database-02.md",
@@ -234,8 +216,6 @@
     "algorithm_codes/_posts/2023-09-16-BOJ-15651.md",
     "algorithm_codes/_posts/2023-09-16-BOJ-15649.md",
     "java/_posts/2023-03-24-java_collection.md",
-    "java/_posts/2023-03-26-algorithms.md",
-    "java/_posts/2023-03-22-java-essentials.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
