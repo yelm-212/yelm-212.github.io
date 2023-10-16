@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
+                "file": "algorithm_codes/_posts/2023-10-16-boj-1759.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
+                "file": "algorithm_codes/_posts/2023-10-16-boj-1759.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md",
+                "file": "algorithm_codes/_posts/2023-10-16-boj-1759.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-10-12-EJ-2-11.md"
+                "file": "algorithm_codes/_posts/2023-10-16-boj-1759.md"
               }
             }
           },
@@ -190,16 +189,21 @@
   },
   "active": "7703c77c2c07a253",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-10-01-EJ-2-10.md",
-    "effective_java/_posts/2023-10-12-EJ-2-11.md",
-    "effective_java/_posts/2023-10-01-EJ-2-09.md",
+    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
+    "algorithm_codes/_posts/2023-10-16-boj-1759.md",
+    "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
+    "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
     "algorithm_codes/_posts/2023-09-24-BOJ-14889 1.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
+    "_pages/home.md",
+    "_pages/lorem-ipsum.md",
+    "effective_java/_posts/2023-10-12-EJ-2-11.md",
+    "effective_java/_posts/2023-10-01-EJ-2-10.md",
+    "effective_java/_posts/2023-10-01-EJ-2-09.md",
     "_pages/portfolio.md",
     "effective_java/_posts/2023-10-01-EJ-2-08.md",
     "effective_java/_posts/2023-09-21-EJ-2-07.md",
-    "_pages/archive-layout-with-content.md",
-    "_pages/about.md",
-    "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
     "db/_posts/2023-04-24-database-03.md",
     "db/_posts/2023-04-19-database-02.md",
     "db/_posts/2023-04-17-database-01.md",
@@ -211,11 +215,6 @@
     "effective_java/_posts/2023-09-13-EJ-2-03.md",
     "effective_java/_posts/2023-09-13-EJ-2-04.md",
     "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15650.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15651.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15649.md",
-    "java/_posts/2023-03-24-java_collection.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
