@@ -28,7 +28,7 @@ last_modified_at: 2023-09-01
 
 | **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework, <br> JPA, QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
+| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework <br> - Spring Security, <br> OAuth2, <br> JPA, <br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
 
 ---
 <br>
