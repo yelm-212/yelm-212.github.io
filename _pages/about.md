@@ -28,7 +28,7 @@ last_modified_at: 2023-09-01
 
 | **Programming** <br> **Languages** | **Back-End**                    | **Deploy**                 | **Tools**                                                                                                                       | 
 | ---------------------------------- | ------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework <br> - Spring Security, <br> OAuth2, <br> JPA, <br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
+| **<span style="color:#0070c0"> - Java <br> - Python</span>**               | <span style="color:#0070c0">- Java Spring Boot Framework <br> - Spring Security, <br> OAuth2, JPA, <br> QueryDSL ...</span> <br> <span style="color:#0070c0"> - DB: MySQL</span> | <span style="color:#0070c0">- AWS: EC2, RDS <br> - OCI <br> **- GitHub Actions**</span> | <span style="color:#0070c0">- IntelliJ IDEA, Visual Studio Code <br> - Git, GitHub <br> **- Docker, Docker-compose** <br> - Linux, Ubuntu</span> |
 
 ---
 <br>
@@ -56,7 +56,6 @@ last_modified_at: 2023-09-01
 - Deploy : AWS(EC2, RDS), Docker
 - Git : Git, GitHub
 
-
 ### 기능 구현 및 역할 
 
 1. Product의 기본 CRUD
@@ -70,19 +69,6 @@ last_modified_at: 2023-09-01
 	- CI & CD 적용을 위해 GitHub Actions 사용
 		- Docker-compose
 		- EC2 자동 배포
-
----
-
-## RISC-V simulator \| 2022-12-01 ~ 2022-12-20 (약 3주) \| 개인 프로젝트 (Python)
-
-RISC-V instruction의 변환된 binary file을 실행시켜주는 simulator를 python으로 작성하였습니다.
-
-- [GitHub Repository](https://github.com/yelm-212/RISC-V-simulator/blob/main/README.md)
-
-![](/attatchments/riscv.png)
-
----
-<br>
 
 # Educations
 
