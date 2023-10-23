@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-10-18-EJ-2-12.md",
+                "file": "_posts/2023-10-22-patterns.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-10-18-EJ-2-12.md",
+                "file": "_posts/2023-10-22-patterns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-10-18-EJ-2-12.md",
+                "file": "_posts/2023-10-22-patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-10-18-EJ-2-12.md"
+                "file": "_posts/2023-10-22-patterns.md"
               }
             }
           },
@@ -189,8 +190,10 @@
   },
   "active": "7703c77c2c07a253",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-10-18-EJ-2-13.md",
     "effective_java/_posts/2023-10-18-EJ-2-12.md",
+    "_posts/2023-10-22-patterns.md",
+    "computer_science",
+    "effective_java/_posts/2023-10-18-EJ-2-13.md",
     "effective_java/_posts/2023-10-12-EJ-2-11.md",
     "effective_java/_posts/2023-10-01-EJ-2-10.md",
     "effective_java/_posts/2023-10-01-EJ-2-09.md",
@@ -208,13 +211,12 @@
     "_pages/lorem-ipsum.md",
     "effective_java/_posts/2023-10-01-EJ-2-08.md",
     "effective_java/_posts/2023-09-21-EJ-2-07.md",
-    "db/_posts/2023-04-24-database-03.md",
-    "db/_posts/2023-04-19-database-02.md",
-    "db/_posts/2023-04-17-database-01.md",
-    "db/_posts/2023-04-26-database-04.md",
+    "computer_science/db/_posts/2023-04-24-database-03.md",
+    "computer_science/db/_posts/2023-04-19-database-02.md",
+    "computer_science/db/_posts/2023-04-17-database-01.md",
+    "computer_science/db/_posts/2023-04-26-database-04.md",
     "effective_java/_posts/2023-09-21-EJ-2-06.md",
     "effective_java/_posts/2023-09-21-EJ-2-05.md",
-    "effective_java/_posts/2023-09-05-EJ-2-01.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
@@ -227,13 +229,12 @@
     "attatchments/feedback1.png",
     "attatchments/feedback.png",
     "attatchments/boj-gold-3.png",
-    "os/_posts",
-    "os",
+    "computer_science/os/_posts",
+    "computer_science/os",
     "java/spring/_posts",
     "java/spring",
-    "db/_posts",
-    "db",
-    "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM",
-    "docker_k8s/_posts"
+    "computer_science/db/_posts",
+    "computer_science/db",
+    "attatchments/Screenshot 2023-04-12 at 5.10.28 PM.png.sb-060c06fc-QYnVgM"
   ]
 }
