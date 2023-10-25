@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-22-patterns.md",
+                "file": "algorithm_codes/_posts/2023-10-17-boj-1248.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a3ef314f95304b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-22-patterns.md",
+                "file": "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-22-patterns.md",
+                "file": "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-22-patterns.md"
+                "file": "algorithm_codes/_posts/2023-10-25-BOJ-10819.md"
               }
             }
           },
@@ -188,35 +200,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7703c77c2c07a253",
+  "active": "9a3ef314f95304b6",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-10-18-EJ-2-12.md",
+    "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
+    "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
+    "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
+    "algorithm_codes/_posts/2023-09-16-BOJ-15651.md",
+    "algorithm_codes/_posts/2023-09-16-BOJ-15649.md",
+    "algorithm_codes/_posts/2023-09-16-BOJ-15650.md",
+    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
+    "algorithm_codes/_posts/2023-10-16-boj-1759.md",
+    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
+    "algorithm_codes/_posts/2023-10-17-boj-1248 1.md",
+    "_pages/about.md",
     "_posts/2023-10-22-patterns.md",
+    "effective_java/_posts/2023-10-18-EJ-2-12.md",
     "computer_science",
     "effective_java/_posts/2023-10-18-EJ-2-13.md",
     "effective_java/_posts/2023-10-12-EJ-2-11.md",
     "effective_java/_posts/2023-10-01-EJ-2-10.md",
     "effective_java/_posts/2023-10-01-EJ-2-09.md",
     "_pages/portfolio.md",
-    "_pages/about.md",
-    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
-    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
     "algorithm_codes/_posts/2023-09-09-BOJ-3085.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
     "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
-    "algorithm_codes/_posts/2023-10-16-boj-1759.md",
     "algorithm_codes/_posts/2023-09-24-BOJ-14889 1.md",
     "_pages/archive-layout-with-content.md",
     "_pages/home.md",
     "_pages/lorem-ipsum.md",
     "effective_java/_posts/2023-10-01-EJ-2-08.md",
     "effective_java/_posts/2023-09-21-EJ-2-07.md",
-    "computer_science/db/_posts/2023-04-24-database-03.md",
-    "computer_science/db/_posts/2023-04-19-database-02.md",
-    "computer_science/db/_posts/2023-04-17-database-01.md",
-    "computer_science/db/_posts/2023-04-26-database-04.md",
-    "effective_java/_posts/2023-09-21-EJ-2-06.md",
-    "effective_java/_posts/2023-09-21-EJ-2-05.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
