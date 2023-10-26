@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-4-15.md",
+                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-4-15.md",
+                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-4-15.md",
+                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-4-15.md"
+                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md"
               }
             }
           },
@@ -190,8 +189,8 @@
   },
   "active": "990688033875ca81",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-10-25-EJ-3-14.md",
     "effective_java/_posts/2023-10-25-EJ-4-15.md",
+    "effective_java/_posts/2023-10-25-EJ-3-14.md",
     "effective_java/_posts/2023-10-18-EJ-3-13.md",
     "effective_java/_posts/2023-10-01-EJ-2-09.md",
     "effective_java/_posts/2023-10-01-EJ-3-10.md",
