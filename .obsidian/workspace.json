@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
+                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
+                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md",
+                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-10-25-EJ-3-14.md"
+                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md"
               }
             }
           },
@@ -189,7 +189,10 @@
   },
   "active": "990688033875ca81",
   "lastOpenFiles": [
+    "effective_java/_posts/2023-11-03-EJ-4-16.md",
+    "effective_java/_posts/2023-11-03-EJ-4-17.md",
     "effective_java/_posts/2023-10-25-EJ-4-15.md",
+    "_pages/about.md",
     "effective_java/_posts/2023-10-25-EJ-3-14.md",
     "effective_java/_posts/2023-10-18-EJ-3-13.md",
     "effective_java/_posts/2023-10-01-EJ-2-09.md",
@@ -206,7 +209,6 @@
     "algorithm_codes/_posts/2023-10-16-boj-1759.md",
     "algorithm_codes/_posts/2023-10-16-boj-15661.md",
     "algorithm_codes/_posts/2023-10-17-boj-1248 1.md",
-    "_pages/about.md",
     "_posts/2023-10-22-patterns.md",
     "computer_science",
     "_pages/portfolio.md",
@@ -214,8 +216,6 @@
     "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
     "algorithm_codes/_posts/2023-09-24-BOJ-14889 1.md",
     "_pages/archive-layout-with-content.md",
-    "_pages/home.md",
-    "_pages/lorem-ipsum.md",
     "effective_java/_posts",
     "effective_java",
     "attatchments/riscv.png",
