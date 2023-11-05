@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
+                "file": "algorithm_codes/_posts/2023-11-05-boj-11723.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
+                "file": "algorithm_codes/_posts/2023-11-05-boj-11723.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md",
+                "file": "algorithm_codes/_posts/2023-11-05-boj-11723.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-11-03-EJ-4-17.md"
+                "file": "algorithm_codes/_posts/2023-11-05-boj-11723.md"
               }
             }
           },
@@ -190,6 +189,12 @@
   },
   "active": "990688033875ca81",
   "lastOpenFiles": [
+    "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
+    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
+    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
+    "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
+    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
+    "effective_java/_posts/2023-11-03-EJ-4-17.md",
     "effective_java/_posts/2023-11-03-EJ-4-16.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
@@ -201,7 +206,6 @@
     "java/_posts/2023-03-24-java_collection.md",
     "java/_posts/2023-03-26-algorithms.md",
     "java/_posts/2023-04-26-error3.md",
-    "effective_java/_posts/2023-11-03-EJ-4-17.md",
     "plans_til/_posts/2023-09-05-20230905.md",
     "plans_til/_posts/2023-09-06.md",
     "plans_til/_posts/2023-03-22-daily-0.md",
@@ -211,11 +215,6 @@
     "effective_java/_posts/2023-09-21-EJ-2-07.md",
     "effective_java/_posts/2023-10-01-EJ-2-08.md",
     "effective_java/_posts/2023-09-21-EJ-2-06.md",
-    "effective_java/_posts/2023-09-21-EJ-2-05.md",
-    "effective_java/_posts/2023-09-13-EJ-2-04.md",
-    "effective_java/_posts/2023-09-05-EJ-2-02.md",
-    "effective_java/_posts/2023-09-05-EJ-2-01.md",
-    "_pages/about.md",
     "computer_science",
     "effective_java/_posts",
     "effective_java",
