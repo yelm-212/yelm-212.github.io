@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-11-09-EJ-4-18.md",
+                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-11-09-EJ-4-18.md",
+                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-11-09-EJ-4-18.md",
+                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-11-09-EJ-4-18.md"
+                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "990688033875ca81",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-11-09-EJ-4-19.md",
     "effective_java/_posts/2023-11-09-EJ-4-18.md",
+    "effective_java/_posts/2023-11-09-EJ-4-19.md",
     "effective_java/_posts/2023-11-03-EJ-4-17.md",
     "algorithm_codes/_posts/2023-11-05-boj-11723.md",
     "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
