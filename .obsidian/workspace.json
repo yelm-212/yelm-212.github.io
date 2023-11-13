@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "008a2e46b65853ee",
+        "id": "d1c860ee82348974",
         "type": "tabs",
         "children": [
           {
-            "id": "990688033875ca81",
+            "id": "4b69b1f21dfffaa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-11-05-boj-11723.md",
+                "file": "algorithm_codes/_posts/2023-11-12-boj-14391.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3d676b01f7f6128b",
+            "id": "583d388017b443c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2023-11-12-boj-14391.md",
+                "file": "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2023-11-12-boj-14391.md",
+                "file": "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2023-11-12-boj-14391.md",
+                "file": "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2023-11-12-boj-14391.md"
+                "file": "algorithm_codes/_posts/2023-11-13-BOJ-11727.md"
               }
             }
           },
@@ -201,10 +201,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d676b01f7f6128b",
+  "active": "583d388017b443c6",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
+    "algorithm_codes/_posts/2023-11-13-BOJ-11726.md",
+    "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
     "algorithm_codes/_posts/2023-11-12-boj-14391.md",
+    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
     "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
     "_pages/about.md",
     "effective_java/_posts/2023-11-09-EJ-4-19.md",
@@ -227,8 +229,6 @@
     "plans_til/_posts/2023-09-05-20230905.md",
     "plans_til/_posts/2023-09-06.md",
     "plans_til/_posts/2023-03-22-daily-0.md",
-    "effective_java/_posts/2023-10-25-EJ-4-15.md",
-    "effective_java/_posts/2023-10-25-EJ-3-14.md",
     "computer_science",
     "effective_java/_posts",
     "effective_java",
