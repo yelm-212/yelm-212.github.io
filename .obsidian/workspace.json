@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "583d388017b443c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "966091ee74d35129",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,6 +71,18 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "583d388017b443c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "effective_java/_posts/2023-11-09-EJ-4-19.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
