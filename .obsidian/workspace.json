@@ -11,16 +11,6 @@
             "id": "966091ee74d35129",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "attatchments/templateExample.png"
-              }
-            }
-          },
-          {
-            "id": "f6023ff3b64a564d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "effective_java/_posts/2023-11-15-EJ-4-20.md",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +200,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6023ff3b64a564d",
+  "active": "966091ee74d35129",
   "lastOpenFiles": [
-    "attatchments/templateExample.png",
-    "effective_java/_posts/2023-11-15-EJ-4-20.md",
     "computer_science/os/_posts/2023-05-20-os-1.md",
+    "attatchments/templateExample.png",
+    "attatchments/SimulatedMultipleInheritanceExample.png",
+    "effective_java/_posts/2023-11-15-EJ-4-20.md",
     "computer_science/db/_posts/2023-04-26-database-04.md",
     "test/_posts/2013-01-11-markup-html-tags-and-formatting.md",
     "effective_java/_posts/2023-11-15-EJ-4-21.md",
@@ -250,7 +240,6 @@
     "attatchments/20230522142414.png",
     "attatchments/CBDF0777-903F-404E-BC6C-EBA0DF202A6D_4_5005_c.jpeg",
     "attatchments/feedback1.png",
-    "attatchments/feedback.png",
     "computer_science/os/_posts",
     "computer_science/os",
     "java/spring/_posts",
