@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-11-15-EJ-4-20.md",
+                "file": "effective_java/_posts/2023-11-21-EJ-4-21.md",
                 "mode": "source",
                 "source": true
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 359.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-11-15-EJ-4-20.md",
+                "file": "effective_java/_posts/2023-11-21-EJ-4-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-11-15-EJ-4-20.md",
+                "file": "effective_java/_posts/2023-11-21-EJ-4-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-11-15-EJ-4-20.md"
+                "file": "effective_java/_posts/2023-11-21-EJ-4-21.md"
               }
             }
           },
@@ -202,33 +202,34 @@
   },
   "active": "966091ee74d35129",
   "lastOpenFiles": [
+    "effective_java/_posts/2023-11-21-EJ-4-22.md",
+    "effective_java/_posts/2023-11-22-EJ-4-23.md",
+    "effective_java/_posts/2023-11-22-EJ-4-22 1.md",
+    "effective_java/_posts/2023-11-21-EJ-4-21.md",
+    "docker_k8s/_posts/2023-08-08-docker-03.md",
+    "effective_java/_posts/2023-11-15-EJ-4-20.md",
+    "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
+    "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
+    "algorithm_codes/_posts/2023-10-16-boj-1759.md",
+    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
+    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
+    "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
+    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
+    "effective_java/_posts/2023-11-09-EJ-4-19.md",
+    "effective_java/_posts/2023-11-09-EJ-4-18.md",
     "computer_science/os/_posts/2023-05-20-os-1.md",
     "attatchments/templateExample.png",
     "attatchments/SimulatedMultipleInheritanceExample.png",
-    "effective_java/_posts/2023-11-15-EJ-4-20.md",
     "computer_science/db/_posts/2023-04-26-database-04.md",
     "test/_posts/2013-01-11-markup-html-tags-and-formatting.md",
-    "effective_java/_posts/2023-11-15-EJ-4-21.md",
     "CHANGELOG.md",
     "README.md",
-    "effective_java/_posts/2023-11-09-EJ-4-19.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-daily-post.md",
     "_templates/YYYY-MM-DD-EJ-n.md",
     "_templates/YYYY-MM-DD-monthly-post.md",
     "_templates/YYYY-MM-DD-CS-study.md",
-    "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
     "algorithm_codes/_posts/2023-11-13-BOJ-11726.md",
-    "algorithm_codes/_posts/2023-11-12-boj-14391.md",
-    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
-    "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
-    "_pages/about.md",
-    "effective_java/_posts/2023-11-09-EJ-4-18.md",
-    "effective_java/_posts/2023-11-03-EJ-4-17.md",
-    "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
-    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
-    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
-    "effective_java/_posts/2023-11-03-EJ-4-16.md",
     "computer_science",
     "effective_java/_posts",
     "effective_java",
