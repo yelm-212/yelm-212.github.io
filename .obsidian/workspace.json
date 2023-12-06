@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-12-06-EJ-4-25.md",
+                "file": "effective_java/_posts/2023-12-06-EJ-4-24.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-12-06-EJ-4-25.md",
+                "file": "effective_java/_posts/2023-12-06-EJ-4-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-12-06-EJ-4-25.md",
+                "file": "effective_java/_posts/2023-12-06-EJ-4-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-12-06-EJ-4-25.md"
+                "file": "effective_java/_posts/2023-12-06-EJ-4-24.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "96cb798222ca600f",
   "lastOpenFiles": [
-    "effective_java/_posts/2023-12-06-EJ-4-24.md",
     "effective_java/_posts/2023-12-06-EJ-4-25.md",
+    "effective_java/_posts/2023-12-06-EJ-4-24.md",
     "effective_java/_posts/2023-11-22-EJ-4-23.md",
     "computer_science/os/_posts/2023-05-20-os-1.md",
     "books/_posts/2023-04-30-careerskill13.md",
