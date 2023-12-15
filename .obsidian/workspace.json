@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective_java/_posts/2023-12-12-EJ-5-26.md",
+                "file": "_pages/portfolio.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective_java/_posts/2023-12-12-EJ-5-26.md",
+                "file": "_pages/portfolio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective_java/_posts/2023-12-12-EJ-5-26.md",
+                "file": "_pages/portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective_java/_posts/2023-12-12-EJ-5-26.md"
+                "file": "_pages/portfolio.md"
               }
             }
           },
@@ -214,6 +214,10 @@
   },
   "active": "96cb798222ca600f",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/portfolio.md",
+    "_posts/2023-06-27-codestates-pre.md",
+    "_posts/2023-10-22-patterns.md",
     "effective_java/_posts/2023-12-12-EJ-5-27.md",
     "effective_java/_posts/2023-12-12-EJ-5-26.md",
     "effective_java/_posts/2023-12-06-EJ-4-24.md",
@@ -236,12 +240,8 @@
     "algorithm_codes/_posts/2023-10-17-boj-1248.md",
     "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
     "algorithm_codes/_posts/2023-11-05-boj-11723.md",
-    "effective_java/_posts/2023-11-09-EJ-4-19.md",
-    "effective_java/_posts/2023-11-09-EJ-4-18.md",
     "attatchments/templateExample.png",
     "attatchments/SimulatedMultipleInheritanceExample.png",
-    "computer_science/db/_posts/2023-04-26-database-04.md",
-    "test/_posts/2013-01-11-markup-html-tags-and-formatting.md",
     "computer_science",
     "effective_java/_posts",
     "effective_java",
