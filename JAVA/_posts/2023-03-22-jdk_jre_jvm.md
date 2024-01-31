@@ -23,7 +23,7 @@ last_modified_at: 2023-03-22
 2. **JRE** (Java Runtime Environment)
 	- 자바를 컴퓨터에서 실행하는 환경만을 제공
 	- JRE는 end-user에게만 사용된다.
-3. **JVM** (**Java Virtual Machine)**
+3. **JVM** (**Java Virtual Machine**)
 	- JRE과 JDK 모두에 내장되어 있다.
 	- 자바 프로그램을 한 줄마다 실행하는 기능을 한다 -> 인터프리터 
 	- UI toolkit과 통합 라이브러리, 언어와 유틸리티 라이브러리, 기타 라이브러리, JVM, 배포 기술 등을 구성 요소로 가진다.
