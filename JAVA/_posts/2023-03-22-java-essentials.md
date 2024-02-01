@@ -46,8 +46,8 @@ last_modified_at: 2023-03-22
 
 | Aspect      | Primitive Type                 | Reference Type                                        |
 | ----------- | ------------------------------ | ----------------------------------------------------- |
-| 정의        | 언어 자체에 내장된 데이터 타입 | 프로그래머 혹은 언어에 의해 정의된 복잡한 데이터 타입 |
-| 메모리 할당 | 스택                           | 힙                                                    |
+| 정의         | 언어 자체에 내장된 데이터 타입 | 프로그래머 혹은 언어에 의해 정의된 복잡한 데이터 타입 |
+| 메모리 할당   | 스택 영역                         | 힙 영역                                                 |
 | Pass by     | 값 (Value)                     | 주소 (Reference)                                      |
 | Null value  | null값 불가                    | null값 가능                                           |
 
@@ -59,6 +59,49 @@ last_modified_at: 2023-03-22
 | 메모리 | 값의 사본이 만들어지기 때문에 더 많은 메모리를 필요로 함 | 값의 사본을 만들 필요가 없으므로 메모리를 절약함            |
 | 속도   | (상대적으로) 느림                                        | (상대적으로) 빠름                                           |
 | 부작용 | 원본 값이 바뀌지 않으므로 부작용 없음                    | 함수/메소드 내의 원본 값이 변경되어 부작용을 유발할 수 있음 |
+
+Java는 Call by Reference 개념을 사용하지 않고, **언제나 Call By Value를 사용**한다.
+
+- Java에서는 원시 타입을 사용하면 JVM 내의 Stack 영역에 생성된다.
+
+```java
+public class PrimitivesUnitTest {
+ 
+    @Test
+    public void whenModifyingPrimitives_thenOriginalValuesNotModified() {
+        
+        int x = 1;
+        int y = 2;
+       
+        // Before Modification
+        assertEquals(x, 1);
+        assertEquals(y, 2);
+        
+        modify(x, y);
+        
+        // After Modification
+        assertEquals(x, 1);
+        assertEquals(y, 2);
+    }
+    
+    public static void modify(int x1, int y1) {
+        x1 = 5;
+        y1 = 10;
+    }
+}
+
+```
+
+![](https://www.baeldung.com/wp-content/uploads/2018/05/baeldung_-_pass_by_value_-_passing_primitives.jpg)
+
+위 예시 코드를 실행하게 되면, 스택 영역에 다음과 같이 변수가 저장될 것이다.
+
+- Java에서는 참조 타입을 사용하면 JVM 내의 Heap 영역에 저장되고, Stack 영역에 있는 변수가 이 객체를 참조하게 된다.
+
+![](https://raw.githubusercontent.com/ParkJiwoon/PrivateStudy/master/java/images/screen_2022_01_30_20_51_33.png)
+
+> **호출자 변수와 수신자 파라미터는 Stack 영역 내에서 각각 존재하는 다른 변수**
+
 
 ##   Wrapper Class
 -  기본 타입에 해당하는 데이터를 객체로 포장해 주는 클래스
@@ -264,3 +307,9 @@ public class NewStack<E> implements Stack<E>{
 	-  `invoke()` 추상메서드 하나만 정의되어있는 걸 볼 수 있다.
 		- 동적 프록시의 메소드가 호출되었을 때 이를 대신 실행해주는 메소드.
 		- -> 코드 중복을 줄일 수 있음
+
+
+
+# 출처
+
+- https://bcp0109.tistory.com/360

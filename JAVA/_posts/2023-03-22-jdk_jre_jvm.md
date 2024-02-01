@@ -68,6 +68,7 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 - 로 구분할 수 있다.
 
 ##  JVM 메모리 구조
+
 ![JVM Memory area parts](https://media.geeksforgeeks.org/wp-content/uploads/Memory.png)[](https://media.geeksforgeeks.org/wp-content/uploads/Memory.png)
 
 - Heap area 
