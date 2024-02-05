@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/_posts/2023-05-02-spring-1.md",
+                "file": "java/_posts/2023-03-22-java-essentials.md",
                 "mode": "source",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/spring/_posts/2023-05-02-spring-1.md",
+                "file": "java/_posts/2023-03-22-java-essentials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/spring/_posts/2023-05-02-spring-1.md",
+                "file": "java/_posts/2023-03-22-java-essentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/spring/_posts/2023-05-02-spring-1.md"
+                "file": "java/_posts/2023-03-22-java-essentials.md"
               }
             }
           },
@@ -217,9 +217,9 @@
   },
   "active": "465d431e84d54a1c",
   "lastOpenFiles": [
+    "java/spring/_posts/2023-05-02-spring-1.md",
     "attatchments/Pasted image 20240205211941.png",
     "java/spring/_posts/2023-05-01-spring-servlet.md",
-    "java/spring/_posts/2023-05-02-spring-1.md",
     "java/spring/_posts/2023-05-07-spring-2.md",
     "books/effective_java/_posts/2023-10-18-EJ-3-12.md",
     "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
@@ -256,7 +256,6 @@
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "attatchments/docker-hello-world.png",
     "attatchments/20230522142414.png",
-    "attatchments/CBDF0777-903F-404E-BC6C-EBA0DF202A6D_4_5005_c.jpeg",
     "computer_science/os/_posts",
     "computer_science/os",
     "java/spring/_posts",
