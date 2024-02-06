@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/_posts/2023-05-01-spring-servlet.md",
-                "mode": "source",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/_posts/2023-03-22-java-essentials.md",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/_posts/2023-03-22-java-essentials.md",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/_posts/2023-03-22-java-essentials.md"
+                "file": "computer_science/network/_posts/2023-03-29-net01.md"
               }
             }
           },
@@ -215,35 +214,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "465d431e84d54a1c",
+  "active": "7195ec81bf5b9e14",
   "lastOpenFiles": [
+    "computer_science/os/_posts/2023-05-20-os-1.md",
+    "computer_science/network/_posts/2023-04-04-net04.md",
+    "computer_science/network/_posts/2023-03-30-net02.md",
+    "computer_science/network/_posts/2023-04-04-net03.md",
+    "computer_science/network/_posts/2023-04-04-net05.md",
+    "computer_science/network/_posts/2023-03-29-net01.md",
+    "computer_science/db/_posts/2023-04-24-database-03.md",
+    "computer_science/db/_posts/2023-04-19-database-02.md",
+    "computer_science/db/_posts/2023-04-17-database-01.md",
+    "computer_science/db/_posts/2023-04-26-database-04.md",
+    "java/_posts/2023-03-22-java-essentials.md",
+    "java/_posts/2023-03-22-jdk_jre_jvm.md",
+    "java/_posts/2023-03-22-linear(1).md",
     "java/spring/_posts/2023-05-02-spring-1.md",
-    "attatchments/Pasted image 20240205211941.png",
-    "java/spring/_posts/2023-05-01-spring-servlet.md",
     "java/spring/_posts/2023-05-07-spring-2.md",
+    "java/spring/_posts/2023-05-01-spring-servlet.md",
+    "attatchments/Pasted image 20240205211941.png",
     "books/effective_java/_posts/2023-10-18-EJ-3-12.md",
     "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
     "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
-    "java/_posts/2023-03-22-jdk_jre_jvm.md",
-    "java/_posts/2023-03-22-java-essentials.md",
     "java/_posts/2023-03-22-string_list_map.md",
     "java/_posts/2023-03-22-OOP-essentials.md",
     "java/_posts/2023-03-22-non-linear(1).md",
-    "java/_posts/2023-03-22-linear(1).md",
     "attatchments/Pasted image 20240131221425.png",
     "java/_posts/2023-03-26-algorithms.md",
     "java/_posts/2023-04-26-error3.md",
     "books/effective_java/_posts/2024-01-10-EJ-5-33.md",
     "books/effective_java/_posts/2024-01-10-EJ-5-32.md",
-    "books/effective_java/_posts/2023-12-31-EJ-5-30.md",
-    "books/effective_java/_posts/2023-12-21-EJ-5-29.md",
-    "books/effective_java/_posts/2023-12-21-EJ-5-28.md",
-    "books/effective_java/_posts/2023-12-12-EJ-5-26.md",
-    "books/effective_java/_posts/2023-12-06-EJ-4-25.md",
-    "books/effective_java/_posts/2023-12-06-EJ-4-24.md",
-    "books/effective_java/_posts/2023-11-22-EJ-4-23.md",
-    "books/effective_java/_posts/2023-11-21-EJ-4-21.md",
-    "books/effective_java/_posts/2023-11-15-EJ-4-20.md",
     "tempCodeRunnerFile.java",
     "attatchments/templateExample.png",
     "attatchments/SimulatedMultipleInheritanceExample.png",
