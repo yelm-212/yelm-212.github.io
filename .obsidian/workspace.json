@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
+                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
+                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
+                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/effective_java/_posts/2024-01-31-EJ-6-35.md"
+                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md"
               }
             }
           },
@@ -216,6 +216,7 @@
   },
   "active": "7195ec81bf5b9e14",
   "lastOpenFiles": [
+    "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-37.md",
     "attatchments/20240208182846.png",
@@ -224,7 +225,6 @@
     "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
     "attatchments/2023-07-2003.09.09PM.png",
     "_templates/YYYY-MM-DD-EJ-n.md",
-    "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
     "books/effective_java/_posts/2023-10-01-EJ-2-09.md",
     "books/effective_java/_posts/2023-10-25-EJ-4-15.md",
     "books/effective_java/_posts/2023-12-31-EJ-5-30.md",
