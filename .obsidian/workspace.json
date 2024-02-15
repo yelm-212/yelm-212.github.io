@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d9ec7de8af6f9983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/_posts/2023-03-22-java-essentials.md",
+                "file": "books/effective_java/_posts/2024-02-14-EJ-38.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
+                "file": "books/effective_java/_posts/2024-02-14-EJ-38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
+                "file": "books/effective_java/_posts/2024-02-14-EJ-38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-08-EJ-6-36.md"
+                "file": "books/effective_java/_posts/2024-02-14-EJ-38.md"
               }
             }
           },
@@ -216,9 +204,19 @@
   },
   "active": "7195ec81bf5b9e14",
   "lastOpenFiles": [
-    "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
-    "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
+    "books/effective_java/_posts/2024-02-14-EJ-39.md",
+    "books/effective_java/_posts/2024-02-14-EJ-38.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-37.md",
+    "books/effective_java/_posts/2023-10-01-EJ-2-08.md",
+    "books/effective_java/_posts/2023-11-15-EJ-4-20.md",
+    "books/effective_java/_posts/2023-11-09-EJ-4-19.md",
+    "books/effective_java/_posts/2023-11-21-EJ-4-21.md",
+    "books/effective_java/_posts/2023-11-09-EJ-4-18.md",
+    "books/effective_java/_posts/2023-10-25-EJ-4-15.md",
+    "books/effective_java/_posts/2023-12-06-EJ-4-25.md",
+    "books/effective_java/_posts/2023-12-31-EJ-5-30.md",
+    "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
+    "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
     "attatchments/20240208182846.png",
     "java/_posts/2023-03-22-java-essentials.md",
     "attatchments/20240208182039.png",
@@ -226,12 +224,8 @@
     "attatchments/2023-07-2003.09.09PM.png",
     "_templates/YYYY-MM-DD-EJ-n.md",
     "books/effective_java/_posts/2023-10-01-EJ-2-09.md",
-    "books/effective_java/_posts/2023-10-25-EJ-4-15.md",
-    "books/effective_java/_posts/2023-12-31-EJ-5-30.md",
     "books/effective_java/_posts/2023-12-31-EJ-5-31.md",
     "books/effective_java/_posts/2023-12-12-EJ-5-26.md",
-    "books/effective_java/_posts/2023-11-21-EJ-4-21.md",
-    "books/effective_java/_posts/2023-11-09-EJ-4-19.md",
     "books/effective_java/_posts/2024-01-10-EJ-5-32.md",
     "books/effective_java/_posts/2024-01-10-EJ-5-33.md",
     "computer_science/network/_posts/2023-03-30-net02.md",
@@ -241,11 +235,6 @@
     "computer_science/network/_posts/2023-03-29-net01.md",
     "computer_science/os/_posts/2023-05-20-os-1.md",
     "computer_science/network/_posts/2023-04-04-net04.md",
-    "computer_science/network/_posts/2023-04-04-net03.md",
-    "computer_science/network/_posts/2023-04-04-net05.md",
-    "computer_science/db/_posts/2023-04-24-database-03.md",
-    "computer_science/db/_posts/2023-04-19-database-02.md",
-    "computer_science/db/_posts/2023-04-17-database-01.md",
     "attatchments/Pasted image 20240205211941.png",
     "attatchments/Pasted image 20240131221425.png",
     "tempCodeRunnerFile.java",
