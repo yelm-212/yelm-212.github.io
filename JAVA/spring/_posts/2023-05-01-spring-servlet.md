@@ -57,5 +57,5 @@ last_modified_at: 2023-05-01
 2. Servlet Container는 HttpServletRequest, HttpServletResponse 두 객체를 생성한다.
 3. 사용자가 요청한 URL을 분석하여 어느 서블릿에 대한 요청인지 찾는다. (DD를 참조하여 분석)
 4. 컨테이너는 서블릿 service() 메소드를 호출하며, POST, GET여부에 따라 doGet() 또는 doPost()가 호출된다.
-5. doGet() or doPost() 메소드는 동적인 페이지를 생성한 후 HttpServletResponse객체에 응답을 보낸다.
-6. 응답이 완료되면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킨다.
+5. doGet() or doPost() 메소드는 동적인 페이지를 생성한 후 `HttpServletResponse`객체에 응답을 보낸다.
+6. 응답이 완료되면 `HttpServletRequest`, `HttpServletResponse` 두 객체를 소멸시킨다.

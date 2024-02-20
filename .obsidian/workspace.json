@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b4256e43600e8b6",
+        "id": "853d7c9e238d6c62",
         "type": "tabs",
         "children": [
           {
-            "id": "7195ec81bf5b9e14",
+            "id": "e1abdccadb7e367b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-17-database-01.md",
+                "file": "computer_science/os/_posts/2023-05-28-os-3.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-17-database-01.md",
+                "file": "computer_science/os/_posts/2023-05-28-os-3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-17-database-01.md",
+                "file": "computer_science/os/_posts/2023-05-28-os-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-17-database-01.md"
+                "file": "computer_science/os/_posts/2023-05-28-os-3.md"
               }
             }
           },
@@ -202,13 +202,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7195ec81bf5b9e14",
+  "active": "e1abdccadb7e367b",
   "lastOpenFiles": [
-    "computer_science/db/_posts/2023-04-26-database-04.md",
-    "computer_science/db/_posts/2023-04-24-database-03.md",
+    "computer_science/os/_posts/2023-05-24-os-2.md",
+    "computer_science/os/_posts/2023-05-28-os-3.md",
+    "computer_science/os/_posts/2023-05-20-os-1.md",
+    "attatchments/20230522142414.png",
+    "java/spring/_posts/2023-05-17-spring-5.md",
+    "java/spring/_posts/2023-05-15-spring-4.md",
+    "java/spring/_posts/2023-05-10-spring-3.md",
+    "java/spring/_posts/2023-05-07-spring-2.md",
+    "java/spring/_posts/2023-05-02-spring-1.md",
+    "java/spring/_posts/2023-05-01-spring-servlet.md",
+    "attatchments/Pasted.md",
+    "java/spring/_posts/2023-04-12-error2.md",
+    "_posts/2024-02-19-newpost.md",
+    "Untitled.canvas",
+    "books/effective_java/_posts/2023-11-09-EJ-4-19.md",
     "computer_science/db/_posts/2023-04-19-database-02.md",
     "computer_science/db/_posts/2023-04-17-database-01.md",
-    "computer_science/os/_posts/2023-05-20-os-1.md",
+    "computer_science/db/_posts/2023-04-26-database-04.md",
+    "computer_science/db/_posts/2023-04-24-database-03.md",
     "computer_science/network/_posts/2023-04-04-net05.md",
     "computer_science/network/_posts/2023-03-30-net02.md",
     "computer_science/network/_posts/2023-03-29-net01.md",
@@ -219,20 +233,8 @@
     "books/effective_java/_posts/2024-02-14-EJ-38.md",
     "books/effective_java/_posts/2024-02-14-EJ-39.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-37.md",
-    "books/effective_java/_posts/2023-10-01-EJ-2-08.md",
-    "books/effective_java/_posts/2023-11-15-EJ-4-20.md",
-    "books/effective_java/_posts/2023-11-09-EJ-4-19.md",
-    "books/effective_java/_posts/2023-11-21-EJ-4-21.md",
-    "books/effective_java/_posts/2023-11-09-EJ-4-18.md",
-    "books/effective_java/_posts/2023-10-25-EJ-4-15.md",
-    "books/effective_java/_posts/2023-12-06-EJ-4-25.md",
-    "books/effective_java/_posts/2023-12-31-EJ-5-30.md",
-    "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
-    "books/effective_java/_posts/2024-01-31-EJ-6-35.md",
     "attatchments/20240208182846.png",
-    "java/_posts/2023-03-22-java-essentials.md",
     "attatchments/20240208182039.png",
-    "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
     "attatchments/2023-07-2003.09.09PM.png",
     "attatchments/Pasted image 20240206232602.png",
     "attatchments/Pasted image 20240206232559.png",
@@ -240,7 +242,6 @@
     "attatchments/Pasted image 20240131221425.png",
     "tempCodeRunnerFile.java",
     "attatchments/templateExample.png",
-    "attatchments/SimulatedMultipleInheritanceExample.png",
     "computer_science",
     "books/effective_java/_posts",
     "books/effective_java",
