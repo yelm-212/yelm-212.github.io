@@ -23,19 +23,33 @@ last_modified_at: 2023-03-22
 | StringBuilder | 가변 | Thread-safe 아님| 싱글스레드 환경에서 가변 문자 시퀀스를 다룰 때 |
 
 ## Immutable Object
+
 - 생성 후 상태를 바꿀 수 없는 객체
+
 ##  `String a = ""` vs `String a = new String("")`
-[](https://journaldev.nyc3.digitaloceanspaces.com/2012/11/String-Pool-Java1-450x249.png)
+
+![](https://www.baeldung.com/wp-content/uploads/2018/08/Why_String_Is_Immutable_In_Java.jpg)
+
 - `String a = new String("")` : 새로운 객체를 만드는 것으로 힙 영역에 저장된다.
 - `String a = ""`  : 리터럴을 사용한 변수 할당으로 `string constant pool` 영역에 저장
+
 ```
-s1 == s2 // false
-s1.equals(s2)  // true
+String s1 = "Hello World";  
+String s2 = "Hello World";  
+String s3 = new String("Hello World");  
+  
+System.out.println(s1 == s2); // true  
+System.out.println(s1.equals(s2)); // true  
+  
+System.out.println(s1 == s3); // false  
+System.out.println(s1.equals(s3)); // true
 ```
 
 
 # List
-Array과 유사하나, 리스트는 크기가 정해져 있지 않고 사이즈가 동적으로 변하는 배열
+
+Array과 유사하나, 리스트는 크기가 정해져 있지 않고 **사이즈가 동적**으로 변하는 배열
+
 ## ArrayList vs LinkedList
 - ArrayList와 LinkedList의 주요 차이점은 다음과 같다.
 
@@ -53,13 +67,16 @@ Array과 유사하나, 리스트는 크기가 정해져 있지 않고 사이즈�
 | LinkedList | 느림 | 빠름 | 느림 | 빠름 |
 
 # Map
+
 - Key와 Value의 한 쌍으로 이루어지는 데이터의 집합
 - 순서가 보장되지 않음
 - key 중복 비허용
 - 뛰어난 검색 속도를 가짐
 - 인덱스가 따로 존재하지 않고, `iterator`를 사용
+
 ## HashTable vs HashMap vs LinkedHashMap vs TreeMap
 ![](https://www.programcreek.com/wp-content/uploads/2009/02/MapClassHierarchy-600x354.jpg?ezimgfmt=rs%3Adevice%2Frscb13-1)
+
 - `HashTable` 
 	- Java에서 Map 인터페이스의 레거시 구현체
 	- key 혹은 value 값으로 null 불가능
@@ -81,6 +98,7 @@ Array과 유사하나, 리스트는 크기가 정해져 있지 않고 사이즈�
 - 동기화가 필요한 경우 `Hashtable`을 사용하고 동기화가 필요하지 않고 빠른 성능이 필요한 경우` HashMap`을 사용
 - 삽입 순서를 유지해야하는 경우 `LinkedHashMap`을 사용하고 정렬된 맵이 필요한 경우 `TreeMap`을 사용
 ## HashMap vs ConcurrentHashMap
+
 두가지 모두 `Map interface`의 구현체이나, 상황에 따라 구분하여 사용하여야 한다.
 - `HashMap`
 	- Thread-safe 하지 않은 구현체로, 멀티스레드 환경에서는 외부에서 동기화해줄 필요가 있다.

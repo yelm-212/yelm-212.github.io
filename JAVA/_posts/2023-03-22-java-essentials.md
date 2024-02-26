@@ -45,12 +45,13 @@ last_modified_at: 2024-02-01
 
 #   Primitive type vs Reference type
 
-| Aspect      | Primitive Type                 | Reference Type                                        |
-| ----------- | ------------------------------ | ----------------------------------------------------- |
-| 정의         | 언어 자체에 내장된 데이터 타입 | 프로그래머 혹은 언어에 의해 정의된 복잡한 데이터 타입 |
-| 메모리 할당   | 스택 영역                         | 힙 영역                                                 |
-| Pass by     | 값 (Value)                     | 주소 (Reference)                                      |
-| Null value  | null값 불가                    | null값 가능                                           |
+| Aspect      | Primitive Type                                       | Reference Type                                        |
+| ----------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| 정의        | 언어 자체에 내장된 데이터 타입                       | 프로그래머 혹은 언어에 의해 정의된 복잡한 데이터 타입 |
+| 메모리 할당 | 스택 영역                                            | 힙 영역                                               |
+| Pass by     | 값 (Value)                                           | 주소 (Reference)                                      |
+| Null value  | null값 불가                                          | null값 가능                                           |
+|             | byte, char, short, int, long, float, double, boolean | 배열 타입, 열거 타입, 클래스, 인터페이스              |
 
 ##  Call by Reference vs Call by Value
 
@@ -284,6 +285,7 @@ public class NewStack<E> implements Stack<E>{
 - 표현식 : `() -> {}`
 
 ## reflexion
+
 - 구체적인 클래스 타입을 알지 못해도 그 클래스의 메소드, 타입, 변수들에 접근할 수 있도록 해주는 자바 API
 - 런타임 단계에서 클래스, 인터페이스, 필드, 메서드를 검사하거나 수정할 수 있다.
 - 객체 인스턴스화, 메소드 호출, 필드 값을 가져오거나 설정할 수 있다.
@@ -292,6 +294,7 @@ public class NewStack<E> implements Stack<E>{
 - 객체의 필드에 접근과 수정을 동적으로 할 수 있다.
 - 프레임워크나 IDE에서 reflexion의 동적 바인딩 이용한 기능을 제공함 
 	- ex/ 인텔리제이 자동완성 기능, 스트링 어노테이션 등...
+
 ## dynamic proxy
 - 프록시는 타겟 코드의 수정없이 접근제어 혹은 부가기능을 추가하기 위해 주로 사용되나, 일반적인 프록시는 반복되는 코드가 발생하는 단점이 있음
 - 런타임 시점에 프록시 클래스를 만들어주는 방식 

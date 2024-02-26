@@ -60,14 +60,16 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 	- 자바로 쓰여진 코드를 바이트코드로 컴파일 후 실행 시 JVM에서 interprete
 
 # JAVA의 메모리 관리
-컴퓨터에서 메모리는 중요한 자원이고, 여러 프로그래밍 언어에서 메모리 관리를 위해 다양한 정책을 가지고 있다. JAVA에서는 개발자가 직접적으로 메모리 할당을 하지 않고, JVM과 Garbage collector가 메모리 할당과 해제의 역할을 가진다. 이와 같은 방법의 이점은, C와 같은 언어의 방식과 같이 메모리의 할당에 대해 개발자가 크게 신경을 쓰지 않아도 된다는 것이다. 
+
+컴퓨터에서 메모리는 중요한 자원이고, 여러 프로그래밍 언어에서 메모리 관리를 위해 다양한 정책을 가지고 있다. 
+JAVA에서는 개발자가 직접적으로 메모리 할당을 하지 않고, JVM과 Garbage collector가 메모리 할당과 해제의 역할을 가진다. 이와 같은 방법의 이점은, C와 같은 언어의 방식과 같이 메모리의 할당에 대해 개발자가 크게 신경을 쓰지 않아도 된다는 것이다. 
 
 - JVM은 프로그램의 실행시 데이터 영역을 정의한다. 
 - JVM의 일부 영역은 프로그램에서 사용되는 스레드에 의해 생성되고, 메모리 영역은 JVM이 사라질 때에 같이 사라진다. 데이터 영역의 스레드는 인스턴스화 시점에 생성되고, 스레드가 사라질 때 (exit) 사라진다. 
 - 이와 같은 메모리 영역들을 
 	- *Heap area, Method area* - 모든 스레드가 공유해 사용하는 GC 대상- , 
 	- *JVM stack, Native method stack, PC register* - 스레드마다 하나씩 생성됨-
-- 로 구분할 수 있다.
+	- 로 구분할 수 있다.
 
 ##  JVM 메모리 구조
 
@@ -75,10 +77,12 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 
 - Heap area 
 	- 모든 생성된 객체 및 배열이 저장되는 영역
+	- 동적 메모리 할당을 지원한다.
 - Method area
 	- 필드와 메서드 정보, 데이터 타입 정보, Static 변수 등이 저장되는 영역
 - JVM stack
-	- 지역 변수, 파라미터, 반환 값, 연산에 사용되는 임시 값 등이 저장되는 영역
+	- 지역 변수, 파라미터, 반환 값, 연산에 사용되는 임시 값 등이 저장되는 영역.
+	- 주로 생애 주기가 짧은 데이터들이 저장된다.
 - Native method stack 
 	- Java로 쓰여있지 않음. 다른 언어로 작성된 네이티브 코드를 실행할 때 사용되는 메모리 영역으로 C 스택을 사용한다.
 - PC register
@@ -88,6 +92,7 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 ##  Garbage Collector 동작과정
 
 ### Automatic garbage collection
+
 간단하고 직관적이지만 큰 힙에서 성능이 떨어짐
 - 사용하지 않는 메모리를 자동으로 회수해준다.
 - Heap 메모리 영역에 생성된 객체들 중 참조죄지 않은 객체를 탐색 후 제거하는 역할
@@ -101,6 +106,7 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 - 참조된 객체를 빈 공간의 가장 앞으로 이동시킴으로써, 새로운 메모리 할당을 훨씬 쉽고 빠르게 만든다.
 
 ### Generational garbage collection
+
 ![Pasted image 20230227173019.png](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/images/gcslides/Slide5.png)
 객체의 수명에 따라 힙을 여러 개의 세대로 나누어서 사용한다. 
 - 새로운 객체는 Young Generation에 할당되고, 일정 주기마다 Young Generation을 스캔하여 사용되지 않는 객체를 식별한다. (minor garbage collection) 
@@ -132,3 +138,6 @@ Java는 컴파일 언어의 특성과 컴파일러 언어의 특성을 모두 �
 - Gosling, J., Joy, B., Steele, G., & Bracha, G. (2005). The Java Language Specification (Third Edition). Addison-Wesley Professional.
 - [Java Memory Management](https://www.geeksforgeeks.org/java-memory-management/)
 - [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+- [Where Does Java’s String Constant Pool Live, the Heap or the Stack?](https://www.baeldung.com/java-string-constant-pool-heap-stack)
+- [Guide to Java String Pool](https://www.baeldung.com/java-string-pool)
+- [Why String Is Immutable in Java?](https://www.baeldung.com/java-string-immutable)
