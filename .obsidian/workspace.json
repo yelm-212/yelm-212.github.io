@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-21-40.md",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-21-40.md",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-21-40.md",
+                "file": "computer_science/network/_posts/2023-03-29-net01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/effective_java/_posts/2024-02-21-40.md"
+                "file": "computer_science/network/_posts/2023-03-29-net01.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "2aee703d7c9b75b3",
   "lastOpenFiles": [
-    "books/effective_java/_posts/2024-02-21-41.md",
     "books/effective_java/_posts/2024-02-21-40.md",
+    "books/effective_java/_posts/2024-02-21-41.md",
     "books/effective_java/_posts/2024-02-14-EJ-39.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-37.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
