@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6645282fa07743b3",
+        "id": "ffa939b9b153bae3",
         "type": "tabs",
         "children": [
           {
-            "id": "2aee703d7c9b75b3",
+            "id": "154484631449cb11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_science/os/_posts/2023-05-20-os-1.md",
-                "mode": "preview",
+                "file": "books/effective_java/_posts/2024-02-28-43.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -81,6 +82,7 @@
               "state": {
                 "file": "books/effective_java/_posts/2023-11-09-EJ-4-19.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 263.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_science/os/_posts/2023-05-20-os-1.md",
+                "file": "books/effective_java/_posts/2024-02-28-43.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_science/os/_posts/2023-05-20-os-1.md",
+                "file": "books/effective_java/_posts/2024-02-28-43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_science/os/_posts/2023-05-20-os-1.md"
+                "file": "books/effective_java/_posts/2024-02-28-43.md"
               }
             }
           },
@@ -157,6 +159,7 @@
               "state": {
                 "file": "_templates/YYYY-MM-DD-daily-post.md",
                 "mode": "preview",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -181,8 +184,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,20 +204,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2aee703d7c9b75b3",
+  "active": "154484631449cb11",
   "lastOpenFiles": [
+    "books/effective_java/_posts/2024-02-28-42.md",
+    "books/effective_java/_posts/2024-02-28-43.md",
+    "attatchments/20240228110904.png",
+    "books/effective_java/_posts/2024-02-21-41.md",
+    "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
+    "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
+    "attatchments/Pasted.md",
+    "books/effective_java/_posts/2024-02-21-40.md",
+    "books/effective_java/_posts/2023-12-06-EJ-4-24.md",
+    "computer_science/os/_posts/2023-05-20-os-1.md",
     "computer_science/os/_posts/2023-05-24-os-2.md",
     "computer_science/os/_posts/2023-05-28-os-3.md",
     "computer_science/os/_posts/2023-05-31-os-4.md",
     "computer_science/os/_posts/2023-06-03-os-5.md",
-    "computer_science/os/_posts/2023-05-20-os-1.md",
     "computer_science/network/_posts/2023-04-04-net05.md",
     "computer_science/network/_posts/2023-04-04-net04.md",
     "computer_science/network/_posts/2023-04-04-net03.md",
     "computer_science/network/_posts/2023-03-30-net02.md",
     "computer_science/network/_posts/2023-03-29-net01.md",
-    "books/effective_java/_posts/2024-02-21-40.md",
-    "books/effective_java/_posts/2024-02-21-41.md",
     "books/effective_java/_posts/2024-02-14-EJ-39.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-37.md",
     "books/effective_java/_posts/2024-02-08-EJ-6-36.md",
@@ -224,12 +233,6 @@
     "java/spring/_posts/2023-05-07-spring-2.md",
     "java/spring/_posts/2023-05-02-spring-1.md",
     "java/spring/_posts/2023-05-01-spring-servlet.md",
-    "java/_posts/2023-03-26-algorithms.md",
-    "java/_posts/2023-03-24-java_collection.md",
-    "java/_posts/2023-03-23-non-linear(2).md",
-    "java/_posts/2023-03-22-string_list_map.md",
-    "java/_posts/2023-03-22-OOP-essentials.md",
-    "java/_posts/2023-03-22-non-linear(1).md",
     "attatchments/20230424171912.png",
     "attatchments/Pasted image 20230424171907.png",
     "attatchments/20240208182846.png",
@@ -239,8 +242,6 @@
     "Untitled.canvas",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/2023-07-2003.09.09PM.png",
-    "attatchments/Pasted image 20240206232602.png",
-    "attatchments/Pasted image 20240206232559.png",
     "tempCodeRunnerFile.java",
     "computer_science",
     "books/effective_java/_posts",

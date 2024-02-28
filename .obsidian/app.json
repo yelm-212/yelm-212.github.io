@@ -4,5 +4,8 @@
   "attachmentFolderPath": "attatchments",
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
