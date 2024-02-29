@@ -184,12 +184,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +199,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "154484631449cb11",
   "lastOpenFiles": [
-    "books/effective_java/_posts/2024-02-28-42.md",
+    "_pages/about.md",
     "books/effective_java/_posts/2024-02-28-43.md",
+    "books/effective_java/_posts/2024-02-28-42.md",
     "attatchments/20240228110904.png",
     "books/effective_java/_posts/2024-02-21-41.md",
     "books/effective_java/_posts/2024-01-31-EJ-6-34.md",
