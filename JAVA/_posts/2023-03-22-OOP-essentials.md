@@ -249,6 +249,7 @@ class Rectangle extends Shape {
 
 
 ## 5원칙(SOLID)
+
 SOLID 원칙은 객체지향 설계에서 적용할 수 있는 가이드라인으로, 유지보수성, 확장성, 재사용성을 높일 수 있는 중요한 원칙이다.
 
 - 단일 책임 원칙 (Single Responsibility Principle)
