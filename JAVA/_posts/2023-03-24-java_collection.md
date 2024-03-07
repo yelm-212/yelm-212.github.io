@@ -27,7 +27,7 @@ last_modified_at: 2023-03-24
 - 멀티스레드 환경에서 동기화를 하지 않으면, 데이터의 안정성과 신뢰성을 보장할 수 없다.
 - 자바에서는 `synchronized` 키워드를 사용해 스레드간 동기화를 시켜 `thread-safe`를 성립시킨다.
 
-```
+```java
 @ThreadSafe
 public class Sequence {
     @GuardedBy("this") private int nextValue;
@@ -37,4 +37,5 @@ public class Sequence {
     }
 }
 ```
+
 - 너무 자주 쓰면 프로그램 성능 저하가 일어날수도 있음 (적절한 상황에 맞추어 사용하기)
