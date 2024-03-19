@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "java/spring/_posts/2023-05-17-spring-5.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
