@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/_posts/2023-05-17-spring-5.md",
+                "file": "computer_science/network/_posts/2023-04-04-net04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/spring/_posts/2023-05-17-spring-5.md",
+                "file": "computer_science/network/_posts/2023-04-04-net04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/spring/_posts/2023-05-17-spring-5.md",
+                "file": "computer_science/network/_posts/2023-04-04-net04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/spring/_posts/2023-05-17-spring-5.md"
+                "file": "computer_science/network/_posts/2023-04-04-net04.md"
               }
             }
           },
@@ -208,6 +207,7 @@
   },
   "active": "cbea2bd9f0f90b7d",
   "lastOpenFiles": [
+    "java/spring/_posts/2023-05-17-spring-5.md",
     "java/spring/_posts/2023-05-15-spring-4.md",
     "java/spring/_posts/2023-05-10-spring-3.md",
     "java/spring/_posts/2023-05-02-spring-1.md",
@@ -238,7 +238,6 @@
     "java/_posts/2023-03-24-java_collection.md",
     "java/_posts/2023-03-22-string_list_map.md",
     "java/_posts/2023-03-22-non-linear(1).md",
-    "java/_posts/2023-03-22-linear(1).md",
     "attatchments/2024-03-07-45_image_1.png",
     "attatchments/20240228110904.png",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",
