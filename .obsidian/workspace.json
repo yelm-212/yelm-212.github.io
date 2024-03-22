@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/effective_java/_posts/2024-03-21-EJ-48.md",
-                "mode": "source",
+                "file": "java/_posts/2023-03-24-java_collection.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/effective_java/_posts/2024-03-21-EJ-48.md",
+                "file": "java/_posts/2023-03-24-java_collection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/effective_java/_posts/2024-03-21-EJ-48.md",
+                "file": "java/_posts/2023-03-24-java_collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/effective_java/_posts/2024-03-21-EJ-48.md"
+                "file": "java/_posts/2023-03-24-java_collection.md"
               }
             }
           },
@@ -208,8 +207,19 @@
   },
   "active": "22ab3ef2b99be6d6",
   "lastOpenFiles": [
-    "books/effective_java/_posts/2024-03-21-EJ-49.md",
+    "java/_posts/2023-03-23-non-linear(2).md",
+    "java/_posts/2023-03-22-string_list_map.md",
+    "java/_posts/2023-03-22-OOP-essentials.md",
+    "java/_posts/2023-03-22-non-linear(1).md",
+    "java/_posts/2023-03-22-linear(1).md",
+    "java/_posts/2023-03-22-jdk_jre_jvm.md",
+    "java/_posts/2023-03-22-java-essentials.md",
+    "computer_science/db/_posts/2023-04-26-database-04.md",
+    "computer_science/db/_posts/2023-04-24-database-03.md",
+    "computer_science/db/_posts/2023-04-19-database-02.md",
+    "computer_science/db/_posts/2023-04-17-database-01.md",
     "books/effective_java/_posts/2024-03-21-EJ-48.md",
+    "books/effective_java/_posts/2024-03-21-EJ-49.md",
     "books/effective_java/_posts/2024-03-13-EJ-47.md",
     "computer_science/network/_posts/2023-04-04-net04.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
@@ -223,22 +233,11 @@
     "attatchments/Pasted.md",
     "computer_science/os/_posts/2023-06-03-os-5.md",
     "computer_science/os/_posts/2023-05-31-os-4.md",
-    "computer_science/db/_posts/2023-04-24-database-03.md",
-    "computer_science/db/_posts/2023-04-19-database-02.md",
     "computer_science/os/_posts/2023-05-28-os-3.md",
     "computer_science/os/_posts/2023-05-24-os-2.md",
-    "computer_science/os/_posts/2023-05-20-os-1.md",
-    "books/effective_java/_posts/2024-03-13-EJ-46.md",
     "attatchments/2024-03-13-46_image_1.png",
-    "java/_posts/2023-03-22-java-essentials.md",
     "attatchments/tmp1710837823436_2023-05-02-spring-1_image_2.png",
     "attatchments/2024-03-13-EJ-47_image_1.png",
-    "computer_science/db/_posts/2023-04-26-database-04.md",
-    "books/effective_java/_posts/2024-03-07-44.md",
-    "books/effective_java/_posts/2024-02-28-43.md",
-    "books/effective_java/_posts/2024-03-07-45.md",
-    "computer_science/db/_posts/2023-04-17-database-01.md",
-    "java/spring/_posts/2023-05-07-spring-2.md",
     "attatchments/2024-03-07-45_image_1.png",
     "attatchments/20240228110904.png",
     "attatchments/Screenshot 2023-04-26 at 2.19.41 PM.png",

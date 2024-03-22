@@ -112,13 +112,11 @@ public class PrimitivesUnitTest {
 ![](http://www.tcpschool.com/lectures/img_java_boxing_unboxing.png)
 - Boxing : 기본 타입 데이터를 Wrapper 클래스의 인스턴스로 변환하는 과정
 - Unboxing : Wrapper 클래스의 인스턴스에 저장된 값을 기본 타입 데이터로 꺼내는 과정
-- 자바에서는 boxing과 unboxing이 필요한 상황에서 컴바일러가 자동으로 이를 처리해준다. (AutoBoxing / Unboxing)
+- 자바에서는 boxing과 unboxing이 필요한 상황에서 컴파일러가 자동으로 이를 처리해준다. (AutoBoxing / Unboxing)
 
-```
-
-Java program to demonstrate Autoboxing & AutoUnboxing
-
+```java
 import java.util.ArrayList;
+
 class Autoboxing
 {
 	public static void main(String[] args)
@@ -195,7 +193,7 @@ class Autoboxing
 - 클래스나 메소드 내부에서 사용되는 객체의 타입 안정성을 높일 수 있다
 - 반환값에 대한 타입 변환 및 타입 검사에 들어가는 노력을 줄일 수 있다
 
-```
+```java
 import java.util.*;  
   
 public interface Stack<E>{  
@@ -208,7 +206,7 @@ public interface Stack<E>{
 }
 ```
 
-```
+```java
 import java.util.*;  
   
 public class NewStack<E> implements Stack<E>{  
@@ -260,25 +258,26 @@ public class NewStack<E> implements Stack<E>{
 ```
 
 # Stream 
+
 - for문 / Iterator를 사용할 경우 **코드의 복잡도를 개선**하기 위해 고안됨
 - Collection에 저장되어 있는 element들을 하나씩 순회하며 처리가 가능하다.
 - 생성, 중간 연산, 최종 연산 세 단계의 파이프라인으로 구성 
-	- -> 더 찾아보기
 - 원본 데이터 소스 변경하지 않음(read-only)
 - 일회용임
 - 내부 반복자
 - `count()`. `max()`, `min()` + `sum()` `average()`
 
-| 스트림(Stream) | 이터레이터(Iterator) |
-| --- | --- |
+|                          스트림(Stream)                           |                이터레이터(Iterator)                 |
+|:-----------------------------------------------------------------:|:---------------------------------------------------:|
 | 병렬 또는 순차적으로 처리할 수 있는 데이터 요소의 시퀀스를 나타냄 | 하나씩 데이터 요소에 접근할 수 있는 시퀀스를 나타냄 |
-| 순차 및 병렬 처리 모두 지원함 | 순차 처리만 지원함 |
-| 데이터 처리를 위한 API를 제공함 | 데이터 순환 및 제거에 대한 간단한 API만 제공함 |
-| 필요할 때에만 데이터를 처리하도록 lazy evaluation를 지원함 | 항상 데이터를 즉시 처리함 |
-| filtering, mapping, reducing 및 collecting 등의 작업을 지원함 | Collection에서 요소 제거만 지원함 |
-| Collection, 배열 및 기타 소스에서 생성할 수 있음 | Collection 및 배열에서만 생성할 수 있음 |
+|                   순차 및 병렬 처리 모두 지원함                   |                 순차 처리만 지원함                  |
+|                  데이터 처리를 위한 API를 제공함                  |   데이터 순환 및 제거에 대한 간단한 API만 제공함    |
+|    필요할 때에만 데이터를 처리하도록 lazy evaluation를 지원함     |              항상 데이터를 즉시 처리함              |
+|   filtering, mapping, reducing 및 collecting 등의 작업을 지원함   |          Collection에서 요소 제거만 지원함          |
+|         Collection, 배열 및 기타 소스에서 생성할 수 있음          |       Collection 및 배열에서만 생성할 수 있음       |
 
 ## lambda
+
 - 메서드를 간단하고 편리하게 표현하기 위해 고안된 문법 요소
 - 반환 타입과 이름이 생략 가능해 익명 함수라 하기도 함
 - 멀티쓰레드를 활용해 병렬처리를 할 수 있다
@@ -296,10 +295,11 @@ public class NewStack<E> implements Stack<E>{
 	- ex/ 인텔리제이 자동완성 기능, 스트링 어노테이션 등...
 
 ## dynamic proxy
+
 - 프록시는 타겟 코드의 수정없이 접근제어 혹은 부가기능을 추가하기 위해 주로 사용되나, 일반적인 프록시는 반복되는 코드가 발생하는 단점이 있음
 - 런타임 시점에 프록시 클래스를 만들어주는 방식 
 - `newProxyInstance()` Reflexion API 사용
- ```
+ ```java
  @CallerSensitive 
  public static Object newProxyInstance(ClassLoader loader, 
 				 Class<?>[] interfaces, 

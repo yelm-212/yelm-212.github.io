@@ -75,6 +75,7 @@ Array과 유사하나, 리스트는 크기가 정해져 있지 않고 **사이�
 - 인덱스가 따로 존재하지 않고, `iterator`를 사용
 
 ## HashTable vs HashMap vs LinkedHashMap vs TreeMap
+
 ![](https://www.programcreek.com/wp-content/uploads/2009/02/MapClassHierarchy-600x354.jpg?ezimgfmt=rs%3Adevice%2Frscb13-1)
 
 - `HashTable` 
@@ -95,8 +96,9 @@ Array과 유사하나, 리스트는 크기가 정해져 있지 않고 **사이�
 	- `get()`,` put()`과 같은 기본 메소드의 성능이 O(log n)
 	- value 값으로 null 가능
 	- 반복 순서는 키의 자연 순서에 따라 결정된다.
-- 동기화가 필요한 경우 `Hashtable`을 사용하고 동기화가 필요하지 않고 빠른 성능이 필요한 경우` HashMap`을 사용
+- 동기화가 필요한 경우 `HashTable`을 사용하고 동기화가 필요하지 않고 빠른 성능이 필요한 경우` HashMap`을 사용
 - 삽입 순서를 유지해야하는 경우 `LinkedHashMap`을 사용하고 정렬된 맵이 필요한 경우 `TreeMap`을 사용
+  
 ## HashMap vs ConcurrentHashMap
 
 두가지 모두 `Map interface`의 구현체이나, 상황에 따라 구분하여 사용하여야 한다.

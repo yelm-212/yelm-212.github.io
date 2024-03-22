@@ -26,7 +26,7 @@ Object Oriented Programming languages are defined by the following key words: *
 -  메소드: 메시지에 따라 실행시킬 프로시저로서 객체지향 언어에서 사용되는 것. 객체지향 언어에서는 메시지를 보내 메소드를 수행시킴으로써 통신(communication)을 수행
 
 - 예시 코드
-```
+```java
 public class BankAccount {
     private String accountNumber;
     private double balance;
@@ -105,13 +105,12 @@ public class BankAccount {
 -  하나의 이름(방법)으로 많은 상황에 대처하는 것을 뜻한다.
 - **동일한 작업을 하는 함수들에 똑같은 이름을 부여**할 수 있으므로 코드가 더 간단해지는 효과가 있다.
 
-```
+```java
 class Helper {
 
 	// Method with 2 integer parameters
 	static int Multiply(int a, int b)
 	{
-
 		// Returns product of integer numbers
 		return a * b;
 	}
@@ -127,15 +126,15 @@ class Helper {
 }
   
 ```
+
 - 위 코드는 같은 이름을 가지고 있으나 메소드의 인자가 정수형인지 실수형인지 여부에 따라 (데이터 타입에 의거해) 다르게 작동한다. (**Compile-time Polymorphism**)
 
-```
+```java
 class Parent {
 
 	// Method of parent class
 	void Print()
 	{
-
 		// Print statement
 		System.out.println("parent class");
 	}
@@ -156,7 +155,6 @@ class subclass2 extends Parent {
 	// Method
 	void Print()
 	{
-
 		// Print statement
 		System.out.println("subclass2");
 	}
@@ -170,7 +168,7 @@ class subclass2 extends Parent {
 - 객체를 **단순화하고 필수적인 특징들만을 추려내어 표현**해, 객체를 더욱 쉽게 이해하고 사용하기 쉽게 만든다
 - **객체의 상세 구현을 숨겨**, 외부에서 해당 객체를 사용할 때에는 구현의 복잡성을 신경 쓰지 않고 **객체의 핵심적인 특징과 기능에만 집중**할 수 있다. => 유지보수성과 코드 재사용성이 높아짐
 
-```
+```java
 abstract class Shape {
 	String color;
 
