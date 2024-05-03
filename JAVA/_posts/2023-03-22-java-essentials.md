@@ -53,6 +53,8 @@ last_modified_at: 2024-02-01
 | Null value  | null값 불가                                          | null값 가능                                           |
 |             | byte, char, short, int, long, float, double, boolean | 배열 타입, 열거 타입, 클래스, 인터페이스              |
 
+**성능과 메모리에 장점이 있는 원시 타입을 먼저 고려한 후, `NULL`을 다뤄야 하거나, 제네릭 타입을 고려해야 한다면 참조타입 사용**
+
 ##  Call by Reference vs Call by Value
 
 | Aspect | Call by Value                                            | Call by Reference                                           |
