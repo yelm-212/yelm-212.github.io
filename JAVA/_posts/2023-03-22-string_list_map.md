@@ -14,6 +14,7 @@ last_modified_at: 2023-03-22
 ---
 
 # String
+
 ## String vs StringBuffer vs StringBuilder 
 
 | 클래스 | 가변성 | Thread Safety | 사용 사례 |

@@ -19,9 +19,9 @@ last_modified_at: 2023-03-22
 [](https://media.geeksforgeeks.org/wp-content/uploads/20210218150010/JDK.png)
 1. **JDK** (Java Development Kit)
 	- JDK는 Java 프로그램을 개발 및 실행하기 위한 환경을 제공하는 일종의 키트와 같다.
-	- JDK는 개발 도구와 JRE를 포함한다.
+	- JDK는 javac 등의 컴파일러와 JRE를 포함한다.
 2. **JRE** (Java Runtime Environment)
-	- 자바를 컴퓨터에서 실행하는 환경만을 제공
+	- JVM 동작을 위한 자바 라이브러리 등을 제공한다.
 	- JRE는 end-user에게만 사용된다.
 3. **JVM** (**Java Virtual Machine**)
 	- JRE과 JDK 모두에 내장되어 있다.
