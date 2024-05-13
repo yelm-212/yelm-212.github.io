@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-19-database-02.md",
+                "file": "sqld/_posts/2024-05-13-2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-19-database-02.md",
+                "file": "sqld/_posts/2024-05-13-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-19-database-02.md",
+                "file": "sqld/_posts/2024-05-13-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_science/db/_posts/2023-04-19-database-02.md"
+                "file": "sqld/_posts/2024-05-13-2.md"
               }
             }
           },
@@ -207,13 +207,17 @@
   },
   "active": "22ab3ef2b99be6d6",
   "lastOpenFiles": [
+    "sqld/_posts/2024-05-13-1.md",
+    "sqld/_posts/2024-05-13-2.md",
+    "computer_science/db/_posts/2023-04-19-database-02.md",
+    "sqld/_posts",
+    "sqld",
     "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "docker_k8s/_posts/2023-04-03-docker-sec02.md",
     "docker_k8s/_posts/2023-04-08-docker-section2-2.md",
     "docker_k8s/_posts/2023-04-10-docker-section3.md",
     "docker_k8s/_posts/2023-05-02-docker-section6.md",
     "docker_k8s/_posts/2023-04-28-docker-section5.md",
-    "computer_science/db/_posts/2023-04-19-database-02.md",
     "computer_science/db/_posts/2023-04-17-database-01.md",
     "java/_posts/2023-03-24-java_collection.md",
     "java/_posts/2024-05-03-map.md",
@@ -231,8 +235,6 @@
     "java/spring/_posts/2023-03-31-error1.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
     "java/spring/_posts/2023-05-01-spring-servlet.md",
-    "java/spring/_posts/2023-04-12-error2.md",
-    "java/ds_algorithm/_posts/2023-03-26-algorithms.md",
     "attatchments/2024-05-03-map_image_1_3d3a1c7f.png",
     "attatchments/tmp1714723621511_2024-05-03-map_image_1_3d3a1c7f.png",
     "java/ds_algorithm/_posts",
@@ -251,8 +253,6 @@
     "books/effective_java/_posts",
     "books/effective_java",
     "computer_science/os/_posts",
-    "computer_science/os",
-    "java/spring/_posts",
-    "java/spring"
+    "computer_science/os"
   ]
 }
