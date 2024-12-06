@@ -115,9 +115,6 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yerimshin@yelm.digital"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:21yrshin@naver.com"
     - label: "Naver Blog"
       icon: "fas fa-fw fa-link"
