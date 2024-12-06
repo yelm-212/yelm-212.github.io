@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sqld/_posts/2024-06-15-review.md",
+                "file": "java/_posts/2024-12-06-too-many-open-files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-06-too-many-open-files"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -71,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -84,7 +94,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2023-11-09-EJ-4-19"
             }
           }
         ]
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqld/_posts/2024-06-15-review.md",
+                "file": "java/_posts/2024-12-06-too-many-open-files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-06-too-many-open-files"
             }
           },
           {
@@ -124,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sqld/_posts/2024-06-15-review.md",
+                "file": "java/_posts/2024-12-06-too-many-open-files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-06-too-many-open-files"
             }
           },
           {
@@ -138,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sqld/_posts/2024-06-15-review.md"
-              }
+                "file": "java/_posts/2024-12-06-too-many-open-files.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-06-too-many-open-files"
             }
           },
           {
@@ -161,7 +181,9 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "YYYY-MM-DD-daily-post"
             }
           },
           {
@@ -169,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -181,7 +205,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -207,8 +233,10 @@
   },
   "active": "d7cf2549913a3ed7",
   "lastOpenFiles": [
-    "sqld/_posts/2024-05-13-2.md",
+    "java/_posts/2024-12-06-too-many-open-files.md",
     "sqld/_posts/2024-06-15-review.md",
+    "attatchments/20230403210508.png",
+    "sqld/_posts/2024-05-13-2.md",
     "sqld/_posts/2024-05-13-1.md",
     "computer_science/os/_posts/2023-05-31-os-4.md",
     "computer_science/network/_posts/2023-04-04-net05.md",
@@ -232,7 +260,6 @@
     "computer_science/db/_posts/2023-04-17-database-01.md",
     "_posts/2024-02-23-ci-cd.md",
     "_posts/2023-10-22-patterns.md",
-    "docker_k8s/_posts/2023-04-03-docker-sec01.md",
     "attatchments/2023-05-15-spring-4_image_1_f10c5018.png",
     "attatchments/20230522142414.png",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
@@ -242,7 +269,6 @@
     "attatchments/2023-04-24-database-03_image_1.png",
     "attatchments/2023-05-02-spring-1_image_1_f10c5018.png",
     "attatchments/2023-05-02-spring-1_image_2_f10c5018.png",
-    "attatchments/2023-05-02-spring-1_image_3_f10c5018.png",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
