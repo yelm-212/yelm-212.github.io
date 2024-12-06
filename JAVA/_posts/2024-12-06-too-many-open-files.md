@@ -13,7 +13,7 @@ last_modified_at: 2024-12-06
 ## Jenkins Too Many Open Files 메시지
 
 리눅수 환경에서 FD 기본 설정된 개수 초과해서 발생한다.
-초기 설정값은 soft - 2048 hard - 4096 이다,
+초기 설정값은 soft - 2048 hard - 4096 이다.
 
 ```bash
 cat /proc/sys/fs/file-max
