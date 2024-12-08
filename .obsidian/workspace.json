@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/_posts/2024-12-06-too-many-open-files.md",
+                "file": "java/jvm/_posts/2024-12-08-ch04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-12-06-too-many-open-files"
+              "title": "2024-12-08-ch04"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/_posts/2024-12-06-too-many-open-files.md",
+                "file": "java/jvm/_posts/2024-12-08-ch04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-06-too-many-open-files"
+              "title": "Backlinks for 2024-12-08-ch04"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/_posts/2024-12-06-too-many-open-files.md",
+                "file": "java/jvm/_posts/2024-12-08-ch04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-06-too-many-open-files"
+              "title": "Outgoing links from 2024-12-08-ch04"
             }
           },
           {
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/_posts/2024-12-06-too-many-open-files.md"
+                "file": "java/jvm/_posts/2024-12-08-ch04.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-06-too-many-open-files"
+              "title": "Outline of 2024-12-08-ch04"
             }
           },
           {
@@ -233,6 +233,10 @@
   },
   "active": "d7cf2549913a3ed7",
   "lastOpenFiles": [
+    "java/_posts/2024-12-06-too-many-open-files.md",
+    "java/jvm/_posts/2024-12-08-ch04.md",
+    "java/jvm/_posts",
+    "java/jvm",
     "sqld/_posts/2024-05-13-2.md",
     "sqld/_posts/2024-05-13-1.md",
     "sqld/_posts/2024-06-15-review.md",
@@ -253,13 +257,11 @@
     "plans_til/_posts/2023-08-22-0822.md",
     "plans_til/_posts/2023-09-04-20230904.md",
     "plans_til/_posts/2023-09-06.md",
-    "java/_posts/2024-12-06-too-many-open-files.md",
     "attatchments/20230403210508.png",
     "computer_science/os/_posts/2023-05-31-os-4.md",
     "computer_science/network/_posts/2023-04-04-net05.md",
     "computer_science/network/_posts/2023-03-30-net02.md",
     "computer_science/network/_posts/2023-04-04-net03.md",
-    "computer_science/network/_posts/2023-04-04-net04.md",
     "attatchments/2023-05-15-spring-4_image_1_f10c5018.png",
     "attatchments/20230522142414.png",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
@@ -277,8 +279,6 @@
     "tempCodeRunnerFile.java",
     "computer_science",
     "books/effective_java/_posts",
-    "books/effective_java",
-    "computer_science/os/_posts",
-    "computer_science/os"
+    "books/effective_java"
   ]
 }
