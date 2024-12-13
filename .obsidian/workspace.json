@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/jvm/_posts/2024-12-08-ch04.md",
+                "file": "algorithm_codes/_posts/2024-12-13-boj16935.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-12-08-ch04"
+              "title": "2024-12-13-boj16935"
             }
           }
         ]
@@ -233,8 +233,10 @@
   },
   "active": "d7cf2549913a3ed7",
   "lastOpenFiles": [
-    "java/_posts/2024-12-06-too-many-open-files.md",
+    "algorithm_codes/_posts/2024-12-13-boj16935.md",
     "java/jvm/_posts/2024-12-08-ch04.md",
+    "java/jvm/_posts/Untitled.md",
+    "java/_posts/2024-12-06-too-many-open-files.md",
     "java/jvm/_posts",
     "java/jvm",
     "sqld/_posts/2024-05-13-2.md",
@@ -260,8 +262,6 @@
     "attatchments/20230403210508.png",
     "computer_science/os/_posts/2023-05-31-os-4.md",
     "computer_science/network/_posts/2023-04-04-net05.md",
-    "computer_science/network/_posts/2023-03-30-net02.md",
-    "computer_science/network/_posts/2023-04-04-net03.md",
     "attatchments/2023-05-15-spring-4_image_1_f10c5018.png",
     "attatchments/20230522142414.png",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
