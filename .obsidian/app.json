@@ -1,0 +1,11 @@
+{
+  "livePreview": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/attatchments",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "showFrontmatter": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}
