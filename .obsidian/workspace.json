@@ -26,12 +26,15 @@
             "id": "081808b00cac13aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attatchments/20250101a77f9360.png"
+                "file": "java/jvm/_posts/2025-01-01-ch06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "20250101a77f9360"
+              "icon": "lucide-file",
+              "title": "2025-01-01-ch06"
             }
           }
         ],
@@ -237,10 +240,10 @@
   },
   "active": "081808b00cac13aa",
   "lastOpenFiles": [
+    "attatchments/20250101a77f9360.png",
     "java/jvm/_posts/2025-01-01-ch06.md",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
     "java/_posts/2023-03-22-java-essentials.md",
-    "attatchments/20250101a77f9360.png",
     "java/jvm/_posts/2024-12-19-ch05.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
     "sqld/_posts/2024-06-15-review.md",
