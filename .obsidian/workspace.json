@@ -37,7 +37,8 @@
               "title": "2025-01-01-ch06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +238,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "70cbabbede72de7c",
+  "active": "8ae6f8a0b571a16d",
   "lastOpenFiles": [
-    "java/jvm/_posts/2025-01-01-ch06.md",
+    "attatchments/20250103110036.png",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
+    "java/jvm/_posts/2025-01-01-ch06.md",
     "java/_posts/2023-03-22-java-essentials.md",
     "java/jvm/_posts/2024-12-19-ch05.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
@@ -264,7 +266,6 @@
     "archive/_posts/2023-06-20-daily0620.md",
     "archive/_posts/2023-06-14-daily0614.md",
     "archive/_posts/2023-06-13-daily0613.md",
-    "archive/_posts/2023-06-12-daily0612.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
@@ -276,7 +277,6 @@
     "attatchments/2023-03-29-net01_image_2_a2371f29.jpg",
     "attatchments/2023-04-24-database-03_image_1.png",
     "attatchments/2023-05-02-spring-1_image_1_f10c5018.png",
-    "attatchments/2023-05-02-spring-1_image_2_f10c5018.png",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
