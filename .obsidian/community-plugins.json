@@ -6,5 +6,7 @@
   "highlightr-plugin",
   "colored-text",
   "obsidian-minimal-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-admonition",
+  "cmenu-plugin"
 ]
