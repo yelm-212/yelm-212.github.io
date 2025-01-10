@@ -23,7 +23,7 @@ last_modified_at: 2025-01-10
     - 전송된 `jar` 파일이 원격 서버에서 실행되면서 Spring Boot 애플리케이션이 배포된다.
 
 해당 파이프라인의 흐름을 Mermaid 다이어그램으로 확인할 수 있다.
- [GitLab+Jenkins 파이프라인 구축](https://rkdejr2321.github.io/ci-cd/gitlab_jenkins/) 글을 참고하여 구축하였다.
+ [GitLab+Jenkins 파이프라인 구축](https://rkdejr2321.github.io/ci-cd/gitlab_jenkins/) 글을 참고하였다.
 
 ---
 
