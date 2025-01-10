@@ -9,21 +9,7 @@ date: 2025-01-10
 last_modified_at: 2025-01-10
 ---
 
-```mermaid
-graph TD
-    A[Developer pushes code to GitLab] -->|Push Event| B[GitLab Repository]
-    B -->|Webhook| C[Jenkins CI Pipeline]
-    C -->|Build Spring Boot Application| D[jar File Created]
-    D -->|SSH Connection| E[Remote Linux Server]
-    E -->|Deploy jar File| F[Spring Boot Application Running]
-
-    style A fill:#fc6d27
-    style B fill:#fc6d27
-    style C fill:#f4a261
-    style D fill:#f4a261
-    style E fill:#2a9d8f
-    style F fill:#2a9d8f
-```
+![](/attatchments/Pasted%20image%2020250110175438.png)
 
 다음과 같은 형태로 **GitLab Repository**와 **Jenkins**를 활용하여 CI/CD 파이프라인을 구성하였다.  
 
