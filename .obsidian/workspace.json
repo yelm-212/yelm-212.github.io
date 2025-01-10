@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9a7b1bb34cd42776",
+        "id": "b1cca3fa51c1887e",
         "type": "tabs",
         "children": [
           {
-            "id": "70cbabbede72de7c",
+            "id": "b4dcc0cd136fadcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/_posts/2023-03-22-jdk_jre_jvm.md",
+                "file": "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-03-22-jdk_jre_jvm"
-            }
-          },
-          {
-            "id": "081808b00cac13aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/jvm/_posts/2025-01-01-ch06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-01-ch06"
+              "title": "2025-01-10-gitlab_jenkins_ci_cd"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 237.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -238,15 +222,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "081808b00cac13aa",
+  "active": "b4dcc0cd136fadcf",
   "lastOpenFiles": [
+    "_posts/2023-06-08-codestates-‪s4.md",
+    "_posts/2024-02-23-ci-cd.md",
+    "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
+    "sqld/_posts/2024-05-13-2.md",
+    "JAVA/_posts/2023-04-26-error3.md",
+    "JAVA/_posts/2024-12-06-too-many-open-files.md",
+    "sqld/_posts/2024-06-15-review.md",
+    "JAVA/jvm/_posts/2025-01-01-ch06.md",
     "attatchments/20250101a77f9360.png",
     "java/jvm/_posts/2025-01-01-ch06.md",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
     "java/_posts/2023-03-22-java-essentials.md",
     "java/jvm/_posts/2024-12-19-ch05.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
-    "sqld/_posts/2024-06-15-review.md",
     "archive/_posts/2023-03-28-daily-2.md",
     "archive/_posts/2023-09-05-20230905.md",
     "archive/_posts/2023-09-04-20230904.md",
@@ -260,12 +251,6 @@
     "archive/_posts/2023-07-06-0706.md",
     "archive/_posts/2023-07-05-0705.md",
     "archive/_posts/2023-07-04-0704.md",
-    "archive/_posts/2023-07-03-daily0703.md",
-    "archive/_posts/2023-06-26-daily0626.md",
-    "archive/_posts/2023-06-21-daily0621.md",
-    "archive/_posts/2023-06-20-daily0620.md",
-    "archive/_posts/2023-06-14-daily0614.md",
-    "archive/_posts/2023-06-13-daily0613.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
