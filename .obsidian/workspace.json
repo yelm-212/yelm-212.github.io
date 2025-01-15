@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/_posts/Vue@3.md",
+                "file": "vue3/_posts/2025-01-15-vue3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vue@3"
+              "title": "2025-01-15-vue3"
             }
           }
         ]
@@ -226,7 +226,7 @@
   "lastOpenFiles": [
     "attatchments/20240208182039.png",
     "attatchments/20250115105728.png",
-    "vue3/_posts/Vue@3.md",
+    "vue3/_posts/2025-01-15-vue3.md",
     "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
     "vue3/_posts",
     "vue3",
