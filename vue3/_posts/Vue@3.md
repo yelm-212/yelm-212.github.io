@@ -1,0 +1,278 @@
+---
+title: "[Vue3] vue.js introduction"
+excerpt: "vue.js를 학습하며 개념 및 용어를 간단하게 정리했습니다."
+tags:
+  - vue@3
+toc: true
+toc_sticky: true
+date: 2025-01-15
+last_modified_at: 2025-01-15
+---
+
+Vue의 핵심 기능은 **선언적 렌더링**이다. HTML을 확장하는 템플릿 문법을 사용하여 JavaScript 상태를 기반으로 HTML이 어떻게 보이는지 설명할 수 있고, 상태가 변경되면 HTML이 자동으로 업데이트된다.
+
+# option vs composition api
+
+Vue의 컴포넌트 파일은 두가지 스타일로 작성이 가능하다.
+
+IntelliJ에서 새 Vue Component를 작성하려 하면 다음과 같이 API 스타일을 선택해 작성할 수 있다.
+
+![](/attatchments/20250115105728.png)
+
+## option API
+
+옵션의 `data`, `methods` 및 `mounted` 같은 객체를 사용하여 컴포넌트의 로직를 정의한다. 옵션으로 정의된 속성은 컴포넌트 인스턴스를 가리키는 함수 내 `this`에 노출된다.
+
+```vue
+<script>
+
+export default {
+// data()에서 반환된 속성들은 반응적인 상태가 되어 `this`에 노출됩니다.
+	data() {
+		return {
+		count: 0
+		}
+	},
+// methods는 속성 값을 변경하고 업데이트 할 수 있는 함수.
+// 템플릿 내에서 이벤트 리스너로 바인딩 될 수 있음.
+	methods: {
+		increment() {
+		this.count++
+		}
+	},
+
+// 생명주기 훅(Lifecycle hooks)은 컴포넌트 생명주기의 여러 단계에서 호출됩니다.
+// 이 함수는 컴포넌트가 마운트 된 후 호출됩니다.
+	mounted() {
+		console.log(`숫자 세기의 초기값은 ${ this.count } 입니다.`)
+	}
+}
+</script>
+
+<template>
+	<button @click="increment">숫자 세기: {{ count }}</button>
+</template>
+```
+
+## composition api
+
+- `import`해서 가져온 API 함수들을 사용하여 컴포넌트의 로직를 정의한다.
+- 일반적으로 `<script setup>` 과 함께 사용된다.
+	- `setup` 속성은 더 적은 코드 문맥으로 컴포지션 API를 사용하고, 컴파일 시 의도한대로 올바르게 동작할 수 있게 코드를 변환하도록 하는 힌트이다.
+
+```vue
+<script setup>  
+import { ref, onMounted } from 'vue'  
+  
+// 반응적인 상태의 속성  
+const count = ref(0)  
+  
+// 속성 값을 변경하고 업데이트 할 수 있는 함수.  
+function increment() {  
+  count.value++  
+}  
+  
+// 생명 주기 훅  
+onMounted(() => {  
+  console.log(`숫자 세기의 초기값은 ${ count.value } 입니다.`)  
+})  
+</script>  
+  
+<template>  
+  <button @click="increment">숫자 세기: {{ count }}</button>  
+</template>
+```
+
+## 각 API 스타일 선택의 장단점
+
+어떤 방식으로 선택하더라도, 어차피 기능은 동일하게 가능해서 초기 학습 단계에서는 무엇을 선택해도 상관이 없다.
+
+공식 문서의 권장 사항은 다음과 같다.
+
+>[!note]
+> 프로덕션 환경에서 선택 방법
+>   - 빌드 도구를 사용하지 않거나 Vue를 주로 **복잡성이 낮은 시나리오에서 사용할 계획이라면 옵션 API**를 사용하세요.
+>   - Vue로 **규모가 있는 앱의 전체를 구축**하려는 경우 **컴포넌트 API + 단일파일 컴포넌트(SFC)**를 사용하십시오.
+
+# 이벤트 리스너
+
+`v-on`을 사용해 DOM 이벤트를 수신할 수 있다. 
+
+```vue
+<script setup>
+import { ref } from 'vue'
+
+const count = ref(0)
+
+function increment() {
+  // 컴포넌트의 count 상태 업데이트
+  count.value++
+}
+</script>
+
+<template>
+	<button v-on:click="increment">{{ count }}</button>
+	
+	<!-- 단축 문법(결과 동일) -->
+	<button @click="increment">{{ count }}</button>
+</template>
+```
+
+# Form 입력 바인딩
+
+`v-bind`와 `v-on`을 함께 사용하면, 폼 안의 입력 엘리먼트에 양방향 바인딩을 만들 수 있다. Vue@3에서는 이런 양방향 바인딩을 단순화하는 디렉티브를 제공한다.
+
+```vue
+<!--기본 문법-->
+<input
+  :value="text"
+  @input="event => text = event.target.value">
+
+<!--단축 문법-->
+<input v-model="text">
+```
+
+# 조건부 렌더링
+
+```vue
+<script setup>
+import { ref } from 'vue'
+
+const awesome = ref(true)
+
+function toggle() {
+  awesome.value = !awesome.value
+}
+</script>
+
+<template>
+  <button @click="toggle">토글 버튼</button>
+  <!-- awesome.value 값에 따라서 보여지는 node가 바뀐다.-->
+  <h1 v-if="awesome">1</h1>
+  <h1 v-else>2</h1>
+</template>
+```
+
+# 리스트 렌더링
+
+```vue
+<script setup>
+import { ref } from 'vue'
+
+// 각 할 일에 고유한 ID 부여
+let id = 0
+
+const newTodo = ref('')
+const todos = ref([
+  { id: id++, text: 'HTML 배우기' },
+  { id: id++, text: 'JavaScript 배우기' },
+  { id: id++, text: 'Vue 배우기' }
+])
+
+function addTodo() {
+  // 변경 메서드 호출
+  todos.value.push({ id: id++, text: newTodo.value })
+  newTodo.value = ''
+}
+
+function removeTodo(todo) {
+  // filter로 제외한다.
+  todos.value = todos.value.filter((t) => t !== todo)
+}
+</script>
+
+<template>
+  <form @submit.prevent="addTodo">
+    <input v-model="newTodo">
+    <button>할 일 추가</button>
+  </form>
+  <ul>
+    <li v-for="todo in todos" :key="todo.id">
+      {{ todo.text }}
+      <button @click="removeTodo(todo)">X</button>
+    </li>
+  </ul>
+</template>
+```
+
+# 계산된 속성 (`computed()`)
+
+`template` 내에서 표현식을 쓸 수도 있지만, 그렇게 하면 코드가 길어졌을때 가독성이 나빠질 뿐만 아니라 렌더링 효율이 나빠질 수 있다.
+
+이때, `computed`를 사용해 마치 변수처럼 템플릿에서 사용할 수 있다.
+
+>왜 메서드 써도 되는데 계산된 속성을 쓰나요?
+
+`computed`는 반응형 데이터에 의존해 계산 값을 생성하고, 종속 데이터가 변경될때만 다시 계산한다. 데이터가 변경되지 않으면 이전 값을 **캐싱해 반환**하므로 렌더링 효율이 크게 향상된다. 반면 메서드의 경우 리렌더링이 발생할때마다 함수를 실행하므로 효율이 좋지 않다.
+
+```vue
+<script setup>
+import { ref, computed } from 'vue'
+
+let id = 0
+
+const newTodo = ref('')
+const hideCompleted = ref(false)
+const todos = ref([
+  { id: id++, text: 'HTML 배우기', done: true },
+  { id: id++, text: 'JavaScript 배우기', done: true },
+  { id: id++, text: 'Vue 배우기', done: false }
+])
+
+// 계산된 속성 사용
+const filteredTodos = computed(() => {
+  return hideCompleted.value
+    ? todos.value.filter((t) => !t.done)
+    : todos.value
+})
+
+function addTodo() {
+  todos.value.push({ id: id++, text: newTodo.value, done: false })
+  newTodo.value = ''
+}
+
+function removeTodo(todo) {
+  todos.value = todos.value.filter((t) => t !== todo)
+}
+</script>
+
+<template>
+  <form @submit.prevent="addTodo">
+    <input v-model="newTodo">
+    <button>Add Todo</button>
+  </form>
+  <ul>
+    <li v-for="todo in filteredTodos" :key="todo.id">
+      <input type="checkbox" v-model="todo.done">
+      <span :class="{ done: todo.done }">{{ todo.text }}</span>
+      <button @click="removeTodo(todo)">X</button>
+    </li>
+  </ul>
+  <button @click="hideCompleted = !hideCompleted">
+    {{ hideCompleted ? 'Show all' : 'Hide completed' }}
+  </button>
+</template>
+
+<style>
+.done {
+  text-decoration: line-through;
+}
+</style>
+```
+
+# 생명 주기 훅
+
+![](https://v3-docs.vuejs-korea.org/assets/lifecycle.d3fe54ca.png)
+
+컴포넌트의 생명 주기에 따라 생명 주기의 특정 시간에 호출할 콜백 함수를 등록할 수 있다.
+
+**데이터 초기화**, **리소스 정리**, **DOM 작업**, **비용이 큰 작업 지연 처리**, **데이터 업데이트 추적** 등 다양한 상황에서 사용할 수 있다.
+
+# 감시자
+
+반응형 속성 값이 변경되는 것을 감지해, 이 값이 변경될 때 마다 함수를 실행해 상태를 변경할 수 있다.
+
+---
+출처
+
+- [Vue@3 공식문서 한글 번역](https://v3-docs.vuejs-korea.org/guide/introduction.html)

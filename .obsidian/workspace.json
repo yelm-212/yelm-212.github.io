@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
+                "file": "vue3/_posts/Vue@3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-10-gitlab_jenkins_ci_cd"
+              "title": "Vue@3"
             }
           }
         ]
@@ -218,16 +218,19 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b4dcc0cd136fadcf",
   "lastOpenFiles": [
+    "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
+    "vue3/_posts/Vue@3.md",
+    "vue3/_posts",
+    "vue3",
     "attatchments/Pasted image 20250110175438.png",
     "_posts/2023-06-08-codestates-‪s4.md",
     "_posts/2024-02-23-ci-cd.md",
-    "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
     "sqld/_posts/2024-05-13-2.md",
     "JAVA/_posts/2023-04-26-error3.md",
     "JAVA/_posts/2024-12-06-too-many-open-files.md",
@@ -261,15 +264,12 @@
     "attatchments/2023-03-29-net01_image_1_a2371f29.png",
     "attatchments/2023-03-29-net01_image_2_a2371f29.jpg",
     "attatchments/2023-04-24-database-03_image_1.png",
-    "attatchments/2023-05-02-spring-1_image_1_f10c5018.png",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
     "java/ds_algorithm",
     "Untitled.canvas",
     "tempCodeRunnerFile.java",
-    "computer_science",
-    "books/effective_java/_posts",
-    "books/effective_java"
+    "computer_science"
   ]
 }
