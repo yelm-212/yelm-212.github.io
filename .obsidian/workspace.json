@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1cca3fa51c1887e",
+        "id": "5e3e83e53c906f27",
         "type": "tabs",
         "children": [
           {
-            "id": "b4dcc0cd136fadcf",
+            "id": "9cc013f0a5a900e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/_posts/2025-01-15-vue3.md",
+                "file": "vue3/_posts/2025-01-15-vue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-01-15-vue3"
+              "title": "2025-01-15-vue"
             }
           }
         ]
@@ -222,11 +222,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4dcc0cd136fadcf",
+  "active": "9cc013f0a5a900e9",
   "lastOpenFiles": [
+    "vue3/_posts/2025-01-15-vue.md",
+    "vue3/_posts/2025-01-15-vue3.md",
     "attatchments/20240208182039.png",
     "attatchments/20250115105728.png",
-    "vue3/_posts/2025-01-15-vue3.md",
     "_posts/2025-01-10-gitlab_jenkins_ci_cd.md",
     "vue3/_posts",
     "vue3",
@@ -263,7 +264,6 @@
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "attatchments/2023-03-29-net01_image_1_a2371f29.png",
-    "attatchments/2023-03-29-net01_image_2_a2371f29.jpg",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
