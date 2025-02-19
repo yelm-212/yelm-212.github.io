@@ -17,7 +17,7 @@ last_modified_at: 2025-02-19
     
 - **상태 관리**: VueX -> Pinia
     
-- **언어**: JavaScript (Pure JS)
+- **언어**: JavaScript 
     
 - **IDE**: IntelliJ IDEA
 
