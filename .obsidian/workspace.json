@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-03-16937_boj.md",
+                "file": "algorithm_codes/_posts/2025-03-03-boj_16937.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-03-16937_boj"
+              "title": "2025-03-03-boj_16937"
             }
           }
         ]
@@ -234,7 +234,7 @@
   },
   "active": "9cc013f0a5a900e9",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-03-16937_boj.md",
+    "algorithm_codes/_posts/2025-03-03-boj_16937.md",
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-jvm_00.md",
     "_templates/YYYY-MM-DD-docker.md",
