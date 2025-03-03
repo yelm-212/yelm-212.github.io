@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue3/_posts/2025-02-19-vue3-pinia-js.md",
+                "file": "algorithm_codes/_posts/2025-03-03-16937_boj.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-02-19-vue3-pinia-js"
+              "title": "2025-03-03-16937_boj"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -218,15 +228,18 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9cc013f0a5a900e9",
   "lastOpenFiles": [
-    "vue3/_posts/2025-01-15-vue.md",
-    "vue3/_posts/2025-02-19-vue3-pinia-js.md",
+    "algorithm_codes/_posts/2025-03-03-16937_boj.md",
+    "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-jvm_00.md",
+    "_templates/YYYY-MM-DD-docker.md",
+    "vue3/_posts/2025-02-19-vue3-pinia-js.md",
+    "vue3/_posts/2025-01-15-vue.md",
     "JAVA/jvm/_posts/2025-02-02-ch08.md",
     "JAVA/jvm/_posts/2025-01-19-ch07.md",
     "vue3/_posts/2025-01-15-vue3.md",
@@ -253,9 +266,6 @@
     "archive/_posts/2023-09-05-20230905.md",
     "archive/_posts/2023-09-04-20230904.md",
     "archive/_posts/2023-08-22-0822.md",
-    "archive/_posts/2023-08-08-0808.md",
-    "archive/_posts/2023-08-07-0807.md",
-    "archive/_posts/2023-07-28-0728.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
