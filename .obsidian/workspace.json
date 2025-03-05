@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/jvm/_posts/2025-02-02-ch08.md",
+                "file": "java/jvm/_posts/2025-02-15-ch09.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2025-02-02-ch08"
+              "title": "2025-02-15-ch09"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -218,19 +228,20 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "09ea1d9a5f28dea7",
   "lastOpenFiles": [
+    "java/jvm/_posts/2025-02-02-ch08.md",
+    "java/jvm/_posts/2025-02-15-ch09.md",
+    "_templates/YYYY-MM-DD-jvm_00.md",
+    "_templates/YYYY-MM-DD-EJ-n.md",
     "java/jvm/_posts/2025-01-19-ch07.md",
     "java/jvm/_posts/2025-01-01-ch06.md",
     "java/jvm/_posts/2024-12-19-ch05.md",
     "java/jvm/_posts/2024-12-08-ch04.md",
-    "java/jvm/_posts/2025-02-02-ch08.md",
-    "_templates/YYYY-MM-DD-jvm_00.md",
-    "_templates/YYYY-MM-DD-EJ-n.md",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
     "vue3/_posts/2025-01-15-vue.md",
     "vue3/_posts",
@@ -254,7 +265,6 @@
     "archive/_posts/2023-07-07-0707.md",
     "archive/_posts/2023-07-06-0706.md",
     "archive/_posts/2023-07-05-0705.md",
-    "archive/_posts/2023-07-04-0704.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
