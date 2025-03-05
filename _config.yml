@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Yerim Shin"
   avatar           : /assets/profile/default.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Junior Web Developer"
+  bio              : "Web Developer"
   location         : "Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:21yrshin@naver.com"
+      url: "mailto:21yrshin@proton.me"
     - label: "Naver Blog"
       icon: "fas fa-fw fa-link"
       url: "https://blog.naver.com/21yrshin"

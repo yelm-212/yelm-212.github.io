@@ -11,24 +11,10 @@
             "id": "09ea1d9a5f28dea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/jvm/_posts/2025-02-15-ch09.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-02-15-ch09"
+              "title": "New tab"
             }
           }
         ]
@@ -232,10 +218,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "09ea1d9a5f28dea7",
+  "active": "565db31eb4ba4992",
   "lastOpenFiles": [
-    "java/jvm/_posts/2025-02-02-ch08.md",
+    "conflict-files-obsidian-git.md",
     "java/jvm/_posts/2025-02-15-ch09.md",
+    "vue3/_posts/2025-02-19-vue3-pinia-js.md",
+    "attatchments/Pasted image 20250304170937.png",
+    "algorithm_codes/_posts/2025-03-04-boj-1182.md",
+    "algorithm_codes/_posts/2025-03-03-boj_16937.md",
+    "java/jvm/_posts/2025-02-02-ch08.md",
     "_templates/YYYY-MM-DD-jvm_00.md",
     "_templates/YYYY-MM-DD-EJ-n.md",
     "java/jvm/_posts/2025-01-19-ch07.md",
@@ -261,10 +252,6 @@
     "archive/_posts/2023-08-07-0807.md",
     "archive/_posts/2023-07-28-0728.md",
     "archive/_posts/2023-07-14-0714.md",
-    "archive/_posts/2023-07-10-0710.md",
-    "archive/_posts/2023-07-07-0707.md",
-    "archive/_posts/2023-07-06-0706.md",
-    "archive/_posts/2023-07-05-0705.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
@@ -273,7 +260,6 @@
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "attatchments/2023-03-29-net01_image_1_a2371f29.png",
-    "attatchments/2023-03-29-net01_image_2_a2371f29.jpg",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
