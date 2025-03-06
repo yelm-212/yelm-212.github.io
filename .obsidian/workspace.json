@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+                "file": "_templates/YYYY-MM-DD-algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-06-boj-2529"
+              "title": "YYYY-MM-DD-algorithm"
             }
           }
         ]
@@ -224,9 +224,11 @@
   },
   "active": "d9382b4eabe7908b",
   "lastOpenFiles": [
+    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+    "_templates/YYYY-MM-DD-algorithm.md",
+    "algorithm_codes/_posts/2023-11-13-BOJ-11726.md",
     "algorithm_codes/_posts/2025-03-04-boj-1182.md",
     "algorithm_codes/_posts/2025-03-05-boj-2210.md",
-    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
     "algorithm_codes/_posts/2025-03-03-boj_16937.md",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts/2025-02-19-vue3-pinia-js.md",
@@ -255,8 +257,6 @@
     "java/jvm/_posts/2024-12-19-ch05.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
     "archive/_posts/2023-03-28-daily-2.md",
-    "archive/_posts/2023-09-05-20230905.md",
-    "archive/_posts/2023-09-04-20230904.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
