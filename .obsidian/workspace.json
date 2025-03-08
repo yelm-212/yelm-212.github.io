@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
+                "file": "algorithm_codes/_posts/2025-03-08-boj-14247.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-07-BOJ-19941"
+              "title": "2025-03-08-boj-14247"
             }
           }
         ],
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
+                "file": "algorithm_codes/_posts/2025-03-08-boj-14247.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-07-BOJ-19941"
+              "title": "Outline of 2025-03-08-boj-14247"
             }
           },
           {
@@ -286,6 +286,7 @@
   "active": "cc5fecb5033d2def",
   "lastOpenFiles": [
     "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
+    "algorithm_codes/_posts/2025-03-08-boj-14247.md",
     "algorithm_codes/_posts/2025-03-06-boj-2529.md",
     "algorithm_codes/_posts/2025-03-04-boj-1182.md",
     "algorithm_codes/_posts/2025-03-05-boj-2210.md",
@@ -317,7 +318,6 @@
     "java/jvm/_posts/2025-01-01-ch06.md",
     "java/_posts/2023-03-22-jdk_jre_jvm.md",
     "java/_posts/2023-03-22-java-essentials.md",
-    "java/jvm/_posts/2024-12-19-ch05.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
