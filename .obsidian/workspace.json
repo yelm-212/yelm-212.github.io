@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cc013f0a5a900e9",
+            "id": "0d402b6a808a74e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+                "file": "algorithm_codes/_posts/2025-03-10-boj-13164.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-06-boj-2529"
+              "title": "2025-03-10-boj-13164"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f28c0a135a40733f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "838f6cfdf6154c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-07-BOJ-19941"
-            }
-          },
-          {
-            "id": "cc5fecb5033d2def",
+            "id": "aca2c8d685788ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,33 +60,8 @@
               "icon": "lucide-file",
               "title": "2025-03-08-boj-14247"
             }
-          },
-          {
-            "id": "cfb52ef3bd862d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/jvm/_posts/Untitled.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/jvm/_posts/Untitled.md",
+                "file": "algorithm_codes/_posts/2025-03-10-boj-13164.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-03-10-boj-13164"
             }
           },
           {
@@ -291,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,17 +265,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cfb52ef3bd862d75",
+  "active": "0d402b6a808a74e6",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-09-boj-18230.md",
-    "JAVA/jvm/_posts/Untitled.md",
     "algorithm_codes/_posts/2025-03-08-boj-14247.md",
-    "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
-    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+    "algorithm_codes/_posts/2025-03-09-boj-18230.md",
+    "algorithm_codes/_posts/2025-03-10-boj-13164.md",
+    "algorithm_codes/_posts/2025-03-03-boj_16937.md",
     "algorithm_codes/_posts/2025-03-04-boj-1182.md",
     "algorithm_codes/_posts/2025-03-05-boj-2210.md",
+    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+    "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
+    "JAVA/jvm/_posts/Untitled.md",
     "algorithm_codes/_posts/2023-06-30-boj-1822.md",
-    "algorithm_codes/_posts/2025-03-03-boj_16937.md",
     "attatchments/Pasted image 20250304170937.png",
     "_templates/YYYY-MM-DD-algorithm.md",
     "_templates/YYYY-MM-DD-jvm_00.md",
@@ -341,7 +300,6 @@
     "sqld/_posts/2024-06-15-review.md",
     "JAVA/jvm/_posts/2025-01-01-ch06.md",
     "attatchments/20250101a77f9360.png",
-    "java/jvm/_posts/2025-01-01-ch06.md",
     "java/jvm/_posts",
     "java/jvm",
     "attatchments/20230403210508.png",
