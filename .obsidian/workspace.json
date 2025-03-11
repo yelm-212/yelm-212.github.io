@@ -34,16 +34,16 @@
         ]
       },
       {
-        "id": "f28c0a135a40733f",
+        "id": "9e0ef7bf471a95c8",
         "type": "tabs",
         "children": [
           {
-            "id": "aca2c8d685788ea5",
+            "id": "413ac92262247aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-08-boj-14247.md",
+                "file": "algorithm_codes/_posts/2025-03-11-boj-10157.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-08-boj-14247"
+              "title": "2025-03-11-boj-10157"
             }
           }
         ]
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -265,11 +266,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d402b6a808a74e6",
+  "active": "413ac92262247aec",
   "lastOpenFiles": [
+    "algorithm_codes/_posts/2025-03-10-boj-13164.md",
+    "algorithm_codes/_posts/2023-10-16-boj-15661.md",
+    "algorithm_codes/_posts/2025-03-11-boj-10157.md",
     "algorithm_codes/_posts/2025-03-08-boj-14247.md",
     "algorithm_codes/_posts/2025-03-09-boj-18230.md",
-    "algorithm_codes/_posts/2025-03-10-boj-13164.md",
     "algorithm_codes/_posts/2025-03-03-boj_16937.md",
     "algorithm_codes/_posts/2025-03-04-boj-1182.md",
     "algorithm_codes/_posts/2025-03-05-boj-2210.md",
@@ -297,8 +300,6 @@
     "sqld/_posts/2024-05-13-2.md",
     "JAVA/_posts/2023-04-26-error3.md",
     "JAVA/_posts/2024-12-06-too-many-open-files.md",
-    "sqld/_posts/2024-06-15-review.md",
-    "JAVA/jvm/_posts/2025-01-01-ch06.md",
     "attatchments/20250101a77f9360.png",
     "java/jvm/_posts",
     "java/jvm",
