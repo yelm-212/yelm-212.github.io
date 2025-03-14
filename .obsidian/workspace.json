@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-03-13-boj-1713"
             }
+          },
+          {
+            "id": "15c15fd292dee687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2025-03-14-boj-2116.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-14-boj-2116"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +257,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d9382b4eabe7908b",
+  "active": "15c15fd292dee687",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
     "algorithm_codes/_posts/2025-03-13-boj-1713.md",
+    "algorithm_codes/_posts/2025-03-14-boj-2116.md",
+    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
     "algorithm_codes/_posts/2025-03-12-b5212.md",
     "algorithm_codes/_posts/2025-03-11-boj-10157.md",
     "algorithm_codes/_posts/2025-03-10-boj-13164.md",
@@ -265,7 +291,6 @@
     "_posts/2024-02-23-ci-cd.md",
     "sqld/_posts/2024-05-13-2.md",
     "JAVA/_posts/2023-04-26-error3.md",
-    "JAVA/_posts/2024-12-06-too-many-open-files.md",
     "attatchments/20250101a77f9360.png",
     "java/jvm/_posts",
     "java/jvm",
