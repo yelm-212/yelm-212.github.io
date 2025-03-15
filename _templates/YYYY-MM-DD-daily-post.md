@@ -1,18 +1,14 @@
 ---
-title:  "{{date}} Today I Learned"
-excerpt: "summarized Today I Learned"
-
-categories:
-  - Blog
-tags:
-  - [Blog, jekyll, TIL, Daily]
-
+title: "{{date}} Today I Learned"
+excerpt: "\bsummarized Today I Learned"
+categories: []
+tags: 
 toc: true
 toc_sticky: true
- 
-date: {{date}}
-last_modified_at: {{date}}
-
+date:
+  "{ date }": 
+last_modified_at:
+  "{ date }":
 ---
 
 # TIL
