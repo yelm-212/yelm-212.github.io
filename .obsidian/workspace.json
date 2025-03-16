@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9a7b1bb34cd42776",
+        "id": "9e0ef7bf471a95c8",
         "type": "tabs",
         "children": [
           {
-            "id": "190c36e0d57a76a0",
+            "id": "413ac92262247aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2025-03-12-b5212.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-12-b5212"
+            }
+          },
+          {
+            "id": "0d3594b3f394e8eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "algorithm_codes/_posts/2025-03-15-boj-11725.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -32,12 +56,12 @@
             }
           },
           {
-            "id": "112b71f35090e126",
+            "id": "30d6894276ded7d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/jvm/_posts/2025-03-09-ch11.md",
+                "file": "algorithm_codes/_posts/2025-03-16-boj-18352.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-09-ch11"
+              "title": "2025-03-16-boj-18352"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 237.5
   },
   "right": {
     "id": "ad66f19f110cbeac",
@@ -143,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-15-boj-11725.md",
+                "file": "java/jvm/_posts/2024-12-08-ch04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-15-boj-11725"
+              "title": "Backlinks for 2024-12-08-ch04"
             }
           },
           {
@@ -162,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-15-boj-11725.md",
+                "file": "java/jvm/_posts/2024-12-08-ch04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-03-15-boj-11725"
+              "title": "Outgoing links from 2024-12-08-ch04"
             }
           },
           {
@@ -177,9 +202,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -191,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-15-boj-11725.md",
+                "file": "algorithm_codes/_posts/2025-03-10-boj-13164.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-15-boj-11725"
+              "title": "Outline of 2025-03-10-boj-13164"
             }
           },
           {
@@ -208,17 +231,8 @@
               "state": {
                 "file": "_templates/YYYY-MM-DD-daily-post.md",
                 "mode": "preview",
-                "source": true,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": true
               },
               "icon": "lucide-file",
               "title": "YYYY-MM-DD-daily-post"
@@ -230,8 +244,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -249,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -270,40 +284,41 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "190c36e0d57a76a0",
+  "active": "30d6894276ded7d4",
   "lastOpenFiles": [
-    "java/jvm/_posts/2025-03-09-ch11.md",
-    "algorithm_codes/_posts/2023-08-16-programmers-92665.md",
     "algorithm_codes/_posts/2025-03-15-boj-11725.md",
+    "algorithm_codes/_posts/2025-03-16-boj-18352.md",
+    "algorithm_codes/_posts/2025-03-13-boj-1713.md",
     "attatchments/p_20250315205949.png",
     "algorithm_codes/_posts/2025-03-14-boj-2116.md",
-    "algorithm_codes/_posts/2023-09-08-BOJ-1476.md",
-    "algorithm_codes/_posts/2023-09-05-BOJ-2309.md",
-    "algorithm_codes/_posts/2023-09-05-BOJ-1748.md",
-    "algorithm_codes/_posts/2023-09-09-BOJ-1107.md",
-    "algorithm_codes/_posts/2023-09-09-BOJ-3085.md",
-    "algorithm_codes/_posts/2023-09-10-BOJ-14500.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15649.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15650.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15651.md",
-    "algorithm_codes/_posts/2023-09-16-BOJ-15652.md",
-    "algorithm_codes/_posts/2023-09-24-BOJ-14889.md",
-    "algorithm_codes/_posts/2023-10-16-boj-1759.md",
+    "JAVA/jvm/_posts/Untitled 1.md",
+    "JAVA/jvm/_posts/2025-03-09-ch11.md",
+    "algorithm_codes/_posts/2025-03-12-b5212.md",
+    "algorithm_codes/_posts/2025-03-11-boj-10157.md",
+    "algorithm_codes/_posts/2025-03-10-boj-13164.md",
     "algorithm_codes/_posts/2023-10-16-boj-15661.md",
-    "algorithm_codes/_posts/2023-10-17-boj-1248.md",
-    "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
-    "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
-    "algorithm_codes/_posts/2023-11-05-boj-11723.md",
-    "algorithm_codes/_posts/2023-11-12-boj-14391.md",
-    "algorithm_codes/_posts/2023-11-13-BOJ-11726.md",
-    "algorithm_codes/_posts/2023-11-13-BOJ-11727.md",
-    "algorithm_codes/_posts/2024-12-13-boj16935.md",
-    "algorithm_codes/_posts/2024-12-23-b11404.md",
+    "algorithm_codes/_posts/2025-03-08-boj-14247.md",
+    "algorithm_codes/_posts/2025-03-09-boj-18230.md",
+    "algorithm_codes/_posts/2025-03-03-boj_16937.md",
+    "algorithm_codes/_posts/2025-03-04-boj-1182.md",
+    "algorithm_codes/_posts/2025-03-05-boj-2210.md",
+    "algorithm_codes/_posts/2025-03-06-boj-2529.md",
+    "algorithm_codes/_posts/2025-03-07-BOJ-19941.md",
+    "JAVA/jvm/_posts/Untitled.md",
+    "algorithm_codes/_posts/2023-06-30-boj-1822.md",
     "attatchments/Pasted image 20250304170937.png",
+    "_templates/YYYY-MM-DD-algorithm.md",
+    "_templates/YYYY-MM-DD-jvm_00.md",
+    "_templates/YYYY-MM-DD-docker.md",
+    "vue3/_posts/2025-02-19-vue3-pinia-js.md",
+    "vue3/_posts/2025-01-15-vue.md",
+    "JAVA/jvm/_posts/2025-02-02-ch08.md",
+    "JAVA/jvm/_posts/2025-01-19-ch07.md",
+    "attatchments/20240208182039.png",
+    "attatchments/20250115105728.png",
     "vue3/_posts",
     "vue3",
     "attatchments/Pasted image 20250110175438.png",
-    "attatchments/20250115105728.png",
     "attatchments/20250101a77f9360.png",
     "java/jvm/_posts",
     "java/jvm",
@@ -311,7 +326,6 @@
     "attatchments/2023-05-15-spring-4_image_1_f10c5018.png",
     "attatchments/20230522142414.png",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
-    "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
