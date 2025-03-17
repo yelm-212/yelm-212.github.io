@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2025-03-16-boj-18352"
             }
+          },
+          {
+            "id": "e777d8f7aeb90b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,10 +308,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30d6894276ded7d4",
+  "active": "e777d8f7aeb90b57",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-15-boj-11725.md",
     "algorithm_codes/_posts/2025-03-16-boj-18352.md",
+    "algorithm_codes/_posts/Untitled.md",
+    "algorithm_codes/_posts/2025-03-15-boj-11725.md",
     "algorithm_codes/_posts/2025-03-13-boj-1713.md",
     "attatchments/p_20250315205949.png",
     "algorithm_codes/_posts/2025-03-14-boj-2116.md",
@@ -313,7 +338,6 @@
     "vue3/_posts/2025-02-19-vue3-pinia-js.md",
     "vue3/_posts/2025-01-15-vue.md",
     "JAVA/jvm/_posts/2025-02-02-ch08.md",
-    "JAVA/jvm/_posts/2025-01-19-ch07.md",
     "attatchments/20240208182039.png",
     "attatchments/20250115105728.png",
     "vue3/_posts",

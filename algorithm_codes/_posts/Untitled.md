@@ -1,0 +1,149 @@
+---
+title:  "BOJ"
+excerpt: "백준  문제의 풀이입니다."
+
+tags:
+  - [Blog, algorithm, BOJ, Dijkstra]
+
+toc: true
+toc_sticky: true
+ 
+date: 2025-03-17
+last_modified_at: 2025-03-17
+
+---
+
+# 문제 탐색하기
+
+- N개의 도시가 있고, 한 도시에서 출발하여 다른 도시에 도착하는 M개의 버스가 있다. 
+- A번째 도시에서 B번째 도시까지 가는데 드는 **버스 비용을 최소화** 시키려고 한다. 
+- A번째 도시에서 B번째 도시까지 가는데 드는 최소비용을 출력하여라. 
+
+# 코드 설계하기
+
+- 출발 도시 번호, 도착 도시 번호, 버스의 비용이 M개 주어진다.
+- 맨 마지막에 출발지와 도착지 도시 번호가 주어진다.
+
+## 구현 방법
+
+전형적인 다익스트라 알고리즘의 구현 문제이다.
+
+### 다익스트라 알고리즘
+
+- [다익스트라 알고리즘](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%81%AC%EC%8A%A4%ED%8A%B8%EB%9D%BC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98#%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)은 가중치가 있는 그래프에서 **두 정점간 최단 경로**를 찾는 알고리즘이다. 
+	- 변형으로 한 꼭짓점부터 다른 꼭짓점 간 최단 경로를 찾을 수 있다.
+- 음의 가중치가 없는 경우 최적의 해를 보장하며, 우선순위 큐를 사용하면 **O((V + E) log V)**의 시간 복잡도로 동작한다.
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+
+
+1. **입력 받기**
+	- 도시(정점)의 개수 `N`, 버스(간선)의 개수 `M`을 입력 받는다.
+	- 인접 리스트(`ArrayList<Node>[]`)를 생성하여 버스 노선 정보를 저장한다.
+	- 시작점과 도착점을 입력 받는다.
+2. ** 초기화**
+	- **거리 배열(`distance`)**: 모든 정점까지의 거리를 `INF`로 설정.
+	- **우선순위 큐(PriorityQueue)**: 시작점에서부터 탐색할 정점들을 관리.
+	- **시작점 거리 0으로 설정** 후 큐에 삽입.
+3. ** 다익스트라 실행**
+	- 우선순위 큐에서 **현재 최단 거리를 가진 정점(`cur`)을 꺼낸다**.
+	- 인접한 정점(`next`)까지의 비용을 계산하여 **더 작은 값이면 갱신 후 큐에 추가**.
+	- 큐가 빌 때까지 반복.
+4. 결과 
+	- `distance[end]`를 출력.
+
+
+## 시간 복잡도
+
+- 도시의 개수 N(1 ≤ N ≤ 1,000)
+- 버스의 개수 M(1 ≤ M ≤ 100,000)
+- **노드 추가 및 갱신**: `O(E log V)`
+- **모든 노드를 최소 힙에서 꺼내는 연산**: `O(V log V)`
+- **총 시간 복잡도**: **O((V + E) log V)**
+- 여기서 `V ≤ 1,000`, `E ≤ 100,000` 이므로 **최대 약 2,000,000 log 1,000 ≈ 20,000,000 연산**으로 충분히 해결 가능하다.
+
+# 정답 코드 (Java)
+
+```java
+import java.io.*;  
+import java.util.*;  
+  
+public class Main {  
+    private static int N, M, start, end;  
+    private static int[] distance;  
+    private static ArrayList<Node>[] nodes;  
+    private final static int INF = Integer.MAX_VALUE;  
+  
+    public static void main(String args[]) throws IOException {  
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
+        N = Integer.parseInt(br.readLine());  
+        M = Integer.parseInt(br.readLine());  
+  
+        nodes = new ArrayList[N + 1];  
+  
+        for (int i = 0; i <= N; i++) {  
+            nodes[i] = new ArrayList<>();  
+        }  
+  
+        for(int i = 0; i < M ; i++){  
+            StringTokenizer st = new StringTokenizer(br.readLine());  
+            int s = Integer.parseInt(st.nextToken());  
+            int e = Integer.parseInt(st.nextToken());  
+            int m = Integer.parseInt(st.nextToken());  
+  
+            nodes[s].add(new Node(e, m));  
+        }  
+  
+        // 다익스트라 알고리즘 초기 거리 값 INF로 설정  
+        distance = new int[N + 1];  
+        Arrays.fill(distance, INF);  
+  
+        StringTokenizer st = new StringTokenizer(br.readLine());  
+        start = Integer.parseInt(st.nextToken());  
+        end = Integer.parseInt(st.nextToken());  
+  
+        Dijkstra(start);  
+  
+        System.out.println(distance[end]);    }  
+  
+    private static void Dijkstra(int start) {  
+        Queue<Node> q = new PriorityQueue<>(); // 우선순위 큐  
+        q.add(new Node(start, 0));  
+        distance[start] = 0;  
+  
+        while (!q.isEmpty()){  
+            Node node = q.poll();  
+            int cur = node.cur;  
+            int curCost = node.cost;  
+  
+            // 현재 정점까지 오는 비용이 다른 루트에서 방문하는 비용보다 비싸면 넘어감  
+            // 최적화  
+            if (curCost  > distance[cur]) continue;  
+  
+            for (Node next : nodes[cur]) {  
+                // 다음 정점 최소 비용 > 현재 정점에서 다음 정점으로 가는 비용  
+                // 이면 다음 정점 최소 비용 업데이트, 큐에 추가  
+                if(distance[next.cur] > next.cost + curCost){  
+                    distance[next.cur] = next.cost + curCost;  
+                    q.add(new Node(next.cur, next.cost + curCost));  
+                }  
+            }  
+        }  
+  
+    }  
+    private static class Node implements Comparable<Node> {  
+        int cur, cost;  
+  
+        public Node(int cur, int cost){  
+            this.cur = cur;  
+            this.cost = cost;  
+        }  
+  
+        @Override  
+        public int compareTo(Node o){  
+            return this.cost - o.cost;  
+        }  
+    }  
+}
+```
+
