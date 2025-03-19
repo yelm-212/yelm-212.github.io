@@ -1,0 +1,72 @@
+---
+title:  "BOJ"
+excerpt: "백준  문제의 풀이입니다."
+
+tags:
+  - [Blog, algorithm, BOJ]
+
+toc: true
+toc_sticky: true
+ 
+date: 2025-03-19
+last_modified_at: 2025-03-19
+
+---
+
+# 문제 탐색하기
+
+- 등수를 A등으로 예상하였는데 실제 등수가 B등이 될 경우, 이 사람의 불만도는 **A와 B의 차이 절댓값(|A - B|)로 수치화**할 수 있다.
+- 불만도의 합을 최소로 한다.
+
+# 코드 설계하기
+
+한 사람의 불만도를 정렬한 뒤에 계산하게 되면, 역산해 최적해를 구하지 않으며 항상 최대라는 보장이 가능하다. => Greedy
+
+## 구현 방법
+
+- 예상 등수에 대한 배열을 입력받은 후, 이 배열에 대한 정렬을 수행한다.
+	- 현재 값과 (`arr[i]`) 기대 등수( idx + 1 ) 와의 값 차이를 계산해 더해준다.
+- 예상 등수가 500,000 이므로 정답의 최댓값은 약 250,000,000,000이다. 따라서 오버플로우 방지를 위해 `long`으로 변수를 선언한다.
+
+## 시간 복잡도
+
+- 정렬을 수행하므로 `O(n log n)`
+	- 500,000×log2​(500,000)≈500,000×19≈9,500,000 번의 비교가 일어나므로, 충분히 시간 내에 연산이 가능하다.
+
+# 정답 코드 (Java)
+
+```java
+import java.io.*;  
+import java.util.*;  
+  
+public class b2012 {  
+    private static int N;  
+    private static long answer;  
+    private static int[] arr;  
+  
+    public static void main(String[] args) throws IOException {  
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));  
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));  
+        N = Integer.parseInt(br.readLine());  
+        arr = new int[N];  
+        answer = 0L;  
+  
+        for (int i = 0; i < N; i++) {  
+            arr[i] = Integer.parseInt(br.readLine());  
+        }  
+  
+        Arrays.sort(arr);  
+        // 1 1 4 4 4  
+  
+        for (int i = 0; i < N; i++) {  
+            answer += Math.abs(arr[i] - (i + 1));  
+        }  
+  
+        bw.write(answer + "\n");  
+        bw.flush();  
+        br.close();  
+        bw.close();  
+    }  
+}
+```
+
