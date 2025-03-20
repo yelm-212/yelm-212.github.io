@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "f860b95be83a525a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/_posts/2025-03-20-boj-2659.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-20-boj-2659"
+            }
+          },
+          {
             "id": "112b71f35090e126",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-19-boj-2012.md",
+                "file": "algorithm_codes/_posts/2025-03-20-boj-2659.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-19-boj-2012"
+              "title": "Backlinks for 2025-03-20-boj-2659"
             }
           },
           {
@@ -187,12 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-19-boj-2012.md",
+                "file": "algorithm_codes/_posts/2025-03-20-boj-2659.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-03-19-boj-2012"
+              "title": "Outgoing links from 2025-03-20-boj-2659"
             }
           },
           {
@@ -216,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-19-boj-2012.md",
+                "file": "algorithm_codes/_posts/2025-03-20-boj-2659.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-19-boj-2012"
+              "title": "Outline of 2025-03-20-boj-2659"
             }
           },
           {
@@ -295,10 +319,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eea6be69304260c7",
+  "active": "f860b95be83a525a",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "algorithm_codes/_posts/2025-03-19-boj-2012.md",
+    "algorithm_codes/_posts/2025-03-20-boj-2659.md",
+    "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "java/jvm/_posts/2025-03-09-ch11.md",
     "algorithm_codes/_posts/2025-03-17-boj-1916.md",
     "algorithm_codes/_posts/2025-03-16-boj-18352.md",
@@ -323,7 +348,6 @@
     "algorithm_codes/_posts/2023-10-25-BOJ-10819.md",
     "algorithm_codes/_posts/2023-10-25-BOJ-10974.md",
     "algorithm_codes/_posts/2023-11-05-boj-11723.md",
-    "algorithm_codes/_posts/2023-11-12-boj-14391.md",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
     "vue3",
