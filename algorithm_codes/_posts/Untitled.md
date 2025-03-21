@@ -1,0 +1,155 @@
+---
+title:  "BOJ 2823 유턴 싫어 (Java)"
+excerpt: "백준 2823 문제의 풀이입니다."
+
+tags:
+  - [Blog, algorithm, BOJ, 2823]
+
+toc: true
+toc_sticky: true
+ 
+date: 2025-03-21
+last_modified_at: 2025-03-21
+
+---
+
+# 문제 탐색하기
+
+이 문제는 **그래프 탐색**을 통해 특정 조건을 만족하는지를 판별하는 문제이다. 주어진 **격자 지도에서 유턴이 가능한지** 여부를 판별해야 하며, 이를 위해 각 셀에서 **4방향 탐색**을 수행한다.
+
+# 코드 설계하기
+
+## 구현 방법
+
+1. **입력 받기**
+    - 지도 크기 **R, C**를 입력받고, 2차원 배열 `map`을 생성하여 저장한다.
+    - 장애물(`'X'`)과 길(`'.'`)을 포함한 지도를 입력받는다.
+2. **격자 탐색**
+    - 모든 셀 `(i, j)`을 순회하며 길(`'.'`)인 경우에만 탐색을 진행한다.
+    - 각 칸에서 **4방향(상, 하, 좌, 우) 탐색**을 수행하여 **막힌 방향의 개수**를 센다.
+    - 4방향 중 **3방향 이상이 막혀 있다면 유턴이 불가능**하므로 즉시 종료하고 `1`을 출력한다.
+3. **결과 출력**
+    - 모든 칸을 탐색한 후에도 유턴 불가능한 곳이 없다면 `0`을 출력한다.
+
+## 시간 복잡도
+
+- 격자 크기는 최대 **10 × 10**이므로 **모든 칸을 탐색(O(R×C))**해도 최대 100회 연산으로 충분하다.
+- 각 칸마다 **4방향을 확인(O(4))**하므로, 전체 시간 복잡도는 **O(R × C)**이다.
+- 최악의 경우에도 연산량이 충분히 작으므로 **완전 탐색**이 가능하다.
+
+# 유턴 판정 예시
+
+다음과 같이 지도(`map`)가 주어졌을 때, 유턴이 불가능한 경우를 찾는다.
+
+### 예제 1
+
+#### 입력
+
+```bash
+4 3
+XXX
+X.X
+X.X
+XXX
+```
+
+#### 탐색 과정
+
+- (1,1)에서 4방향 탐색
+- 위(X), 왼쪽(X), 오른쪽(X) → 막힌 방향 3개 → 유턴 불가능
+
+#### 출력
+
+```bash
+1
+```
+
+# 정답 코드 (Java)
+
+```java
+import java.io.*;
+import java.util.*;
+
+public class b2823 {
+    private static char[][] map;
+    private static int[] dx = {-1, 0, 1, 0};
+    private static int[] dy = {0, -1, 0, 1};
+    private static int R, C;
+    
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        R = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+
+        map = new char[R][C];
+        for (int i = 0; i < R; i++) {
+            String line = br.readLine();
+            for (int j = 0; j < C; j++) {
+                map[i][j] = line.charAt(j);
+            }
+        }
+        
+        for (int i = 0; i < R;
+```
+
+```java
+import java.io.*;
+import java.util.*;
+
+public class b2823 {
+    private static char[][] map;
+    private static int[] dx = {-1, 0, 1, 0};
+    private static int[] dy = {0, -1, 0, 1};
+    private static int R, C, answer;
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        R = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+
+        map = new char[R][C];
+        for (int i = 0; i < R; i++) {
+            String line = br.readLine();
+            for (int j = 0; j < C; j++) {
+                map[i][j] = line.charAt(j);
+            }
+        }
+        
+        // 모든 그래프 탐색하며 확인
+        for (int i = 0; i < R; i++) {
+            for (int j = 0; j < C; j++) {
+                if (map[i][j] == 'X') continue;
+                int cnt = 0;
+                for (int k = 0; k < 4; k++) {
+                    int x = i + dx[k];
+                    int y = j + dy[k];
+                    if (isBlocked(x, y)) {
+                        cnt++;
+                    }
+                }
+                
+                if (cnt >= 3) {
+                    bw.write("1\n");
+                    bw.flush();
+                    return;
+                }
+                
+            }
+        }
+        
+        bw.write("0\n");
+        bw.flush();
+        bw.close();
+        br.close();
+    }
+
+    private static boolean isBlocked(int x, int y) {
+        return x < 0 || x >= R || y < 0 || y >= C || map[x][y] == 'X';
+    }
+}
+
+```
+
