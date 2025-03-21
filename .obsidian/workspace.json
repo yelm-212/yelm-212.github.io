@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-21-boj-2823.md",
+                "file": "algorithm_codes/_posts/2025-03-21-boj-2659.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-21-boj-2823"
+              "title": "2025-03-21-boj-2659"
             }
           }
         ],
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-21-boj-2823.md",
+                "file": "algorithm_codes/_posts/2025-03-21-boj-2659.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-03-21-boj-2823"
+              "title": "Backlinks for 2025-03-21-boj-2659"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-21-boj-2823.md",
+                "file": "algorithm_codes/_posts/2025-03-21-boj-2659.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-03-21-boj-2823"
+              "title": "Outgoing links from 2025-03-21-boj-2659"
             }
           },
           {
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm_codes/_posts/2025-03-21-boj-2823.md",
+                "file": "algorithm_codes/_posts/2025-03-21-boj-2659.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-21-boj-2823"
+              "title": "Outline of 2025-03-21-boj-2659"
             }
           },
           {
@@ -274,7 +274,7 @@
   "active": "32230ceb8c46de11",
   "lastOpenFiles": [
     "algorithm_codes/_posts/2025-03-20-boj-2659.md",
-    "algorithm_codes/_posts/2025-03-21-boj-2823.md",
+    "algorithm_codes/_posts/2025-03-21-boj-2659.md",
     "algorithm_codes/_posts/2025-03-17-boj-1916.md",
     "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "algorithm_codes/_posts/2025-03-19-boj-2012.md",
