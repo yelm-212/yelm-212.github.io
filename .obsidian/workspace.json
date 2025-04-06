@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-04-07-b10422.md",
+                "file": "algorithm_codes/_posts/2025-04-06-b10422.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-07-b10422"
+              "title": "2025-04-06-b10422"
             }
           }
         ]
@@ -248,13 +248,14 @@
   },
   "active": "934d23de9826f9c4",
   "lastOpenFiles": [
-    "java/spring/_posts/2025-03-17-spring-r2dbc.md",
-    "algorithm_codes/_posts/2025-04-07-b10422.md",
-    "algorithm_codes/_posts/2025-03-22-boj-13901.md",
-    "java/jvm/_posts/2025-03-09-ch11.md",
-    "java/jvm/_posts/2025-02-02-ch08.md",
+    "Untitled.canvas",
     "java/jvm/_posts/Untitled 12.md",
     "java/jvm/_posts/Untitled 13.md",
+    "algorithm_codes/_posts/2025-03-22-boj-13901.md",
+    "algorithm_codes/_posts/2025-04-06-b10422.md",
+    "java/spring/_posts/2025-03-17-spring-r2dbc.md",
+    "java/jvm/_posts/2025-03-09-ch11.md",
+    "java/jvm/_posts/2025-02-02-ch08.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
     "algorithm_codes/_posts/2023-09-09-BOJ-3085.md",
     "algorithm_codes/_posts/2025-03-20-boj-2659.md",
@@ -273,7 +274,6 @@
     "algorithm_codes/_posts/2025-03-17-boj-1916.md",
     "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "algorithm_codes/_posts/2025-03-19-boj-2012.md",
-    "algorithm_codes/_posts/2023-08-16-programmers-92665.md",
     "attatchments/p_20250315205949.png",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
@@ -292,7 +292,6 @@
     "sqld",
     "java/ds_algorithm/_posts",
     "java/ds_algorithm",
-    "Untitled.canvas",
     "tempCodeRunnerFile.java",
     "computer_science"
   ]
