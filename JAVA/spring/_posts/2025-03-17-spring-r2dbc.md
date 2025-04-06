@@ -8,8 +8,8 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-05-17
-last_modified_at: 2023-05-17
+date: 2025-03-17
+last_modified_at: 2025-03-17
 ---
 
 # Spring WebFlux 환경에서 JDBC를 쓰지 않고 R2DBC를 사용하는 이유

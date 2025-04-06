@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/spring/_posts/2025-05-17-spring-r2dbc.md",
+                "file": "java/spring/_posts/2025-03-17-spring-r2dbc.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-17-spring-r2dbc"
+              "title": "2025-03-17-spring-r2dbc"
             }
           }
         ]
@@ -254,7 +254,7 @@
     "java/jvm/_posts/2025-02-02-ch08.md",
     "java/jvm/_posts/Untitled 12.md",
     "java/jvm/_posts/Untitled 13.md",
-    "java/spring/_posts/2025-05-17-spring-r2dbc.md",
+    "java/spring/_posts/2025-03-17-spring-r2dbc.md",
     "java/spring/_posts/2023-05-17-spring-5.md",
     "algorithm_codes/_posts/2023-09-09-BOJ-3085.md",
     "algorithm_codes/_posts/2025-03-20-boj-2659.md",
