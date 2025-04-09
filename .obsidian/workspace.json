@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-04-10-b8895.md",
+                "file": "algorithm_codes/_posts/2025-04-10-boj-8895.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-10-b8895"
+              "title": "2025-04-10-boj-8895"
             }
           }
         ]
@@ -249,7 +249,7 @@
   "active": "654059ddb66a2530",
   "lastOpenFiles": [
     "elasticsearch/_posts/2025-04-10-logstash-1.md",
-    "algorithm_codes/_posts/2025-04-10-b8895.md",
+    "algorithm_codes/_posts/2025-04-10-boj-8895.md",
     "elasticsearch/_posts",
     "elasticsearch",
     "algorithm_codes/_posts/2025-03-18-boj-4803.md",
