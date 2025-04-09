@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
+                "file": "algorithm_codes/_posts/2025-04-08-boj-2342.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-10-boj-8895"
+              "title": "2025-04-08-boj-2342"
+            }
+          },
+          {
+            "id": "f63ef1b7d5a7205b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "elk/_posts/2025-04-10-logstash-1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-10-logstash-1"
             }
           }
         ]
@@ -246,19 +270,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "565db31eb4ba4992",
+  "active": "654059ddb66a2530",
   "lastOpenFiles": [
+    "elk/_posts/2025-04-10-logstash-1.md",
+    "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
+    "algorithm_codes/_posts/Untitled.md",
+    "algorithm_codes/_posts/2025-04-08-boj-2342.md",
     "algorithm_codes/boj/_posts",
     "algorithm_codes/boj",
-    "elasticsearch/_posts/2025-04-10-logstash-1.md",
-    "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
-    "elasticsearch/_posts",
-    "elasticsearch",
+    "elk/_posts",
+    "elk",
     "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "algorithm_codes/_posts/2025-04-08-b1562.md",
     "algorithm_codes/_posts/2025-04-06-boj-10422.md",
     "algorithm_codes/_posts/2025-03-22-boj-13901.md",
-    "algorithm_codes/_posts/2025-04-08-boj-2342.md",
     "algorithm_codes/_posts/2025-04-06-b10422.md",
     "Untitled.canvas",
     "java/jvm/_posts/Untitled 12.md",
@@ -293,7 +318,6 @@
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "sqld/_posts",
-    "sqld",
-    "java/ds_algorithm/_posts"
+    "sqld"
   ]
 }
