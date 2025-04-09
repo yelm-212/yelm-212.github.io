@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/_posts/2025-04-10-boj-8895.md",
+                "file": "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -246,10 +246,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "654059ddb66a2530",
+  "active": "565db31eb4ba4992",
   "lastOpenFiles": [
+    "algorithm_codes/boj/_posts",
+    "algorithm_codes/boj",
     "elasticsearch/_posts/2025-04-10-logstash-1.md",
-    "algorithm_codes/_posts/2025-04-10-boj-8895.md",
+    "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
     "elasticsearch/_posts",
     "elasticsearch",
     "algorithm_codes/_posts/2025-03-18-boj-4803.md",
@@ -276,7 +278,6 @@
     "algorithm_codes/_posts/2025-03-12-b5212.md",
     "algorithm_codes/_posts/2025-03-11-boj-10157.md",
     "algorithm_codes/_posts/2025-03-10-boj-13164.md",
-    "algorithm_codes/_posts/2025-03-14-boj-2116.md",
     "attatchments/p_20250315205949.png",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
@@ -293,7 +294,6 @@
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
     "sqld/_posts",
     "sqld",
-    "java/ds_algorithm/_posts",
-    "java/ds_algorithm"
+    "java/ds_algorithm/_posts"
   ]
 }
