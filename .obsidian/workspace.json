@@ -248,8 +248,11 @@
   },
   "active": "654059ddb66a2530",
   "lastOpenFiles": [
-    "algorithm_codes/_posts/2025-03-18-boj-4803.md",
+    "elasticsearch/_posts/2025-04-10-logstash-1.md",
     "algorithm_codes/_posts/2025-04-10-b8895.md",
+    "elasticsearch/_posts",
+    "elasticsearch",
+    "algorithm_codes/_posts/2025-03-18-boj-4803.md",
     "algorithm_codes/_posts/2025-04-08-b1562.md",
     "algorithm_codes/_posts/2025-04-06-boj-10422.md",
     "algorithm_codes/_posts/2025-03-22-boj-13901.md",
@@ -274,7 +277,6 @@
     "algorithm_codes/_posts/2025-03-11-boj-10157.md",
     "algorithm_codes/_posts/2025-03-10-boj-13164.md",
     "algorithm_codes/_posts/2025-03-14-boj-2116.md",
-    "algorithm_codes/_posts/2025-03-15-boj-11725.md",
     "attatchments/p_20250315205949.png",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
@@ -292,8 +294,6 @@
     "sqld/_posts",
     "sqld",
     "java/ds_algorithm/_posts",
-    "java/ds_algorithm",
-    "tempCodeRunnerFile.java",
-    "computer_science"
+    "java/ds_algorithm"
   ]
 }
