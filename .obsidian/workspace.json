@@ -55,7 +55,8 @@
               "title": "2025-04-10-logstash-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,12 +271,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "654059ddb66a2530",
+  "active": "f63ef1b7d5a7205b",
   "lastOpenFiles": [
-    "elk/_posts/2025-04-10-logstash-1.md",
     "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
-    "algorithm_codes/_posts/Untitled.md",
+    "elk/_posts/2025-04-10-logstash-1.md",
     "algorithm_codes/_posts/2025-04-08-boj-2342.md",
+    "algorithm_codes/_posts/Untitled.md",
     "algorithm_codes/boj/_posts",
     "algorithm_codes/boj",
     "elk/_posts",
