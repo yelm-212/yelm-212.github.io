@@ -194,6 +194,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+future: true  # Allow future dated posts
 
 
 # Markdown Processing
@@ -275,12 +276,30 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  algorithm:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _algorithm
+  - scope:
+      path: "algorithm_codes/boj/_posts"
+      type: algorithm
     values:
       layout: single
       author_profile: true
