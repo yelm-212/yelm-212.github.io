@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
+                "file": "algorithm_codes/boj/_posts/2025-04-10-b1477.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-10-boj-8895"
+              "title": "2025-04-10-b1477"
             }
           }
         ],
@@ -297,9 +297,9 @@
   },
   "active": "3ab85310984012ea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
     "algorithm_codes/boj/_posts/2025-04-10-b1477.md",
+    "conflict-files-obsidian-git.md",
     "elk/_posts/2025-04-10-logstash-1.md",
     "algorithm_codes/_posts/2025-04-08-boj-2342.md",
     "algorithm_codes/boj/_posts",
