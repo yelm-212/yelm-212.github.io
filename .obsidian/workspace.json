@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2025-04-10-b1477"
             }
+          },
+          {
+            "id": "3ab85310984012ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-10-boj-8895"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,12 +295,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f63ef1b7d5a7205b",
+  "active": "3ab85310984012ea",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
+    "algorithm_codes/boj/_posts/2025-04-10-b1477.md",
     "elk/_posts/2025-04-10-logstash-1.md",
     "algorithm_codes/_posts/2025-04-08-boj-2342.md",
-    "algorithm_codes/boj/_posts/2025-04-10-b1477.md",
     "algorithm_codes/boj/_posts",
     "algorithm_codes/boj",
     "elk/_posts",
@@ -303,7 +328,6 @@
     "algorithm_codes/_posts/2025-03-13-boj-1713.md",
     "algorithm_codes/_posts/2025-03-12-b5212.md",
     "algorithm_codes/_posts/2025-03-11-boj-10157.md",
-    "algorithm_codes/_posts/2025-03-10-boj-13164.md",
     "attatchments/p_20250315205949.png",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
