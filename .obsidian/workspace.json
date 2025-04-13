@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm_codes/boj/_posts/2025-04-13-b12015.md",
+                "file": "algorithm_codes/boj/_posts/2025-04-13-b1561.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-13-b12015"
+              "title": "2025-04-13-b1561"
             }
           }
         ],
@@ -297,8 +297,10 @@
   },
   "active": "5c12675aee818676",
   "lastOpenFiles": [
-    "algorithm_codes/boj/_posts/2025-04-12-b2473.md",
     "algorithm_codes/boj/_posts/2025-04-13-b12015.md",
+    "algorithm_codes/boj/_posts/2025-04-13-b1561.md",
+    "algorithm_codes/boj/_posts/2025-04-13-b1561'",
+    "algorithm_codes/boj/_posts/2025-04-12-b2473.md",
     "algorithm_codes/boj/_posts/2025-04-10-boj-8895.md",
     "java/jvm/_posts/2025-04-12-ch13.md",
     "java/jvm/_posts/2025-04-12-ch12.md",
@@ -327,7 +329,6 @@
     "java/spring/_posts/2023-05-17-spring-5.md",
     "algorithm_codes/_posts/2023-09-09-BOJ-3085.md",
     "algorithm_codes/_posts/2025-03-20-boj-2659.md",
-    "algorithm_codes/_posts/2025-03-21-boj-2823.md",
     "attatchments/p_20250315205949.png",
     "attatchments/Pasted image 20250304170937.png",
     "vue3/_posts",
@@ -342,7 +343,6 @@
     "attatchments/20230522142414.png",
     "attatchments/0192AABB-CA28-49D8-B403-9DE8DD90C63D.png",
     "attatchments/51E73FF8-0312-4D41-8316-8E3E565D3772_1_201_a.jpeg",
-    "sqld/_posts",
-    "sqld"
+    "sqld/_posts"
   ]
 }
