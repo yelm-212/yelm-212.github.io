@@ -183,19 +183,19 @@ last_modified_at: 2025-04-15
    - 클래스의 인스턴스를 표현
    - 예시: User 클래스의 인스턴스 user1(id="user123", name="홍길동")과 Account 클래스의 인스턴스 account1(balance=10000) 간의 관계
 
-![](https://www.ibm.com/docs/ko/SS4JE2_7.5.5/com.ibm.xtools.modeler.doc/images/sm_objectdiag1.gif)
+    ![](https://www.ibm.com/docs/ko/SS4JE2_7.5.5/com.ibm.xtools.modeler.doc/images/sm_objectdiag1.gif)
 
 3. **컴포넌트 다이어그램**
    - 시스템의 컴포넌트 구조를 표현
    - 예시: Web UI → Business Logic → Database 컴포넌트 간의 의존 관계
 
-![](https://velog.velcdn.com/images/gun_123/post/3a15b362-4add-42ea-a92c-0474040a647a/image.png)
+    ![](https://velog.velcdn.com/images/gun_123/post/3a15b362-4add-42ea-a92c-0474040a647a/image.png)
 
 4. **배치 다이어그램**
    - 물리적 아키텍처를 표현
    - 예시: Web Server(Web App)와 Database Server(Database) 간의 TCP/IP 연결
 
-![](https://www.ibm.com/docs/ko/SS8PJ7_9.6.1/com.ibm.xtools.modeler.doc/images/cdepd.gif)
+    ![](https://www.ibm.com/docs/ko/SS8PJ7_9.6.1/com.ibm.xtools.modeler.doc/images/cdepd.gif)
 
 5. **복합체 구조 다이어그램**
    - 클래스 내부 구조를 표현
@@ -218,7 +218,7 @@ last_modified_at: 2025-04-15
    - 패키지 간의 관계를 표현
    - 예시: UI 패키지(UserController, UserView) → Domain 패키지(UserService, UserRepository) → Infrastructure 패키지(Database, Cache) 간의 의존 관계
 
-![](https://www.ibm.com/docs/ko/SS4JE2_7.5.5/com.ibm.xtools.modeler.doc/images/package.gif)
+    ![](https://www.ibm.com/docs/ko/SS4JE2_7.5.5/com.ibm.xtools.modeler.doc/images/package.gif)
 
 ## 📌 동적 다이어그램
 
@@ -229,13 +229,48 @@ last_modified_at: 2025-04-15
 - 유스케이스, 시퀀스, 커뮤니케이션, 상태, 활동, 타이밍
 
   
-
 ## 📌 Cron 구성
 
 **분시일월요일 명령어**
 
 - 일정한 주기로 명령어 실행하기 위한 스케줄러 표현
-  
+- 각 필드는 공백으로 구분되며, 왼쪽부터 순서대로:
+  - 분 (0-59)
+  - 시 (0-23)
+  - 일 (1-31)
+  - 월 (1-12)
+  - 요일 (0-6, 0=일요일)
+  - 실행할 명령어
+
+```bash
+# 매분 실행
+* * * * * /script/every-minute.sh
+
+# 매시 0분에 실행
+0 * * * * /script/hourly.sh
+
+# 매일 오전 3시에 실행
+0 3 * * * /script/daily-backup.sh
+
+# 매주 일요일 오전 2시에 실행
+0 2 * * 0 /script/weekly-cleanup.sh
+
+# 매월 1일 오전 4시에 실행
+0 4 1 * * /script/monthly-report.sh
+
+# 매년 1월 1일 자정에 실행
+0 0 1 1 * /script/happy-new-year.sh
+
+# 평일(월-금) 오전 9시에 실행
+0 9 * * 1-5 /script/workday-start.sh
+
+# 10분마다 실행
+*/10 * * * * /script/every-10min.sh
+
+# 업무시간(9-17시) 동안 매시간 실행
+0 9-17 * * * /script/business-hours.sh
+```
+
 
 ## 📌 EAI 유형
 
