@@ -139,7 +139,7 @@ last_modified_at: 2025-04-15
 
   
 
-## 📌 아키텍처 4+1 관점
+## 아키텍처 4+1 관점
 
 **논구프배유**
 
@@ -358,7 +358,7 @@ last_modified_at: 2025-04-15
 
   
 
-## 📌 ISO/IEC 9126
+## ISO/IEC 9126
 
 소프트웨어 품질 특성
 
@@ -373,18 +373,15 @@ last_modified_at: 2025-04-15
 
   
 
-## 📌 ISO/IEC 14598
+## ISO/IEC 14598
 
 소프트웨어 품질 평가 기준
 
 **반재공객**
 
 - 반복성
-
 - 재현성
-
 - 공정성
-
 - 객관성
 
 ## DAC vs MAC 비교
@@ -485,7 +482,7 @@ UML에서 클래스 간의 관계를 표현하는 방법들
        class Bird {
            +fly()
        }
-       Flyable <|.. Bird
+       Flyable <|.. Bird : implements
    ```
 
 ### 📌 UML 관계 표기법 외우는 팁
