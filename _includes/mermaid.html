@@ -2,15 +2,11 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     mermaid.initialize({
-      startOnLoad: true,
+      startOnLoad: false,
       theme: 'default',
-      securityLevel: 'loose',
-      flowchart: {
-        useMaxWidth: false,
-        htmlLabels: true
-      }
+      securityLevel: 'loose'
     });
-    
+
     // Find all code blocks with class mermaid
     var mermaidElements = document.querySelectorAll('code.language-mermaid');
     mermaidElements.forEach(function(element) {
@@ -20,14 +16,15 @@
         // Create a new div for mermaid
         var mermaidDiv = document.createElement('div');
         mermaidDiv.className = 'mermaid';
-        mermaidDiv.textContent = content;
+        mermaidDiv.innerHTML = content;
         // Replace the code block with the new div
         element.parentNode.replaceChild(mermaidDiv, element);
-        // Render the diagram
-        mermaid.init(undefined, mermaidDiv);
       } catch (e) {
-        console.error('Mermaid rendering error:', e);
+        console.error('Mermaid initialization error:', e);
       }
     });
+
+    // Render all mermaid diagrams
+    mermaid.init(undefined, '.mermaid');
   });
 </script> 
