@@ -477,7 +477,7 @@ UML에서 클래스 간의 관계를 표현하는 방법들
    classDiagram
        class Flyable {
            <<interface>>
-           +fly()
+           +fly()*
        }
        class Bird {
            +fly()
