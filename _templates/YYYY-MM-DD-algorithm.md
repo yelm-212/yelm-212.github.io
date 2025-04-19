@@ -32,7 +32,9 @@ last_modified_at: {{date}}
 
 # 정답 코드 (Java)
 
+{% raw %}
 ```java
 
 ```
+{% endraw %}
 
