@@ -24,22 +24,25 @@ last_modified_at: 2025-01-07
 </div>
 <div style="flex: 1 !important; min-width: 0 !important;">
 <h3>Contacts</h3>
-<p> <a href="mailto:21yrshin@proton.me">E-Mail</a></p>
-<p> <a href="https://github.com/yelm-212">GitHub</a></p>
-<p> <a href="https://yelm-212.github.io/">GitHub blog</a></p>
+<ul>
+<li> <a href="mailto:21yrshin@proton.me">Email</a></li>
+<li> <a href="https://github.com/yelm-212">GitHub</a></li>
+<li> <a href="lhttps://www.linkedin.com/in/yerim-shin-8bbb75265/">LinkedIn</a></li>
+</ul>
+
 </div>
 </div>
 
----
+<br>
 
 # <span style="color:#0070c0">Skills</span>
 
-## **Back-End**
-- Java, Python
-- Spring Boot, Flask
+## Back-End
+- Java
+- Spring Boot
 
 ## Infra
-- MySQL, MongoDB, PostgreSQL
+- MongoDB, PostgreSQL
 - AWS
 - Jenkins
 - Docker
@@ -50,7 +53,7 @@ last_modified_at: 2025-01-07
 - BitBucket, Slack, Confluence, Jira
 - GitHub, GitLab
 
----
+<br>
 
 # <span style="color:#0070c0">Experiences</span>
 
@@ -135,11 +138,11 @@ last_modified_at: 2025-01-07
 - Python, Flask
 - MongoDB
 - Microservice Architecture
-- AWS (EC2, SQS, ECS, Lambda, VPC, CloudWatch …)
+- AWS (EC2, SQS, ECS, Lambda, CloudWatch)
 - Jenkins
 - Bitbucket
 
----
+<br>
 
 # <span style="color:#0070c0">Projects</span>
 
@@ -173,42 +176,14 @@ Spring Security + JWT + Blacklist Logout을 구현한 Demo Project
 - GitHub
 - Docker
 
-## 모바일이앤엠애드(인턴) 프로젝트 | 2023-11 ~ 2024-01
-
-자사 홈페이지를 관리하는 웹 어플리케이션
-
-### 기능 구현 및 역할
-- **Google Analytics Data API를 사용한 웹사이트 통계 기능 구현**
-  - 기간 선택해 접속 현황(전체 페이지뷰, 방문자 수) 조회
-  - 기간 선택해 유입 경로 분석(유입 URL, 유입 검색어, 유입 검색 엔진) 조회
-  - chart.js 적용해 그래프 뷰 페이지 구현
-
-- **팝업 및 게시판의 이미지 처리**
-  - File I/O 방식을 통해 서버에 직접 저장
-
-- **REST API 구현**
-  - 회사 홈페이지의 게시판 및 팝업 CRUD API
-    - JPA, QueryDSL 적용
-    - 기존 퍼블리싱된 회사 홈페이지에 구현 API 적용
-    - 게시판 조회수 기능
-
-- **관리자 페이지 화면 구성 및 API 구현**
-  - 관리자(유저) 로그인 토큰 발급
-
-- **Spring Security & JWT**
-- **DB 스키마 설계 및 API 문서화**
-
-### 기술 스택
-- Java, Spring Boot, HTML&CSS&JavaScript
-- MySQL, MariaDB
-- Gogs, GitHub
-
----
+<br>
 
 # Educations
 
 - **경북대학교 졸업** \| 2019-02 ~ 2023-08
 - **컴퓨터학부 복수전공** \| 산림과학.조경학부 임산공학전공
+
+<br>
 
 # Certifications
 
