@@ -7,8 +7,7 @@ main:
   - title: "Tags"
     url: /tags/
   # - title: "About"
-  - title: "About"
-    url: /about/
+    # url: /about/
     # url: https://turquoise-weaver-571.notion.site/Backend-Engineer-Yerim-Shin-57f78346994c4f09bef81ac58d6c4490
   # - title: "Sample Posts"
   #   url: /year-archive/
