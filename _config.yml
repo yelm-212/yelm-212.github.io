@@ -82,8 +82,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "yelm_212"
+#twitter:
+#  username               : &twitter "yelm_212"
 facebook:
   username               :
   app_id                 :
